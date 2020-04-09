@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Homework 3 </title>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <!-- include d3.js modules -->
+  <script src="https://d3js.org/d3-array.v2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+  <script src="tree.js"></script>
+  <script src="count.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+
+<body>
+  <!-- Page header -->
+  <!-- https://bulma.io/documentation/layout/hero/ -->
+  <section class="hero is-dark is-bold">
+    <div class="hero-body">
+      <div class="container">
+        <!-- TODO: Change title -->
+        <h1 class="title">Homework 3 </h1>
+        <!-- TODO: Change subtitle -->
+        <h2 class="subtitle">Geospatial data visualization</h2>
+      </div>
+    </div>
+  </section>
+  <!-- End page header -->
+
+  <!-- Page navigation -->
+  <!-- https://bulma.io/documentation/components/navbar/ -->
+  <nav class="navbar is-light" role="navigation" aria-label="main navigation">
+    <div class="container">
+      <div class="navbar-brand">
+        <!-- TODO: Change link to repository homepage if needed -->
+        <!-- TODO: Change which navbar-item is-active if needed -->
+        <a class="navbar-item" href="index.html">
+          <span class="icon"><i class="fas fa-home"></i></span>
+          <span>Home</span>
+        </a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="main-menu">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="main-menu" class="navbar-menu has-text-weight-medium">
+        <!-- Left navbar items -->
+        <div class="navbar-start">
+          <a class="navbar-item" href="index.html#data" title="Data">
+            <span class="icon"><i class="fas fa-table"></i></span>
+            <span>Data</span>
+          </a>
+
+          <!-- TODO: Modify or remove dropdown -->
+          <div class="navbar-start">
+            <a class="navbar-item is-active" href="map.html">
+              <span class="icon"><i class="fas fa-map-marked-alt"></i></span>
+              <span>Map Visualization</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Right navbar items -->
+        <div class="navbar-end">
+          <!-- TODO: Update as needed -->
+          <a class="navbar-item" href="index.html#about" title="About">
+            <span class="icon"><i class="fas fa-tasks"></i></span>
+            <span>Grade</span>
+          </a>
+
+          <a class="navbar-item" href="index.html#about" title="About">
+            <span class="icon"><i class="fas fa-info-circle"></i></span>
+            <span>About</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <section class="section">
+    <h1 class="title">Non Proportional Symbol Map Visualization </h1>
+    <figure class="figure">
+      <svg id="tree">
+        <!-- <g id="basemap"></g>
+        <!-- turn off pointer events for certain groups -->
+        <!--<g id="streets" pointer-events="none"></g>
+        <g id="outline" pointer-events="none"></g>
+
+        <g id="arrests"></g>
+        <g id="tooltip" pointer-events="none"></g>
+        <g id="details" pointer-events="none"></g> -->
+      </svg>
+      <figcaption>
+        <cite>Data Source: <a href="https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6">311 Cases for Rec / Park</a> (<a href=" https://data.sfgov.org/Geographic-Locations-and-Boundaries/SF-Find-Neighborhoods/pty2-tcw4">Neighborhoods</a>, <a href="https://data.sfgov.org/Geographic-Locations-and-Boundaries/Streets-Active-and-Retired/3psu-pn9h">Streets</a>)</cite>
+        <br/>Dharti Madeka
+      </figcaption>
+    </figure>
+    <script type="text/javascript">
+      d3.json("dataRaw.json").then(drawTreeChart);
+    </script>
+    <div class="container">
+      <!-- Begin page content -->
+      <div class="content">
+        <h2 >Encoding</h2>
+        <p>For this visualization, Request Type is encoded with color and it represents different type of request made in Category Park and Rec.
+          Longitude and Latitude are encoded in basemap. Details are shown in tooltip. Each circle represent one row of complaint for park and rec from SF 311Cases dataset.
+        </p>
+        <h2>Wrangling </h2>
+        <p>Original dataset is updating everyday. It consist of 20 columns and more than 400K rows in it. It has various categories. The dataset which is used in visualization is filtered
+          based on Opened Date as month of February, 2020 and Category is Park / Rec.</p>
+        <h2>Interactivity</h2>
+        <p>Implemented Details on Demand and brushing technique as an interactivity. Here is the .gif of it to show demonstration of it.</p>
+        <!-- <img src="map.gif" width="500px" height="500px"style="border: 1px solid black;"> -->
+        <h2>Conclusion </h2>
+        <p>From this visualization, it is conclude and observed that most of the cases are Structural Maintenance near Golden Gate Park encoded with greenish color and all over
+          SF there are maximum cases of Park-Patrol encoded in orange color. It has least cases for Urban Forestry.</p>
+      </div>
+    </div>
+  </section>
+  <!-- Page footer -->
+  <!-- https://bulma.io/documentation/layout/footer/ -->
+  <footer class="footer">
+    <div class="content has-text-centered is-size-7">
+      <p>
+        <a href="#top">
+          <span class="fas fa-arrow-up"></span>
+          <span class="has-text-weight-medium">Back to Top</span>
+        </a>
+      </p>
+
+      <p>
+        <!-- TODO: Change to link to your Github repository -->
+        <a href="https://github.com/usf-cs360-spring2020/template-bulma" class="button is-small" style="padding-left: 1em; padding-right: 1em;">
+          <i class="fab fa-github-alt"></i>&nbsp;<strong>Github</strong>
+        </a>
+
+        <a href="https://fontawesome.com/" class="button is-small" style="padding-left: 1em; padding-right: 1em;">
+          <i class="fab fa-font-awesome"></i>&nbsp;<strong>FontAwesome</strong>
+        </a>
+        <a href="https://d3js.org/" class="button is-small" style="padding: 1em;">
+          <img src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" style="height: 20px; padding-left: 5px;">
+        </a>
+
+        <a href="https://bulma.io" class="button is-small">
+          <img src="https://bulma.io/images/made-with-bulma--semiblack.png" alt="Made with Bulma" width="128" height="24">
+        </a>
+      </p>
+    </div>
+  </footer>
+  <!-- End page footer -->
+</body>
+
+</html>
