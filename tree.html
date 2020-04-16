@@ -102,7 +102,7 @@
       </figcaption>
     </figure>
     <script type="text/javascript">
-      d3.json("dataRaw.json").then(drawTreeChart);
+      d3.csv("dataviz.csv", convertRow).then(drawTreeChart);
     </script>
     <div class="container">
       <!-- Begin page content -->

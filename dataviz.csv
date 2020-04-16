@@ -1,0 +1,996 @@
+Call Type Group,Neighborhooods - Analysis Boundaries,Call Type,Incident Number,NodeID,UniqueID
+Alarm,Bayview Hunters Point,Alarms,"1,562",Alarm.Alarms.Bayview Hunters Point,node1
+Alarm,Bernal Heights,Alarms,426,Alarm.Alarms.Bernal Heights,node2
+Alarm,Castro/Upper Market,Alarms,840,Alarm.Alarms.Castro/Upper Market,node3
+Alarm,Chinatown,Alarms,"1,023",Alarm.Alarms.Chinatown,node4
+Alarm,Excelsior,Alarms,336,Alarm.Alarms.Excelsior,node5
+Alarm,Financial District/South Beach,Alarms,"4,148",Alarm.Alarms.Financial District/South Beach,node6
+Alarm,Glen Park,Alarms,203,Alarm.Alarms.Glen Park,node7
+Alarm,Golden Gate Park,Alarms,64,Alarm.Alarms.Golden Gate Park,node8
+Alarm,Haight Ashbury,Alarms,688,Alarm.Alarms.Haight Ashbury,node9
+Alarm,Hayes Valley,Alarms,"1,128",Alarm.Alarms.Hayes Valley,node10
+Alarm,Inner Richmond,Alarms,641,Alarm.Alarms.Inner Richmond,node11
+Alarm,Inner Sunset,Alarms,898,Alarm.Alarms.Inner Sunset,node12
+Alarm,Japantown,Alarms,321,Alarm.Alarms.Japantown,node13
+Alarm,Lakeshore,Alarms,937,Alarm.Alarms.Lakeshore,node14
+Alarm,Lincoln Park,Alarms,67,Alarm.Alarms.Lincoln Park,node15
+Alarm,Lone Mountain/USF,Alarms,465,Alarm.Alarms.Lone Mountain/USF,node16
+Alarm,Marina,Alarms,"1,289",Alarm.Alarms.Marina,node17
+Alarm,McLaren Park,Alarms,124,Alarm.Alarms.McLaren Park,node18
+Alarm,Mission,Alarms,"2,467",Alarm.Alarms.Mission,node19
+Alarm,Mission Bay,Alarms,981,Alarm.Alarms.Mission Bay,node20
+Alarm,Nob Hill,Alarms,"1,325",Alarm.Alarms.Nob Hill,node21
+Alarm,Noe Valley,Alarms,615,Alarm.Alarms.Noe Valley,node22
+Alarm,None,Alarms,6,Alarm.Alarms.None,node23
+Alarm,North Beach,Alarms,"1,025",Alarm.Alarms.North Beach,node24
+Alarm,Oceanview/Merced/Ingleside,Alarms,332,Alarm.Alarms.Oceanview/Merced/Ingleside,node25
+Alarm,Outer Mission,Alarms,237,Alarm.Alarms.Outer Mission,node26
+Alarm,Outer Richmond,Alarms,714,Alarm.Alarms.Outer Richmond,node27
+Alarm,Pacific Heights,Alarms,"1,507",Alarm.Alarms.Pacific Heights,node28
+Alarm,Portola,Alarms,121,Alarm.Alarms.Portola,node29
+Alarm,Potrero Hill,Alarms,"1,003",Alarm.Alarms.Potrero Hill,node30
+Alarm,Presidio,Alarms,310,Alarm.Alarms.Presidio,node31
+Alarm,Presidio Heights,Alarms,494,Alarm.Alarms.Presidio Heights,node32
+Alarm,Russian Hill,Alarms,783,Alarm.Alarms.Russian Hill,node33
+Alarm,Seacliff,Alarms,110,Alarm.Alarms.Seacliff,node34
+Alarm,South of Market,Alarms,"3,196",Alarm.Alarms.South of Market,node35
+Alarm,Sunset/Parkside,Alarms,794,Alarm.Alarms.Sunset/Parkside,node36
+Alarm,Tenderloin,Alarms,"4,253",Alarm.Alarms.Tenderloin,node37
+Alarm,Treasure Island,Alarms,104,Alarm.Alarms.Treasure Island,node38
+Alarm,Twin Peaks,Alarms,362,Alarm.Alarms.Twin Peaks,node39
+Alarm,Visitacion Valley,Alarms,210,Alarm.Alarms.Visitacion Valley,node40
+Alarm,West of Twin Peaks,Alarms,841,Alarm.Alarms.West of Twin Peaks,node41
+Alarm,Western Addition,Alarms,"1,423",Alarm.Alarms.Western Addition,node42
+Alarm,Bayview Hunters Point,Assist Police,6,Alarm.Assist Police.Bayview Hunters Point,node43
+Alarm,Bernal Heights,Assist Police,3,Alarm.Assist Police.Bernal Heights,node44
+Alarm,Castro/Upper Market,Assist Police,2,Alarm.Assist Police.Castro/Upper Market,node45
+Alarm,Chinatown,Assist Police,1,Alarm.Assist Police.Chinatown,node46
+Alarm,Excelsior,Assist Police,3,Alarm.Assist Police.Excelsior,node47
+Alarm,Financial District/South Beach,Assist Police,4,Alarm.Assist Police.Financial District/South Beach,node48
+Alarm,Golden Gate Park,Assist Police,3,Alarm.Assist Police.Golden Gate Park,node49
+Alarm,Mission,Assist Police,2,Alarm.Assist Police.Mission,node50
+Alarm,Potrero Hill,Assist Police,3,Alarm.Assist Police.Potrero Hill,node51
+Alarm,South of Market,Assist Police,5,Alarm.Assist Police.South of Market,node52
+Alarm,Sunset/Parkside,Assist Police,4,Alarm.Assist Police.Sunset/Parkside,node53
+Alarm,Tenderloin,Assist Police,1,Alarm.Assist Police.Tenderloin,node54
+Alarm,West of Twin Peaks,Assist Police,2,Alarm.Assist Police.West of Twin Peaks,node55
+Alarm,Western Addition,Assist Police,1,Alarm.Assist Police.Western Addition,node56
+Alarm,Bayview Hunters Point,Citizen Assist / Service Call,252,Alarm.Citizen Assist / Service Call.Bayview Hunters Point,node57
+Alarm,Bernal Heights,Citizen Assist / Service Call,83,Alarm.Citizen Assist / Service Call.Bernal Heights,node58
+Alarm,Castro/Upper Market,Citizen Assist / Service Call,112,Alarm.Citizen Assist / Service Call.Castro/Upper Market,node59
+Alarm,Chinatown,Citizen Assist / Service Call,79,Alarm.Citizen Assist / Service Call.Chinatown,node60
+Alarm,Excelsior,Citizen Assist / Service Call,69,Alarm.Citizen Assist / Service Call.Excelsior,node61
+Alarm,Financial District/South Beach,Citizen Assist / Service Call,121,Alarm.Citizen Assist / Service Call.Financial District/South Beach,node62
+Alarm,Glen Park,Citizen Assist / Service Call,48,Alarm.Citizen Assist / Service Call.Glen Park,node63
+Alarm,Golden Gate Park,Citizen Assist / Service Call,23,Alarm.Citizen Assist / Service Call.Golden Gate Park,node64
+Alarm,Haight Ashbury,Citizen Assist / Service Call,60,Alarm.Citizen Assist / Service Call.Haight Ashbury,node65
+Alarm,Hayes Valley,Citizen Assist / Service Call,81,Alarm.Citizen Assist / Service Call.Hayes Valley,node66
+Alarm,Inner Richmond,Citizen Assist / Service Call,74,Alarm.Citizen Assist / Service Call.Inner Richmond,node67
+Alarm,Inner Sunset,Citizen Assist / Service Call,119,Alarm.Citizen Assist / Service Call.Inner Sunset,node68
+Alarm,Japantown,Citizen Assist / Service Call,50,Alarm.Citizen Assist / Service Call.Japantown,node69
+Alarm,Lakeshore,Citizen Assist / Service Call,246,Alarm.Citizen Assist / Service Call.Lakeshore,node70
+Alarm,Lincoln Park,Citizen Assist / Service Call,4,Alarm.Citizen Assist / Service Call.Lincoln Park,node71
+Alarm,Lone Mountain/USF,Citizen Assist / Service Call,68,Alarm.Citizen Assist / Service Call.Lone Mountain/USF,node72
+Alarm,Marina,Citizen Assist / Service Call,135,Alarm.Citizen Assist / Service Call.Marina,node73
+Alarm,McLaren Park,Citizen Assist / Service Call,3,Alarm.Citizen Assist / Service Call.McLaren Park,node74
+Alarm,Mission,Citizen Assist / Service Call,267,Alarm.Citizen Assist / Service Call.Mission,node75
+Alarm,Mission Bay,Citizen Assist / Service Call,69,Alarm.Citizen Assist / Service Call.Mission Bay,node76
+Alarm,Nob Hill,Citizen Assist / Service Call,146,Alarm.Citizen Assist / Service Call.Nob Hill,node77
+Alarm,Noe Valley,Citizen Assist / Service Call,128,Alarm.Citizen Assist / Service Call.Noe Valley,node78
+Alarm,None,Citizen Assist / Service Call,4,Alarm.Citizen Assist / Service Call.None,node79
+Alarm,North Beach,Citizen Assist / Service Call,62,Alarm.Citizen Assist / Service Call.North Beach,node80
+Alarm,Oceanview/Merced/Ingleside,Citizen Assist / Service Call,79,Alarm.Citizen Assist / Service Call.Oceanview/Merced/Ingleside,node81
+Alarm,Outer Mission,Citizen Assist / Service Call,50,Alarm.Citizen Assist / Service Call.Outer Mission,node82
+Alarm,Outer Richmond,Citizen Assist / Service Call,141,Alarm.Citizen Assist / Service Call.Outer Richmond,node83
+Alarm,Pacific Heights,Citizen Assist / Service Call,115,Alarm.Citizen Assist / Service Call.Pacific Heights,node84
+Alarm,Portola,Citizen Assist / Service Call,56,Alarm.Citizen Assist / Service Call.Portola,node85
+Alarm,Potrero Hill,Citizen Assist / Service Call,79,Alarm.Citizen Assist / Service Call.Potrero Hill,node86
+Alarm,Presidio,Citizen Assist / Service Call,9,Alarm.Citizen Assist / Service Call.Presidio,node87
+Alarm,Presidio Heights,Citizen Assist / Service Call,65,Alarm.Citizen Assist / Service Call.Presidio Heights,node88
+Alarm,Russian Hill,Citizen Assist / Service Call,83,Alarm.Citizen Assist / Service Call.Russian Hill,node89
+Alarm,Seacliff,Citizen Assist / Service Call,18,Alarm.Citizen Assist / Service Call.Seacliff,node90
+Alarm,South of Market,Citizen Assist / Service Call,221,Alarm.Citizen Assist / Service Call.South of Market,node91
+Alarm,Sunset/Parkside,Citizen Assist / Service Call,237,Alarm.Citizen Assist / Service Call.Sunset/Parkside,node92
+Alarm,Tenderloin,Citizen Assist / Service Call,538,Alarm.Citizen Assist / Service Call.Tenderloin,node93
+Alarm,Treasure Island,Citizen Assist / Service Call,17,Alarm.Citizen Assist / Service Call.Treasure Island,node94
+Alarm,Twin Peaks,Citizen Assist / Service Call,26,Alarm.Citizen Assist / Service Call.Twin Peaks,node95
+Alarm,Visitacion Valley,Citizen Assist / Service Call,53,Alarm.Citizen Assist / Service Call.Visitacion Valley,node96
+Alarm,West of Twin Peaks,Citizen Assist / Service Call,168,Alarm.Citizen Assist / Service Call.West of Twin Peaks,node97
+Alarm,Western Addition,Citizen Assist / Service Call,148,Alarm.Citizen Assist / Service Call.Western Addition,node98
+Alarm,Bayview Hunters Point,Electrical Hazard,80,Alarm.Electrical Hazard.Bayview Hunters Point,node99
+Alarm,Bernal Heights,Electrical Hazard,48,Alarm.Electrical Hazard.Bernal Heights,node100
+Alarm,Castro/Upper Market,Electrical Hazard,38,Alarm.Electrical Hazard.Castro/Upper Market,node101
+Alarm,Chinatown,Electrical Hazard,12,Alarm.Electrical Hazard.Chinatown,node102
+Alarm,Excelsior,Electrical Hazard,89,Alarm.Electrical Hazard.Excelsior,node103
+Alarm,Financial District/South Beach,Electrical Hazard,18,Alarm.Electrical Hazard.Financial District/South Beach,node104
+Alarm,Glen Park,Electrical Hazard,19,Alarm.Electrical Hazard.Glen Park,node105
+Alarm,Golden Gate Park,Electrical Hazard,9,Alarm.Electrical Hazard.Golden Gate Park,node106
+Alarm,Haight Ashbury,Electrical Hazard,16,Alarm.Electrical Hazard.Haight Ashbury,node107
+Alarm,Hayes Valley,Electrical Hazard,34,Alarm.Electrical Hazard.Hayes Valley,node108
+Alarm,Inner Richmond,Electrical Hazard,63,Alarm.Electrical Hazard.Inner Richmond,node109
+Alarm,Inner Sunset,Electrical Hazard,39,Alarm.Electrical Hazard.Inner Sunset,node110
+Alarm,Japantown,Electrical Hazard,1,Alarm.Electrical Hazard.Japantown,node111
+Alarm,Lakeshore,Electrical Hazard,1,Alarm.Electrical Hazard.Lakeshore,node112
+Alarm,Lincoln Park,Electrical Hazard,1,Alarm.Electrical Hazard.Lincoln Park,node113
+Alarm,Lone Mountain/USF,Electrical Hazard,25,Alarm.Electrical Hazard.Lone Mountain/USF,node114
+Alarm,Marina,Electrical Hazard,22,Alarm.Electrical Hazard.Marina,node115
+Alarm,McLaren Park,Electrical Hazard,1,Alarm.Electrical Hazard.McLaren Park,node116
+Alarm,Mission,Electrical Hazard,101,Alarm.Electrical Hazard.Mission,node117
+Alarm,Mission Bay,Electrical Hazard,9,Alarm.Electrical Hazard.Mission Bay,node118
+Alarm,Nob Hill,Electrical Hazard,8,Alarm.Electrical Hazard.Nob Hill,node119
+Alarm,Noe Valley,Electrical Hazard,78,Alarm.Electrical Hazard.Noe Valley,node120
+Alarm,None,Electrical Hazard,1,Alarm.Electrical Hazard.None,node121
+Alarm,North Beach,Electrical Hazard,10,Alarm.Electrical Hazard.North Beach,node122
+Alarm,Oceanview/Merced/Ingleside,Electrical Hazard,61,Alarm.Electrical Hazard.Oceanview/Merced/Ingleside,node123
+Alarm,Outer Mission,Electrical Hazard,37,Alarm.Electrical Hazard.Outer Mission,node124
+Alarm,Outer Richmond,Electrical Hazard,180,Alarm.Electrical Hazard.Outer Richmond,node125
+Alarm,Pacific Heights,Electrical Hazard,28,Alarm.Electrical Hazard.Pacific Heights,node126
+Alarm,Portola,Electrical Hazard,21,Alarm.Electrical Hazard.Portola,node127
+Alarm,Potrero Hill,Electrical Hazard,50,Alarm.Electrical Hazard.Potrero Hill,node128
+Alarm,Presidio,Electrical Hazard,5,Alarm.Electrical Hazard.Presidio,node129
+Alarm,Presidio Heights,Electrical Hazard,15,Alarm.Electrical Hazard.Presidio Heights,node130
+Alarm,Russian Hill,Electrical Hazard,24,Alarm.Electrical Hazard.Russian Hill,node131
+Alarm,Seacliff,Electrical Hazard,4,Alarm.Electrical Hazard.Seacliff,node132
+Alarm,South of Market,Electrical Hazard,26,Alarm.Electrical Hazard.South of Market,node133
+Alarm,Sunset/Parkside,Electrical Hazard,306,Alarm.Electrical Hazard.Sunset/Parkside,node134
+Alarm,Tenderloin,Electrical Hazard,14,Alarm.Electrical Hazard.Tenderloin,node135
+Alarm,Treasure Island,Electrical Hazard,13,Alarm.Electrical Hazard.Treasure Island,node136
+Alarm,Twin Peaks,Electrical Hazard,11,Alarm.Electrical Hazard.Twin Peaks,node137
+Alarm,Visitacion Valley,Electrical Hazard,21,Alarm.Electrical Hazard.Visitacion Valley,node138
+Alarm,West of Twin Peaks,Electrical Hazard,68,Alarm.Electrical Hazard.West of Twin Peaks,node139
+Alarm,Western Addition,Electrical Hazard,14,Alarm.Electrical Hazard.Western Addition,node140
+Alarm,Bayview Hunters Point,Elevator / Escalator Rescue,53,Alarm.Elevator / Escalator Rescue.Bayview Hunters Point,node141
+Alarm,Bernal Heights,Elevator / Escalator Rescue,7,Alarm.Elevator / Escalator Rescue.Bernal Heights,node142
+Alarm,Castro/Upper Market,Elevator / Escalator Rescue,10,Alarm.Elevator / Escalator Rescue.Castro/Upper Market,node143
+Alarm,Chinatown,Elevator / Escalator Rescue,35,Alarm.Elevator / Escalator Rescue.Chinatown,node144
+Alarm,Excelsior,Elevator / Escalator Rescue,4,Alarm.Elevator / Escalator Rescue.Excelsior,node145
+Alarm,Financial District/South Beach,Elevator / Escalator Rescue,174,Alarm.Elevator / Escalator Rescue.Financial District/South Beach,node146
+Alarm,Glen Park,Elevator / Escalator Rescue,1,Alarm.Elevator / Escalator Rescue.Glen Park,node147
+Alarm,Haight Ashbury,Elevator / Escalator Rescue,1,Alarm.Elevator / Escalator Rescue.Haight Ashbury,node148
+Alarm,Hayes Valley,Elevator / Escalator Rescue,37,Alarm.Elevator / Escalator Rescue.Hayes Valley,node149
+Alarm,Inner Richmond,Elevator / Escalator Rescue,6,Alarm.Elevator / Escalator Rescue.Inner Richmond,node150
+Alarm,Inner Sunset,Elevator / Escalator Rescue,8,Alarm.Elevator / Escalator Rescue.Inner Sunset,node151
+Alarm,Japantown,Elevator / Escalator Rescue,12,Alarm.Elevator / Escalator Rescue.Japantown,node152
+Alarm,Lakeshore,Elevator / Escalator Rescue,15,Alarm.Elevator / Escalator Rescue.Lakeshore,node153
+Alarm,Lincoln Park,Elevator / Escalator Rescue,1,Alarm.Elevator / Escalator Rescue.Lincoln Park,node154
+Alarm,Lone Mountain/USF,Elevator / Escalator Rescue,7,Alarm.Elevator / Escalator Rescue.Lone Mountain/USF,node155
+Alarm,Marina,Elevator / Escalator Rescue,31,Alarm.Elevator / Escalator Rescue.Marina,node156
+Alarm,Mission,Elevator / Escalator Rescue,49,Alarm.Elevator / Escalator Rescue.Mission,node157
+Alarm,Mission Bay,Elevator / Escalator Rescue,55,Alarm.Elevator / Escalator Rescue.Mission Bay,node158
+Alarm,Nob Hill,Elevator / Escalator Rescue,111,Alarm.Elevator / Escalator Rescue.Nob Hill,node159
+Alarm,Noe Valley,Elevator / Escalator Rescue,3,Alarm.Elevator / Escalator Rescue.Noe Valley,node160
+Alarm,North Beach,Elevator / Escalator Rescue,22,Alarm.Elevator / Escalator Rescue.North Beach,node161
+Alarm,Oceanview/Merced/Ingleside,Elevator / Escalator Rescue,3,Alarm.Elevator / Escalator Rescue.Oceanview/Merced/Ingleside,node162
+Alarm,Outer Mission,Elevator / Escalator Rescue,8,Alarm.Elevator / Escalator Rescue.Outer Mission,node163
+Alarm,Outer Richmond,Elevator / Escalator Rescue,10,Alarm.Elevator / Escalator Rescue.Outer Richmond,node164
+Alarm,Pacific Heights,Elevator / Escalator Rescue,42,Alarm.Elevator / Escalator Rescue.Pacific Heights,node165
+Alarm,Portola,Elevator / Escalator Rescue,1,Alarm.Elevator / Escalator Rescue.Portola,node166
+Alarm,Potrero Hill,Elevator / Escalator Rescue,26,Alarm.Elevator / Escalator Rescue.Potrero Hill,node167
+Alarm,Presidio,Elevator / Escalator Rescue,5,Alarm.Elevator / Escalator Rescue.Presidio,node168
+Alarm,Presidio Heights,Elevator / Escalator Rescue,3,Alarm.Elevator / Escalator Rescue.Presidio Heights,node169
+Alarm,Russian Hill,Elevator / Escalator Rescue,19,Alarm.Elevator / Escalator Rescue.Russian Hill,node170
+Alarm,Seacliff,Elevator / Escalator Rescue,2,Alarm.Elevator / Escalator Rescue.Seacliff,node171
+Alarm,South of Market,Elevator / Escalator Rescue,125,Alarm.Elevator / Escalator Rescue.South of Market,node172
+Alarm,Sunset/Parkside,Elevator / Escalator Rescue,5,Alarm.Elevator / Escalator Rescue.Sunset/Parkside,node173
+Alarm,Tenderloin,Elevator / Escalator Rescue,207,Alarm.Elevator / Escalator Rescue.Tenderloin,node174
+Alarm,Twin Peaks,Elevator / Escalator Rescue,4,Alarm.Elevator / Escalator Rescue.Twin Peaks,node175
+Alarm,Visitacion Valley,Elevator / Escalator Rescue,4,Alarm.Elevator / Escalator Rescue.Visitacion Valley,node176
+Alarm,West of Twin Peaks,Elevator / Escalator Rescue,7,Alarm.Elevator / Escalator Rescue.West of Twin Peaks,node177
+Alarm,Western Addition,Elevator / Escalator Rescue,34,Alarm.Elevator / Escalator Rescue.Western Addition,node178
+Alarm,Bayview Hunters Point,Fuel Spill,53,Alarm.Fuel Spill.Bayview Hunters Point,node179
+Alarm,Bernal Heights,Fuel Spill,4,Alarm.Fuel Spill.Bernal Heights,node180
+Alarm,Castro/Upper Market,Fuel Spill,9,Alarm.Fuel Spill.Castro/Upper Market,node181
+Alarm,Chinatown,Fuel Spill,5,Alarm.Fuel Spill.Chinatown,node182
+Alarm,Excelsior,Fuel Spill,2,Alarm.Fuel Spill.Excelsior,node183
+Alarm,Financial District/South Beach,Fuel Spill,21,Alarm.Fuel Spill.Financial District/South Beach,node184
+Alarm,Golden Gate Park,Fuel Spill,1,Alarm.Fuel Spill.Golden Gate Park,node185
+Alarm,Haight Ashbury,Fuel Spill,5,Alarm.Fuel Spill.Haight Ashbury,node186
+Alarm,Hayes Valley,Fuel Spill,4,Alarm.Fuel Spill.Hayes Valley,node187
+Alarm,Inner Richmond,Fuel Spill,10,Alarm.Fuel Spill.Inner Richmond,node188
+Alarm,Inner Sunset,Fuel Spill,8,Alarm.Fuel Spill.Inner Sunset,node189
+Alarm,Lakeshore,Fuel Spill,7,Alarm.Fuel Spill.Lakeshore,node190
+Alarm,Lone Mountain/USF,Fuel Spill,4,Alarm.Fuel Spill.Lone Mountain/USF,node191
+Alarm,Marina,Fuel Spill,14,Alarm.Fuel Spill.Marina,node192
+Alarm,Mission,Fuel Spill,18,Alarm.Fuel Spill.Mission,node193
+Alarm,Mission Bay,Fuel Spill,6,Alarm.Fuel Spill.Mission Bay,node194
+Alarm,Nob Hill,Fuel Spill,3,Alarm.Fuel Spill.Nob Hill,node195
+Alarm,Noe Valley,Fuel Spill,2,Alarm.Fuel Spill.Noe Valley,node196
+Alarm,North Beach,Fuel Spill,4,Alarm.Fuel Spill.North Beach,node197
+Alarm,Oceanview/Merced/Ingleside,Fuel Spill,6,Alarm.Fuel Spill.Oceanview/Merced/Ingleside,node198
+Alarm,Outer Mission,Fuel Spill,9,Alarm.Fuel Spill.Outer Mission,node199
+Alarm,Outer Richmond,Fuel Spill,14,Alarm.Fuel Spill.Outer Richmond,node200
+Alarm,Pacific Heights,Fuel Spill,5,Alarm.Fuel Spill.Pacific Heights,node201
+Alarm,Portola,Fuel Spill,3,Alarm.Fuel Spill.Portola,node202
+Alarm,Potrero Hill,Fuel Spill,20,Alarm.Fuel Spill.Potrero Hill,node203
+Alarm,Presidio,Fuel Spill,6,Alarm.Fuel Spill.Presidio,node204
+Alarm,Presidio Heights,Fuel Spill,7,Alarm.Fuel Spill.Presidio Heights,node205
+Alarm,Russian Hill,Fuel Spill,8,Alarm.Fuel Spill.Russian Hill,node206
+Alarm,South of Market,Fuel Spill,18,Alarm.Fuel Spill.South of Market,node207
+Alarm,Sunset/Parkside,Fuel Spill,19,Alarm.Fuel Spill.Sunset/Parkside,node208
+Alarm,Tenderloin,Fuel Spill,9,Alarm.Fuel Spill.Tenderloin,node209
+Alarm,Treasure Island,Fuel Spill,12,Alarm.Fuel Spill.Treasure Island,node210
+Alarm,Twin Peaks,Fuel Spill,4,Alarm.Fuel Spill.Twin Peaks,node211
+Alarm,Visitacion Valley,Fuel Spill,2,Alarm.Fuel Spill.Visitacion Valley,node212
+Alarm,West of Twin Peaks,Fuel Spill,9,Alarm.Fuel Spill.West of Twin Peaks,node213
+Alarm,Western Addition,Fuel Spill,9,Alarm.Fuel Spill.Western Addition,node214
+Alarm,Bayview Hunters Point,Gas Leak (Natural and LP Gases),114,Alarm.Gas Leak (Natural and LP Gases).Bayview Hunters Point,node215
+Alarm,Bernal Heights,Gas Leak (Natural and LP Gases),61,Alarm.Gas Leak (Natural and LP Gases).Bernal Heights,node216
+Alarm,Castro/Upper Market,Gas Leak (Natural and LP Gases),49,Alarm.Gas Leak (Natural and LP Gases).Castro/Upper Market,node217
+Alarm,Chinatown,Gas Leak (Natural and LP Gases),30,Alarm.Gas Leak (Natural and LP Gases).Chinatown,node218
+Alarm,Excelsior,Gas Leak (Natural and LP Gases),39,Alarm.Gas Leak (Natural and LP Gases).Excelsior,node219
+Alarm,Financial District/South Beach,Gas Leak (Natural and LP Gases),89,Alarm.Gas Leak (Natural and LP Gases).Financial District/South Beach,node220
+Alarm,Glen Park,Gas Leak (Natural and LP Gases),14,Alarm.Gas Leak (Natural and LP Gases).Glen Park,node221
+Alarm,Golden Gate Park,Gas Leak (Natural and LP Gases),4,Alarm.Gas Leak (Natural and LP Gases).Golden Gate Park,node222
+Alarm,Haight Ashbury,Gas Leak (Natural and LP Gases),57,Alarm.Gas Leak (Natural and LP Gases).Haight Ashbury,node223
+Alarm,Hayes Valley,Gas Leak (Natural and LP Gases),63,Alarm.Gas Leak (Natural and LP Gases).Hayes Valley,node224
+Alarm,Inner Richmond,Gas Leak (Natural and LP Gases),63,Alarm.Gas Leak (Natural and LP Gases).Inner Richmond,node225
+Alarm,Inner Sunset,Gas Leak (Natural and LP Gases),36,Alarm.Gas Leak (Natural and LP Gases).Inner Sunset,node226
+Alarm,Japantown,Gas Leak (Natural and LP Gases),9,Alarm.Gas Leak (Natural and LP Gases).Japantown,node227
+Alarm,Lakeshore,Gas Leak (Natural and LP Gases),57,Alarm.Gas Leak (Natural and LP Gases).Lakeshore,node228
+Alarm,Lincoln Park,Gas Leak (Natural and LP Gases),3,Alarm.Gas Leak (Natural and LP Gases).Lincoln Park,node229
+Alarm,Lone Mountain/USF,Gas Leak (Natural and LP Gases),25,Alarm.Gas Leak (Natural and LP Gases).Lone Mountain/USF,node230
+Alarm,Marina,Gas Leak (Natural and LP Gases),76,Alarm.Gas Leak (Natural and LP Gases).Marina,node231
+Alarm,Mission,Gas Leak (Natural and LP Gases),178,Alarm.Gas Leak (Natural and LP Gases).Mission,node232
+Alarm,Mission Bay,Gas Leak (Natural and LP Gases),18,Alarm.Gas Leak (Natural and LP Gases).Mission Bay,node233
+Alarm,Nob Hill,Gas Leak (Natural and LP Gases),86,Alarm.Gas Leak (Natural and LP Gases).Nob Hill,node234
+Alarm,Noe Valley,Gas Leak (Natural and LP Gases),46,Alarm.Gas Leak (Natural and LP Gases).Noe Valley,node235
+Alarm,None,Gas Leak (Natural and LP Gases),3,Alarm.Gas Leak (Natural and LP Gases).None,node236
+Alarm,North Beach,Gas Leak (Natural and LP Gases),25,Alarm.Gas Leak (Natural and LP Gases).North Beach,node237
+Alarm,Oceanview/Merced/Ingleside,Gas Leak (Natural and LP Gases),33,Alarm.Gas Leak (Natural and LP Gases).Oceanview/Merced/Ingleside,node238
+Alarm,Outer Mission,Gas Leak (Natural and LP Gases),26,Alarm.Gas Leak (Natural and LP Gases).Outer Mission,node239
+Alarm,Outer Richmond,Gas Leak (Natural and LP Gases),99,Alarm.Gas Leak (Natural and LP Gases).Outer Richmond,node240
+Alarm,Pacific Heights,Gas Leak (Natural and LP Gases),51,Alarm.Gas Leak (Natural and LP Gases).Pacific Heights,node241
+Alarm,Portola,Gas Leak (Natural and LP Gases),13,Alarm.Gas Leak (Natural and LP Gases).Portola,node242
+Alarm,Potrero Hill,Gas Leak (Natural and LP Gases),85,Alarm.Gas Leak (Natural and LP Gases).Potrero Hill,node243
+Alarm,Presidio,Gas Leak (Natural and LP Gases),6,Alarm.Gas Leak (Natural and LP Gases).Presidio,node244
+Alarm,Presidio Heights,Gas Leak (Natural and LP Gases),43,Alarm.Gas Leak (Natural and LP Gases).Presidio Heights,node245
+Alarm,Russian Hill,Gas Leak (Natural and LP Gases),28,Alarm.Gas Leak (Natural and LP Gases).Russian Hill,node246
+Alarm,Seacliff,Gas Leak (Natural and LP Gases),6,Alarm.Gas Leak (Natural and LP Gases).Seacliff,node247
+Alarm,South of Market,Gas Leak (Natural and LP Gases),63,Alarm.Gas Leak (Natural and LP Gases).South of Market,node248
+Alarm,Sunset/Parkside,Gas Leak (Natural and LP Gases),62,Alarm.Gas Leak (Natural and LP Gases).Sunset/Parkside,node249
+Alarm,Tenderloin,Gas Leak (Natural and LP Gases),118,Alarm.Gas Leak (Natural and LP Gases).Tenderloin,node250
+Alarm,Treasure Island,Gas Leak (Natural and LP Gases),33,Alarm.Gas Leak (Natural and LP Gases).Treasure Island,node251
+Alarm,Twin Peaks,Gas Leak (Natural and LP Gases),13,Alarm.Gas Leak (Natural and LP Gases).Twin Peaks,node252
+Alarm,Visitacion Valley,Gas Leak (Natural and LP Gases),31,Alarm.Gas Leak (Natural and LP Gases).Visitacion Valley,node253
+Alarm,West of Twin Peaks,Gas Leak (Natural and LP Gases),44,Alarm.Gas Leak (Natural and LP Gases).West of Twin Peaks,node254
+Alarm,Western Addition,Gas Leak (Natural and LP Gases),96,Alarm.Gas Leak (Natural and LP Gases).Western Addition,node255
+Alarm,Bayview Hunters Point,HazMat,5,Alarm.HazMat.Bayview Hunters Point,node256
+Alarm,Castro/Upper Market,HazMat,9,Alarm.HazMat.Castro/Upper Market,node257
+Alarm,Chinatown,HazMat,3,Alarm.HazMat.Chinatown,node258
+Alarm,Excelsior,HazMat,3,Alarm.HazMat.Excelsior,node259
+Alarm,Financial District/South Beach,HazMat,9,Alarm.HazMat.Financial District/South Beach,node260
+Alarm,Glen Park,HazMat,3,Alarm.HazMat.Glen Park,node261
+Alarm,Haight Ashbury,HazMat,3,Alarm.HazMat.Haight Ashbury,node262
+Alarm,Hayes Valley,HazMat,4,Alarm.HazMat.Hayes Valley,node263
+Alarm,Inner Richmond,HazMat,3,Alarm.HazMat.Inner Richmond,node264
+Alarm,Marina,HazMat,6,Alarm.HazMat.Marina,node265
+Alarm,Mission,HazMat,9,Alarm.HazMat.Mission,node266
+Alarm,Mission Bay,HazMat,3,Alarm.HazMat.Mission Bay,node267
+Alarm,Nob Hill,HazMat,5,Alarm.HazMat.Nob Hill,node268
+Alarm,Noe Valley,HazMat,3,Alarm.HazMat.Noe Valley,node269
+Alarm,Outer Mission,HazMat,6,Alarm.HazMat.Outer Mission,node270
+Alarm,Outer Richmond,HazMat,6,Alarm.HazMat.Outer Richmond,node271
+Alarm,Pacific Heights,HazMat,3,Alarm.HazMat.Pacific Heights,node272
+Alarm,Russian Hill,HazMat,2,Alarm.HazMat.Russian Hill,node273
+Alarm,South of Market,HazMat,7,Alarm.HazMat.South of Market,node274
+Alarm,Tenderloin,HazMat,12,Alarm.HazMat.Tenderloin,node275
+Alarm,Visitacion Valley,HazMat,3,Alarm.HazMat.Visitacion Valley,node276
+Alarm,Western Addition,HazMat,9,Alarm.HazMat.Western Addition,node277
+Alarm,Bayview Hunters Point,Medical Incident,1,Alarm.Medical Incident.Bayview Hunters Point,node278
+Alarm,Bernal Heights,Medical Incident,4,Alarm.Medical Incident.Bernal Heights,node279
+Alarm,Castro/Upper Market,Medical Incident,2,Alarm.Medical Incident.Castro/Upper Market,node280
+Alarm,Chinatown,Medical Incident,2,Alarm.Medical Incident.Chinatown,node281
+Alarm,Excelsior,Medical Incident,27,Alarm.Medical Incident.Excelsior,node282
+Alarm,Financial District/South Beach,Medical Incident,3,Alarm.Medical Incident.Financial District/South Beach,node283
+Alarm,Haight Ashbury,Medical Incident,1,Alarm.Medical Incident.Haight Ashbury,node284
+Alarm,Hayes Valley,Medical Incident,23,Alarm.Medical Incident.Hayes Valley,node285
+Alarm,Inner Richmond,Medical Incident,2,Alarm.Medical Incident.Inner Richmond,node286
+Alarm,Inner Sunset,Medical Incident,7,Alarm.Medical Incident.Inner Sunset,node287
+Alarm,Japantown,Medical Incident,9,Alarm.Medical Incident.Japantown,node288
+Alarm,Lakeshore,Medical Incident,3,Alarm.Medical Incident.Lakeshore,node289
+Alarm,Lone Mountain/USF,Medical Incident,3,Alarm.Medical Incident.Lone Mountain/USF,node290
+Alarm,Marina,Medical Incident,3,Alarm.Medical Incident.Marina,node291
+Alarm,Mission,Medical Incident,6,Alarm.Medical Incident.Mission,node292
+Alarm,Mission Bay,Medical Incident,4,Alarm.Medical Incident.Mission Bay,node293
+Alarm,Nob Hill,Medical Incident,5,Alarm.Medical Incident.Nob Hill,node294
+Alarm,North Beach,Medical Incident,12,Alarm.Medical Incident.North Beach,node295
+Alarm,Oceanview/Merced/Ingleside,Medical Incident,2,Alarm.Medical Incident.Oceanview/Merced/Ingleside,node296
+Alarm,Outer Mission,Medical Incident,2,Alarm.Medical Incident.Outer Mission,node297
+Alarm,Outer Richmond,Medical Incident,3,Alarm.Medical Incident.Outer Richmond,node298
+Alarm,Pacific Heights,Medical Incident,10,Alarm.Medical Incident.Pacific Heights,node299
+Alarm,Portola,Medical Incident,9,Alarm.Medical Incident.Portola,node300
+Alarm,Presidio Heights,Medical Incident,8,Alarm.Medical Incident.Presidio Heights,node301
+Alarm,Russian Hill,Medical Incident,3,Alarm.Medical Incident.Russian Hill,node302
+Alarm,Seacliff,Medical Incident,1,Alarm.Medical Incident.Seacliff,node303
+Alarm,South of Market,Medical Incident,5,Alarm.Medical Incident.South of Market,node304
+Alarm,Sunset/Parkside,Medical Incident,22,Alarm.Medical Incident.Sunset/Parkside,node305
+Alarm,Tenderloin,Medical Incident,8,Alarm.Medical Incident.Tenderloin,node306
+Alarm,Twin Peaks,Medical Incident,27,Alarm.Medical Incident.Twin Peaks,node307
+Alarm,Visitacion Valley,Medical Incident,5,Alarm.Medical Incident.Visitacion Valley,node308
+Alarm,West of Twin Peaks,Medical Incident,3,Alarm.Medical Incident.West of Twin Peaks,node309
+Alarm,Western Addition,Medical Incident,17,Alarm.Medical Incident.Western Addition,node310
+Alarm,Bayview Hunters Point,Odor (Strange / Unknown),17,Alarm.Odor (Strange / Unknown).Bayview Hunters Point,node311
+Alarm,Bernal Heights,Odor (Strange / Unknown),4,Alarm.Odor (Strange / Unknown).Bernal Heights,node312
+Alarm,Castro/Upper Market,Odor (Strange / Unknown),4,Alarm.Odor (Strange / Unknown).Castro/Upper Market,node313
+Alarm,Chinatown,Odor (Strange / Unknown),4,Alarm.Odor (Strange / Unknown).Chinatown,node314
+Alarm,Excelsior,Odor (Strange / Unknown),12,Alarm.Odor (Strange / Unknown).Excelsior,node315
+Alarm,Financial District/South Beach,Odor (Strange / Unknown),9,Alarm.Odor (Strange / Unknown).Financial District/South Beach,node316
+Alarm,Glen Park,Odor (Strange / Unknown),2,Alarm.Odor (Strange / Unknown).Glen Park,node317
+Alarm,Haight Ashbury,Odor (Strange / Unknown),6,Alarm.Odor (Strange / Unknown).Haight Ashbury,node318
+Alarm,Hayes Valley,Odor (Strange / Unknown),10,Alarm.Odor (Strange / Unknown).Hayes Valley,node319
+Alarm,Inner Richmond,Odor (Strange / Unknown),6,Alarm.Odor (Strange / Unknown).Inner Richmond,node320
+Alarm,Inner Sunset,Odor (Strange / Unknown),7,Alarm.Odor (Strange / Unknown).Inner Sunset,node321
+Alarm,Lakeshore,Odor (Strange / Unknown),1,Alarm.Odor (Strange / Unknown).Lakeshore,node322
+Alarm,Lone Mountain/USF,Odor (Strange / Unknown),1,Alarm.Odor (Strange / Unknown).Lone Mountain/USF,node323
+Alarm,Marina,Odor (Strange / Unknown),4,Alarm.Odor (Strange / Unknown).Marina,node324
+Alarm,Mission,Odor (Strange / Unknown),36,Alarm.Odor (Strange / Unknown).Mission,node325
+Alarm,Nob Hill,Odor (Strange / Unknown),13,Alarm.Odor (Strange / Unknown).Nob Hill,node326
+Alarm,Oceanview/Merced/Ingleside,Odor (Strange / Unknown),8,Alarm.Odor (Strange / Unknown).Oceanview/Merced/Ingleside,node327
+Alarm,Outer Mission,Odor (Strange / Unknown),2,Alarm.Odor (Strange / Unknown).Outer Mission,node328
+Alarm,Outer Richmond,Odor (Strange / Unknown),7,Alarm.Odor (Strange / Unknown).Outer Richmond,node329
+Alarm,Pacific Heights,Odor (Strange / Unknown),5,Alarm.Odor (Strange / Unknown).Pacific Heights,node330
+Alarm,Portola,Odor (Strange / Unknown),2,Alarm.Odor (Strange / Unknown).Portola,node331
+Alarm,Potrero Hill,Odor (Strange / Unknown),9,Alarm.Odor (Strange / Unknown).Potrero Hill,node332
+Alarm,Russian Hill,Odor (Strange / Unknown),3,Alarm.Odor (Strange / Unknown).Russian Hill,node333
+Alarm,South of Market,Odor (Strange / Unknown),17,Alarm.Odor (Strange / Unknown).South of Market,node334
+Alarm,Sunset/Parkside,Odor (Strange / Unknown),6,Alarm.Odor (Strange / Unknown).Sunset/Parkside,node335
+Alarm,Tenderloin,Odor (Strange / Unknown),22,Alarm.Odor (Strange / Unknown).Tenderloin,node336
+Alarm,Treasure Island,Odor (Strange / Unknown),8,Alarm.Odor (Strange / Unknown).Treasure Island,node337
+Alarm,Twin Peaks,Odor (Strange / Unknown),1,Alarm.Odor (Strange / Unknown).Twin Peaks,node338
+Alarm,Visitacion Valley,Odor (Strange / Unknown),2,Alarm.Odor (Strange / Unknown).Visitacion Valley,node339
+Alarm,West of Twin Peaks,Odor (Strange / Unknown),10,Alarm.Odor (Strange / Unknown).West of Twin Peaks,node340
+Alarm,Western Addition,Odor (Strange / Unknown),20,Alarm.Odor (Strange / Unknown).Western Addition,node341
+Alarm,Bayview Hunters Point,Other,185,Alarm.Other.Bayview Hunters Point,node342
+Alarm,Bernal Heights,Other,60,Alarm.Other.Bernal Heights,node343
+Alarm,Castro/Upper Market,Other,84,Alarm.Other.Castro/Upper Market,node344
+Alarm,Chinatown,Other,61,Alarm.Other.Chinatown,node345
+Alarm,Excelsior,Other,65,Alarm.Other.Excelsior,node346
+Alarm,Financial District/South Beach,Other,215,Alarm.Other.Financial District/South Beach,node347
+Alarm,Glen Park,Other,31,Alarm.Other.Glen Park,node348
+Alarm,Golden Gate Park,Other,18,Alarm.Other.Golden Gate Park,node349
+Alarm,Haight Ashbury,Other,29,Alarm.Other.Haight Ashbury,node350
+Alarm,Hayes Valley,Other,86,Alarm.Other.Hayes Valley,node351
+Alarm,Inner Richmond,Other,49,Alarm.Other.Inner Richmond,node352
+Alarm,Inner Sunset,Other,90,Alarm.Other.Inner Sunset,node353
+Alarm,Japantown,Other,28,Alarm.Other.Japantown,node354
+Alarm,Lakeshore,Other,33,Alarm.Other.Lakeshore,node355
+Alarm,Lincoln Park,Other,3,Alarm.Other.Lincoln Park,node356
+Alarm,Lone Mountain/USF,Other,21,Alarm.Other.Lone Mountain/USF,node357
+Alarm,Marina,Other,73,Alarm.Other.Marina,node358
+Alarm,McLaren Park,Other,2,Alarm.Other.McLaren Park,node359
+Alarm,Mission,Other,244,Alarm.Other.Mission,node360
+Alarm,Mission Bay,Other,47,Alarm.Other.Mission Bay,node361
+Alarm,Nob Hill,Other,79,Alarm.Other.Nob Hill,node362
+Alarm,Noe Valley,Other,58,Alarm.Other.Noe Valley,node363
+Alarm,None,Other,58,Alarm.Other.None,node364
+Alarm,North Beach,Other,70,Alarm.Other.North Beach,node365
+Alarm,Oceanview/Merced/Ingleside,Other,51,Alarm.Other.Oceanview/Merced/Ingleside,node366
+Alarm,Outer Mission,Other,31,Alarm.Other.Outer Mission,node367
+Alarm,Outer Richmond,Other,73,Alarm.Other.Outer Richmond,node368
+Alarm,Pacific Heights,Other,68,Alarm.Other.Pacific Heights,node369
+Alarm,Portola,Other,34,Alarm.Other.Portola,node370
+Alarm,Potrero Hill,Other,82,Alarm.Other.Potrero Hill,node371
+Alarm,Presidio,Other,9,Alarm.Other.Presidio,node372
+Alarm,Presidio Heights,Other,33,Alarm.Other.Presidio Heights,node373
+Alarm,Russian Hill,Other,56,Alarm.Other.Russian Hill,node374
+Alarm,Seacliff,Other,1,Alarm.Other.Seacliff,node375
+Alarm,South of Market,Other,240,Alarm.Other.South of Market,node376
+Alarm,Sunset/Parkside,Other,114,Alarm.Other.Sunset/Parkside,node377
+Alarm,Tenderloin,Other,192,Alarm.Other.Tenderloin,node378
+Alarm,Treasure Island,Other,21,Alarm.Other.Treasure Island,node379
+Alarm,Twin Peaks,Other,35,Alarm.Other.Twin Peaks,node380
+Alarm,Visitacion Valley,Other,23,Alarm.Other.Visitacion Valley,node381
+Alarm,West of Twin Peaks,Other,122,Alarm.Other.West of Twin Peaks,node382
+Alarm,Western Addition,Other,66,Alarm.Other.Western Addition,node383
+Alarm,Bayview Hunters Point,Outside Fire,2,Alarm.Outside Fire.Bayview Hunters Point,node384
+Alarm,Bernal Heights,Outside Fire,2,Alarm.Outside Fire.Bernal Heights,node385
+Alarm,Castro/Upper Market,Outside Fire,3,Alarm.Outside Fire.Castro/Upper Market,node386
+Alarm,Chinatown,Outside Fire,1,Alarm.Outside Fire.Chinatown,node387
+Alarm,Financial District/South Beach,Outside Fire,325,Alarm.Outside Fire.Financial District/South Beach,node388
+Alarm,Golden Gate Park,Outside Fire,2,Alarm.Outside Fire.Golden Gate Park,node389
+Alarm,Haight Ashbury,Outside Fire,1,Alarm.Outside Fire.Haight Ashbury,node390
+Alarm,Hayes Valley,Outside Fire,2,Alarm.Outside Fire.Hayes Valley,node391
+Alarm,Inner Richmond,Outside Fire,2,Alarm.Outside Fire.Inner Richmond,node392
+Alarm,Inner Sunset,Outside Fire,1,Alarm.Outside Fire.Inner Sunset,node393
+Alarm,Japantown,Outside Fire,1,Alarm.Outside Fire.Japantown,node394
+Alarm,Lakeshore,Outside Fire,1,Alarm.Outside Fire.Lakeshore,node395
+Alarm,Lone Mountain/USF,Outside Fire,1,Alarm.Outside Fire.Lone Mountain/USF,node396
+Alarm,Mission,Outside Fire,5,Alarm.Outside Fire.Mission,node397
+Alarm,Nob Hill,Outside Fire,1,Alarm.Outside Fire.Nob Hill,node398
+Alarm,North Beach,Outside Fire,59,Alarm.Outside Fire.North Beach,node399
+Alarm,Outer Richmond,Outside Fire,3,Alarm.Outside Fire.Outer Richmond,node400
+Alarm,Russian Hill,Outside Fire,7,Alarm.Outside Fire.Russian Hill,node401
+Alarm,South of Market,Outside Fire,2,Alarm.Outside Fire.South of Market,node402
+Alarm,Sunset/Parkside,Outside Fire,2,Alarm.Outside Fire.Sunset/Parkside,node403
+Alarm,Tenderloin,Outside Fire,2,Alarm.Outside Fire.Tenderloin,node404
+Alarm,Twin Peaks,Outside Fire,1,Alarm.Outside Fire.Twin Peaks,node405
+Alarm,West of Twin Peaks,Outside Fire,7,Alarm.Outside Fire.West of Twin Peaks,node406
+Alarm,Western Addition,Outside Fire,3,Alarm.Outside Fire.Western Addition,node407
+Alarm,Bayview Hunters Point,Smoke Investigation (Outside),75,Alarm.Smoke Investigation (Outside).Bayview Hunters Point,node408
+Alarm,Bernal Heights,Smoke Investigation (Outside),29,Alarm.Smoke Investigation (Outside).Bernal Heights,node409
+Alarm,Castro/Upper Market,Smoke Investigation (Outside),16,Alarm.Smoke Investigation (Outside).Castro/Upper Market,node410
+Alarm,Chinatown,Smoke Investigation (Outside),15,Alarm.Smoke Investigation (Outside).Chinatown,node411
+Alarm,Excelsior,Smoke Investigation (Outside),9,Alarm.Smoke Investigation (Outside).Excelsior,node412
+Alarm,Financial District/South Beach,Smoke Investigation (Outside),29,Alarm.Smoke Investigation (Outside).Financial District/South Beach,node413
+Alarm,Glen Park,Smoke Investigation (Outside),7,Alarm.Smoke Investigation (Outside).Glen Park,node414
+Alarm,Golden Gate Park,Smoke Investigation (Outside),18,Alarm.Smoke Investigation (Outside).Golden Gate Park,node415
+Alarm,Haight Ashbury,Smoke Investigation (Outside),17,Alarm.Smoke Investigation (Outside).Haight Ashbury,node416
+Alarm,Hayes Valley,Smoke Investigation (Outside),9,Alarm.Smoke Investigation (Outside).Hayes Valley,node417
+Alarm,Inner Richmond,Smoke Investigation (Outside),13,Alarm.Smoke Investigation (Outside).Inner Richmond,node418
+Alarm,Inner Sunset,Smoke Investigation (Outside),22,Alarm.Smoke Investigation (Outside).Inner Sunset,node419
+Alarm,Japantown,Smoke Investigation (Outside),2,Alarm.Smoke Investigation (Outside).Japantown,node420
+Alarm,Lakeshore,Smoke Investigation (Outside),5,Alarm.Smoke Investigation (Outside).Lakeshore,node421
+Alarm,Lincoln Park,Smoke Investigation (Outside),12,Alarm.Smoke Investigation (Outside).Lincoln Park,node422
+Alarm,Lone Mountain/USF,Smoke Investigation (Outside),8,Alarm.Smoke Investigation (Outside).Lone Mountain/USF,node423
+Alarm,Marina,Smoke Investigation (Outside),10,Alarm.Smoke Investigation (Outside).Marina,node424
+Alarm,McLaren Park,Smoke Investigation (Outside),17,Alarm.Smoke Investigation (Outside).McLaren Park,node425
+Alarm,Mission,Smoke Investigation (Outside),84,Alarm.Smoke Investigation (Outside).Mission,node426
+Alarm,Mission Bay,Smoke Investigation (Outside),4,Alarm.Smoke Investigation (Outside).Mission Bay,node427
+Alarm,Nob Hill,Smoke Investigation (Outside),27,Alarm.Smoke Investigation (Outside).Nob Hill,node428
+Alarm,Noe Valley,Smoke Investigation (Outside),15,Alarm.Smoke Investigation (Outside).Noe Valley,node429
+Alarm,North Beach,Smoke Investigation (Outside),5,Alarm.Smoke Investigation (Outside).North Beach,node430
+Alarm,Oceanview/Merced/Ingleside,Smoke Investigation (Outside),7,Alarm.Smoke Investigation (Outside).Oceanview/Merced/Ingleside,node431
+Alarm,Outer Mission,Smoke Investigation (Outside),5,Alarm.Smoke Investigation (Outside).Outer Mission,node432
+Alarm,Outer Richmond,Smoke Investigation (Outside),35,Alarm.Smoke Investigation (Outside).Outer Richmond,node433
+Alarm,Pacific Heights,Smoke Investigation (Outside),6,Alarm.Smoke Investigation (Outside).Pacific Heights,node434
+Alarm,Portola,Smoke Investigation (Outside),14,Alarm.Smoke Investigation (Outside).Portola,node435
+Alarm,Potrero Hill,Smoke Investigation (Outside),23,Alarm.Smoke Investigation (Outside).Potrero Hill,node436
+Alarm,Presidio,Smoke Investigation (Outside),2,Alarm.Smoke Investigation (Outside).Presidio,node437
+Alarm,Presidio Heights,Smoke Investigation (Outside),5,Alarm.Smoke Investigation (Outside).Presidio Heights,node438
+Alarm,Russian Hill,Smoke Investigation (Outside),37,Alarm.Smoke Investigation (Outside).Russian Hill,node439
+Alarm,Seacliff,Smoke Investigation (Outside),2,Alarm.Smoke Investigation (Outside).Seacliff,node440
+Alarm,South of Market,Smoke Investigation (Outside),38,Alarm.Smoke Investigation (Outside).South of Market,node441
+Alarm,Sunset/Parkside,Smoke Investigation (Outside),23,Alarm.Smoke Investigation (Outside).Sunset/Parkside,node442
+Alarm,Tenderloin,Smoke Investigation (Outside),16,Alarm.Smoke Investigation (Outside).Tenderloin,node443
+Alarm,Treasure Island,Smoke Investigation (Outside),13,Alarm.Smoke Investigation (Outside).Treasure Island,node444
+Alarm,Twin Peaks,Smoke Investigation (Outside),12,Alarm.Smoke Investigation (Outside).Twin Peaks,node445
+Alarm,Visitacion Valley,Smoke Investigation (Outside),7,Alarm.Smoke Investigation (Outside).Visitacion Valley,node446
+Alarm,West of Twin Peaks,Smoke Investigation (Outside),31,Alarm.Smoke Investigation (Outside).West of Twin Peaks,node447
+Alarm,Western Addition,Smoke Investigation (Outside),13,Alarm.Smoke Investigation (Outside).Western Addition,node448
+Alarm,Bayview Hunters Point,Structure Fire,"1,018",Alarm.Structure Fire.Bayview Hunters Point,node449
+Alarm,Bernal Heights,Structure Fire,416,Alarm.Structure Fire.Bernal Heights,node450
+Alarm,Castro/Upper Market,Structure Fire,617,Alarm.Structure Fire.Castro/Upper Market,node451
+Alarm,Chinatown,Structure Fire,276,Alarm.Structure Fire.Chinatown,node452
+Alarm,Excelsior,Structure Fire,429,Alarm.Structure Fire.Excelsior,node453
+Alarm,Financial District/South Beach,Structure Fire,"1,380",Alarm.Structure Fire.Financial District/South Beach,node454
+Alarm,Glen Park,Structure Fire,125,Alarm.Structure Fire.Glen Park,node455
+Alarm,Golden Gate Park,Structure Fire,80,Alarm.Structure Fire.Golden Gate Park,node456
+Alarm,Haight Ashbury,Structure Fire,402,Alarm.Structure Fire.Haight Ashbury,node457
+Alarm,Hayes Valley,Structure Fire,843,Alarm.Structure Fire.Hayes Valley,node458
+Alarm,Inner Richmond,Structure Fire,356,Alarm.Structure Fire.Inner Richmond,node459
+Alarm,Inner Sunset,Structure Fire,446,Alarm.Structure Fire.Inner Sunset,node460
+Alarm,Japantown,Structure Fire,195,Alarm.Structure Fire.Japantown,node461
+Alarm,Lakeshore,Structure Fire,261,Alarm.Structure Fire.Lakeshore,node462
+Alarm,Lincoln Park,Structure Fire,13,Alarm.Structure Fire.Lincoln Park,node463
+Alarm,Lone Mountain/USF,Structure Fire,362,Alarm.Structure Fire.Lone Mountain/USF,node464
+Alarm,Marina,Structure Fire,904,Alarm.Structure Fire.Marina,node465
+Alarm,McLaren Park,Structure Fire,29,Alarm.Structure Fire.McLaren Park,node466
+Alarm,Mission,Structure Fire,"2,118",Alarm.Structure Fire.Mission,node467
+Alarm,Mission Bay,Structure Fire,292,Alarm.Structure Fire.Mission Bay,node468
+Alarm,Nob Hill,Structure Fire,"1,435",Alarm.Structure Fire.Nob Hill,node469
+Alarm,Noe Valley,Structure Fire,317,Alarm.Structure Fire.Noe Valley,node470
+Alarm,None,Structure Fire,5,Alarm.Structure Fire.None,node471
+Alarm,North Beach,Structure Fire,316,Alarm.Structure Fire.North Beach,node472
+Alarm,Oceanview/Merced/Ingleside,Structure Fire,289,Alarm.Structure Fire.Oceanview/Merced/Ingleside,node473
+Alarm,Outer Mission,Structure Fire,204,Alarm.Structure Fire.Outer Mission,node474
+Alarm,Outer Richmond,Structure Fire,716,Alarm.Structure Fire.Outer Richmond,node475
+Alarm,Pacific Heights,Structure Fire,661,Alarm.Structure Fire.Pacific Heights,node476
+Alarm,Portola,Structure Fire,156,Alarm.Structure Fire.Portola,node477
+Alarm,Potrero Hill,Structure Fire,317,Alarm.Structure Fire.Potrero Hill,node478
+Alarm,Presidio,Structure Fire,30,Alarm.Structure Fire.Presidio,node479
+Alarm,Presidio Heights,Structure Fire,253,Alarm.Structure Fire.Presidio Heights,node480
+Alarm,Russian Hill,Structure Fire,419,Alarm.Structure Fire.Russian Hill,node481
+Alarm,Seacliff,Structure Fire,48,Alarm.Structure Fire.Seacliff,node482
+Alarm,South of Market,Structure Fire,"1,478",Alarm.Structure Fire.South of Market,node483
+Alarm,Sunset/Parkside,Structure Fire,866,Alarm.Structure Fire.Sunset/Parkside,node484
+Alarm,Tenderloin,Structure Fire,"2,254",Alarm.Structure Fire.Tenderloin,node485
+Alarm,Treasure Island,Structure Fire,155,Alarm.Structure Fire.Treasure Island,node486
+Alarm,Twin Peaks,Structure Fire,124,Alarm.Structure Fire.Twin Peaks,node487
+Alarm,Visitacion Valley,Structure Fire,212,Alarm.Structure Fire.Visitacion Valley,node488
+Alarm,West of Twin Peaks,Structure Fire,591,Alarm.Structure Fire.West of Twin Peaks,node489
+Alarm,Western Addition,Structure Fire,961,Alarm.Structure Fire.Western Addition,node490
+Fire,Bayview Hunters Point,Confined Space / Structure Collapse,6,Fire.Confined Space / Structure Collapse.Bayview Hunters Point,node491
+Fire,Japantown,Confined Space / Structure Collapse,6,Fire.Confined Space / Structure Collapse.Japantown,node492
+Fire,Marina,Confined Space / Structure Collapse,7,Fire.Confined Space / Structure Collapse.Marina,node493
+Fire,Mission,Confined Space / Structure Collapse,9,Fire.Confined Space / Structure Collapse.Mission,node494
+Fire,Potrero Hill,Confined Space / Structure Collapse,14,Fire.Confined Space / Structure Collapse.Potrero Hill,node495
+Fire,South of Market,Confined Space / Structure Collapse,6,Fire.Confined Space / Structure Collapse.South of Market,node496
+Fire,West of Twin Peaks,Confined Space / Structure Collapse,6,Fire.Confined Space / Structure Collapse.West of Twin Peaks,node497
+Fire,Bayview Hunters Point,Explosion,3,Fire.Explosion.Bayview Hunters Point,node498
+Fire,Castro/Upper Market,Explosion,10,Fire.Explosion.Castro/Upper Market,node499
+Fire,Chinatown,Explosion,4,Fire.Explosion.Chinatown,node500
+Fire,Financial District/South Beach,Explosion,5,Fire.Explosion.Financial District/South Beach,node501
+Fire,Glen Park,Explosion,5,Fire.Explosion.Glen Park,node502
+Fire,Haight Ashbury,Explosion,9,Fire.Explosion.Haight Ashbury,node503
+Fire,Marina,Explosion,5,Fire.Explosion.Marina,node504
+Fire,Mission Bay,Explosion,6,Fire.Explosion.Mission Bay,node505
+Fire,Nob Hill,Explosion,4,Fire.Explosion.Nob Hill,node506
+Fire,Noe Valley,Explosion,7,Fire.Explosion.Noe Valley,node507
+Fire,Outer Mission,Explosion,4,Fire.Explosion.Outer Mission,node508
+Fire,Outer Richmond,Explosion,5,Fire.Explosion.Outer Richmond,node509
+Fire,Pacific Heights,Explosion,13,Fire.Explosion.Pacific Heights,node510
+Fire,Potrero Hill,Explosion,12,Fire.Explosion.Potrero Hill,node511
+Fire,South of Market,Explosion,22,Fire.Explosion.South of Market,node512
+Fire,Sunset/Parkside,Explosion,7,Fire.Explosion.Sunset/Parkside,node513
+Fire,Tenderloin,Explosion,4,Fire.Explosion.Tenderloin,node514
+Fire,Twin Peaks,Explosion,4,Fire.Explosion.Twin Peaks,node515
+Fire,West of Twin Peaks,Explosion,1,Fire.Explosion.West of Twin Peaks,node516
+Fire,Bayview Hunters Point,"Extrication / Entrapped (Machinery, Vehicle)",13,"Fire.Extrication / Entrapped (Machinery, Vehicle).Bayview Hunters Point",node517
+Fire,Castro/Upper Market,"Extrication / Entrapped (Machinery, Vehicle)",2,"Fire.Extrication / Entrapped (Machinery, Vehicle).Castro/Upper Market",node518
+Fire,Financial District/South Beach,"Extrication / Entrapped (Machinery, Vehicle)",7,"Fire.Extrication / Entrapped (Machinery, Vehicle).Financial District/South Beach",node519
+Fire,Japantown,"Extrication / Entrapped (Machinery, Vehicle)",7,"Fire.Extrication / Entrapped (Machinery, Vehicle).Japantown",node520
+Fire,Noe Valley,"Extrication / Entrapped (Machinery, Vehicle)",6,"Fire.Extrication / Entrapped (Machinery, Vehicle).Noe Valley",node521
+Fire,Oceanview/Merced/Ingleside,"Extrication / Entrapped (Machinery, Vehicle)",2,"Fire.Extrication / Entrapped (Machinery, Vehicle).Oceanview/Merced/Ingleside",node522
+Fire,West of Twin Peaks,"Extrication / Entrapped (Machinery, Vehicle)",5,"Fire.Extrication / Entrapped (Machinery, Vehicle).West of Twin Peaks",node523
+Fire,Bayview Hunters Point,HazMat,2,Fire.HazMat.Bayview Hunters Point,node524
+Fire,Financial District/South Beach,HazMat,2,Fire.HazMat.Financial District/South Beach,node525
+Fire,Haight Ashbury,HazMat,2,Fire.HazMat.Haight Ashbury,node526
+Fire,Hayes Valley,HazMat,3,Fire.HazMat.Hayes Valley,node527
+Fire,Marina,HazMat,2,Fire.HazMat.Marina,node528
+Fire,Mission,HazMat,5,Fire.HazMat.Mission,node529
+Fire,Outer Richmond,HazMat,2,Fire.HazMat.Outer Richmond,node530
+Fire,Pacific Heights,HazMat,1,Fire.HazMat.Pacific Heights,node531
+Fire,South of Market,HazMat,3,Fire.HazMat.South of Market,node532
+Fire,West of Twin Peaks,HazMat,4,Fire.HazMat.West of Twin Peaks,node533
+Fire,Western Addition,HazMat,2,Fire.HazMat.Western Addition,node534
+Fire,Financial District/South Beach,High Angle Rescue,7,Fire.High Angle Rescue.Financial District/South Beach,node535
+Fire,Lakeshore,High Angle Rescue,9,Fire.High Angle Rescue.Lakeshore,node536
+Fire,North Beach,High Angle Rescue,7,Fire.High Angle Rescue.North Beach,node537
+Fire,Seacliff,High Angle Rescue,9,Fire.High Angle Rescue.Seacliff,node538
+Fire,Twin Peaks,High Angle Rescue,8,Fire.High Angle Rescue.Twin Peaks,node539
+Fire,Bayview Hunters Point,Industrial Accidents,20,Fire.Industrial Accidents.Bayview Hunters Point,node540
+Fire,Chinatown,Industrial Accidents,3,Fire.Industrial Accidents.Chinatown,node541
+Fire,Financial District/South Beach,Industrial Accidents,26,Fire.Industrial Accidents.Financial District/South Beach,node542
+Fire,Golden Gate Park,Industrial Accidents,3,Fire.Industrial Accidents.Golden Gate Park,node543
+Fire,Lone Mountain/USF,Industrial Accidents,8,Fire.Industrial Accidents.Lone Mountain/USF,node544
+Fire,Mission,Industrial Accidents,10,Fire.Industrial Accidents.Mission,node545
+Fire,Mission Bay,Industrial Accidents,9,Fire.Industrial Accidents.Mission Bay,node546
+Fire,Nob Hill,Industrial Accidents,8,Fire.Industrial Accidents.Nob Hill,node547
+Fire,North Beach,Industrial Accidents,3,Fire.Industrial Accidents.North Beach,node548
+Fire,Outer Mission,Industrial Accidents,6,Fire.Industrial Accidents.Outer Mission,node549
+Fire,South of Market,Industrial Accidents,6,Fire.Industrial Accidents.South of Market,node550
+Fire,Tenderloin,Industrial Accidents,6,Fire.Industrial Accidents.Tenderloin,node551
+Fire,Treasure Island,Industrial Accidents,4,Fire.Industrial Accidents.Treasure Island,node552
+Fire,West of Twin Peaks,Industrial Accidents,5,Fire.Industrial Accidents.West of Twin Peaks,node553
+Fire,Bayview Hunters Point,Marine Fire,14,Fire.Marine Fire.Bayview Hunters Point,node554
+Fire,North Beach,Marine Fire,11,Fire.Marine Fire.North Beach,node555
+Fire,Mission,Mutual Aid / Assist Outside Agency,11,Fire.Mutual Aid / Assist Outside Agency.Mission,node556
+Fire,Outer Richmond,Odor (Strange / Unknown),1,Fire.Odor (Strange / Unknown).Outer Richmond,node557
+Fire,Castro/Upper Market,Other,3,Fire.Other.Castro/Upper Market,node558
+Fire,Financial District/South Beach,Other,11,Fire.Other.Financial District/South Beach,node559
+Fire,Inner Sunset,Other,1,Fire.Other.Inner Sunset,node560
+Fire,Japantown,Other,1,Fire.Other.Japantown,node561
+Fire,Lone Mountain/USF,Other,2,Fire.Other.Lone Mountain/USF,node562
+Fire,Mission,Other,1,Fire.Other.Mission,node563
+Fire,North Beach,Other,12,Fire.Other.North Beach,node564
+Fire,Potrero Hill,Other,6,Fire.Other.Potrero Hill,node565
+Fire,Presidio,Other,219,Fire.Other.Presidio,node566
+Fire,South of Market,Other,11,Fire.Other.South of Market,node567
+Fire,Tenderloin,Other,19,Fire.Other.Tenderloin,node568
+Fire,Treasure Island,Other,53,Fire.Other.Treasure Island,node569
+Fire,Western Addition,Other,3,Fire.Other.Western Addition,node570
+Fire,Bayview Hunters Point,Outside Fire,618,Fire.Outside Fire.Bayview Hunters Point,node571
+Fire,Bernal Heights,Outside Fire,180,Fire.Outside Fire.Bernal Heights,node572
+Fire,Castro/Upper Market,Outside Fire,153,Fire.Outside Fire.Castro/Upper Market,node573
+Fire,Chinatown,Outside Fire,59,Fire.Outside Fire.Chinatown,node574
+Fire,Excelsior,Outside Fire,41,Fire.Outside Fire.Excelsior,node575
+Fire,Financial District/South Beach,Outside Fire,283,Fire.Outside Fire.Financial District/South Beach,node576
+Fire,Glen Park,Outside Fire,15,Fire.Outside Fire.Glen Park,node577
+Fire,Golden Gate Park,Outside Fire,101,Fire.Outside Fire.Golden Gate Park,node578
+Fire,Haight Ashbury,Outside Fire,87,Fire.Outside Fire.Haight Ashbury,node579
+Fire,Hayes Valley,Outside Fire,114,Fire.Outside Fire.Hayes Valley,node580
+Fire,Inner Richmond,Outside Fire,40,Fire.Outside Fire.Inner Richmond,node581
+Fire,Inner Sunset,Outside Fire,26,Fire.Outside Fire.Inner Sunset,node582
+Fire,Japantown,Outside Fire,8,Fire.Outside Fire.Japantown,node583
+Fire,Lakeshore,Outside Fire,37,Fire.Outside Fire.Lakeshore,node584
+Fire,Lincoln Park,Outside Fire,13,Fire.Outside Fire.Lincoln Park,node585
+Fire,Lone Mountain/USF,Outside Fire,19,Fire.Outside Fire.Lone Mountain/USF,node586
+Fire,Marina,Outside Fire,51,Fire.Outside Fire.Marina,node587
+Fire,McLaren Park,Outside Fire,42,Fire.Outside Fire.McLaren Park,node588
+Fire,Mission,Outside Fire,393,Fire.Outside Fire.Mission,node589
+Fire,Mission Bay,Outside Fire,105,Fire.Outside Fire.Mission Bay,node590
+Fire,Nob Hill,Outside Fire,80,Fire.Outside Fire.Nob Hill,node591
+Fire,Noe Valley,Outside Fire,19,Fire.Outside Fire.Noe Valley,node592
+Fire,None,Outside Fire,6,Fire.Outside Fire.None,node593
+Fire,North Beach,Outside Fire,49,Fire.Outside Fire.North Beach,node594
+Fire,Oceanview/Merced/Ingleside,Outside Fire,45,Fire.Outside Fire.Oceanview/Merced/Ingleside,node595
+Fire,Outer Mission,Outside Fire,51,Fire.Outside Fire.Outer Mission,node596
+Fire,Outer Richmond,Outside Fire,81,Fire.Outside Fire.Outer Richmond,node597
+Fire,Pacific Heights,Outside Fire,40,Fire.Outside Fire.Pacific Heights,node598
+Fire,Portola,Outside Fire,40,Fire.Outside Fire.Portola,node599
+Fire,Potrero Hill,Outside Fire,157,Fire.Outside Fire.Potrero Hill,node600
+Fire,Presidio,Outside Fire,19,Fire.Outside Fire.Presidio,node601
+Fire,Presidio Heights,Outside Fire,11,Fire.Outside Fire.Presidio Heights,node602
+Fire,Russian Hill,Outside Fire,23,Fire.Outside Fire.Russian Hill,node603
+Fire,Seacliff,Outside Fire,18,Fire.Outside Fire.Seacliff,node604
+Fire,South of Market,Outside Fire,217,Fire.Outside Fire.South of Market,node605
+Fire,Sunset/Parkside,Outside Fire,103,Fire.Outside Fire.Sunset/Parkside,node606
+Fire,Tenderloin,Outside Fire,190,Fire.Outside Fire.Tenderloin,node607
+Fire,Treasure Island,Outside Fire,55,Fire.Outside Fire.Treasure Island,node608
+Fire,Twin Peaks,Outside Fire,14,Fire.Outside Fire.Twin Peaks,node609
+Fire,Visitacion Valley,Outside Fire,99,Fire.Outside Fire.Visitacion Valley,node610
+Fire,West of Twin Peaks,Outside Fire,56,Fire.Outside Fire.West of Twin Peaks,node611
+Fire,Western Addition,Outside Fire,95,Fire.Outside Fire.Western Addition,node612
+Fire,Bayview Hunters Point,Structure Fire,322,Fire.Structure Fire.Bayview Hunters Point,node613
+Fire,Bernal Heights,Structure Fire,102,Fire.Structure Fire.Bernal Heights,node614
+Fire,Castro/Upper Market,Structure Fire,77,Fire.Structure Fire.Castro/Upper Market,node615
+Fire,Chinatown,Structure Fire,28,Fire.Structure Fire.Chinatown,node616
+Fire,Excelsior,Structure Fire,99,Fire.Structure Fire.Excelsior,node617
+Fire,Financial District/South Beach,Structure Fire,58,Fire.Structure Fire.Financial District/South Beach,node618
+Fire,Glen Park,Structure Fire,53,Fire.Structure Fire.Glen Park,node619
+Fire,Haight Ashbury,Structure Fire,52,Fire.Structure Fire.Haight Ashbury,node620
+Fire,Hayes Valley,Structure Fire,38,Fire.Structure Fire.Hayes Valley,node621
+Fire,Inner Richmond,Structure Fire,55,Fire.Structure Fire.Inner Richmond,node622
+Fire,Inner Sunset,Structure Fire,51,Fire.Structure Fire.Inner Sunset,node623
+Fire,Japantown,Structure Fire,11,Fire.Structure Fire.Japantown,node624
+Fire,Lakeshore,Structure Fire,38,Fire.Structure Fire.Lakeshore,node625
+Fire,Lone Mountain/USF,Structure Fire,100,Fire.Structure Fire.Lone Mountain/USF,node626
+Fire,Marina,Structure Fire,44,Fire.Structure Fire.Marina,node627
+Fire,Mission,Structure Fire,331,Fire.Structure Fire.Mission,node628
+Fire,Mission Bay,Structure Fire,42,Fire.Structure Fire.Mission Bay,node629
+Fire,Nob Hill,Structure Fire,33,Fire.Structure Fire.Nob Hill,node630
+Fire,Noe Valley,Structure Fire,42,Fire.Structure Fire.Noe Valley,node631
+Fire,North Beach,Structure Fire,52,Fire.Structure Fire.North Beach,node632
+Fire,Oceanview/Merced/Ingleside,Structure Fire,61,Fire.Structure Fire.Oceanview/Merced/Ingleside,node633
+Fire,Outer Mission,Structure Fire,90,Fire.Structure Fire.Outer Mission,node634
+Fire,Outer Richmond,Structure Fire,167,Fire.Structure Fire.Outer Richmond,node635
+Fire,Pacific Heights,Structure Fire,66,Fire.Structure Fire.Pacific Heights,node636
+Fire,Portola,Structure Fire,37,Fire.Structure Fire.Portola,node637
+Fire,Potrero Hill,Structure Fire,114,Fire.Structure Fire.Potrero Hill,node638
+Fire,Presidio,Structure Fire,14,Fire.Structure Fire.Presidio,node639
+Fire,Presidio Heights,Structure Fire,29,Fire.Structure Fire.Presidio Heights,node640
+Fire,Russian Hill,Structure Fire,94,Fire.Structure Fire.Russian Hill,node641
+Fire,Seacliff,Structure Fire,25,Fire.Structure Fire.Seacliff,node642
+Fire,South of Market,Structure Fire,137,Fire.Structure Fire.South of Market,node643
+Fire,Sunset/Parkside,Structure Fire,140,Fire.Structure Fire.Sunset/Parkside,node644
+Fire,Tenderloin,Structure Fire,58,Fire.Structure Fire.Tenderloin,node645
+Fire,Twin Peaks,Structure Fire,28,Fire.Structure Fire.Twin Peaks,node646
+Fire,Visitacion Valley,Structure Fire,74,Fire.Structure Fire.Visitacion Valley,node647
+Fire,West of Twin Peaks,Structure Fire,78,Fire.Structure Fire.West of Twin Peaks,node648
+Fire,Western Addition,Structure Fire,79,Fire.Structure Fire.Western Addition,node649
+Fire,Financial District/South Beach,Train / Rail Incident,61,Fire.Train / Rail Incident.Financial District/South Beach,node650
+Fire,Mission,Train / Rail Incident,7,Fire.Train / Rail Incident.Mission,node651
+Fire,Mission Bay,Train / Rail Incident,8,Fire.Train / Rail Incident.Mission Bay,node652
+Fire,Outer Mission,Train / Rail Incident,13,Fire.Train / Rail Incident.Outer Mission,node653
+Fire,West of Twin Peaks,Train / Rail Incident,14,Fire.Train / Rail Incident.West of Twin Peaks,node654
+Fire,Bayview Hunters Point,Vehicle Fire,178,Fire.Vehicle Fire.Bayview Hunters Point,node655
+Fire,Bernal Heights,Vehicle Fire,45,Fire.Vehicle Fire.Bernal Heights,node656
+Fire,Castro/Upper Market,Vehicle Fire,18,Fire.Vehicle Fire.Castro/Upper Market,node657
+Fire,Chinatown,Vehicle Fire,8,Fire.Vehicle Fire.Chinatown,node658
+Fire,Excelsior,Vehicle Fire,20,Fire.Vehicle Fire.Excelsior,node659
+Fire,Financial District/South Beach,Vehicle Fire,81,Fire.Vehicle Fire.Financial District/South Beach,node660
+Fire,Golden Gate Park,Vehicle Fire,18,Fire.Vehicle Fire.Golden Gate Park,node661
+Fire,Haight Ashbury,Vehicle Fire,7,Fire.Vehicle Fire.Haight Ashbury,node662
+Fire,Hayes Valley,Vehicle Fire,40,Fire.Vehicle Fire.Hayes Valley,node663
+Fire,Inner Richmond,Vehicle Fire,8,Fire.Vehicle Fire.Inner Richmond,node664
+Fire,Inner Sunset,Vehicle Fire,9,Fire.Vehicle Fire.Inner Sunset,node665
+Fire,Lakeshore,Vehicle Fire,13,Fire.Vehicle Fire.Lakeshore,node666
+Fire,Lincoln Park,Vehicle Fire,3,Fire.Vehicle Fire.Lincoln Park,node667
+Fire,Lone Mountain/USF,Vehicle Fire,1,Fire.Vehicle Fire.Lone Mountain/USF,node668
+Fire,Marina,Vehicle Fire,12,Fire.Vehicle Fire.Marina,node669
+Fire,Mission,Vehicle Fire,73,Fire.Vehicle Fire.Mission,node670
+Fire,Mission Bay,Vehicle Fire,12,Fire.Vehicle Fire.Mission Bay,node671
+Fire,Nob Hill,Vehicle Fire,16,Fire.Vehicle Fire.Nob Hill,node672
+Fire,Noe Valley,Vehicle Fire,9,Fire.Vehicle Fire.Noe Valley,node673
+Fire,North Beach,Vehicle Fire,14,Fire.Vehicle Fire.North Beach,node674
+Fire,Oceanview/Merced/Ingleside,Vehicle Fire,16,Fire.Vehicle Fire.Oceanview/Merced/Ingleside,node675
+Fire,Outer Mission,Vehicle Fire,17,Fire.Vehicle Fire.Outer Mission,node676
+Fire,Outer Richmond,Vehicle Fire,23,Fire.Vehicle Fire.Outer Richmond,node677
+Fire,Pacific Heights,Vehicle Fire,23,Fire.Vehicle Fire.Pacific Heights,node678
+Fire,Portola,Vehicle Fire,18,Fire.Vehicle Fire.Portola,node679
+Fire,Potrero Hill,Vehicle Fire,50,Fire.Vehicle Fire.Potrero Hill,node680
+Fire,Presidio,Vehicle Fire,13,Fire.Vehicle Fire.Presidio,node681
+Fire,Presidio Heights,Vehicle Fire,16,Fire.Vehicle Fire.Presidio Heights,node682
+Fire,Russian Hill,Vehicle Fire,14,Fire.Vehicle Fire.Russian Hill,node683
+Fire,South of Market,Vehicle Fire,41,Fire.Vehicle Fire.South of Market,node684
+Fire,Sunset/Parkside,Vehicle Fire,44,Fire.Vehicle Fire.Sunset/Parkside,node685
+Fire,Tenderloin,Vehicle Fire,78,Fire.Vehicle Fire.Tenderloin,node686
+Fire,Treasure Island,Vehicle Fire,64,Fire.Vehicle Fire.Treasure Island,node687
+Fire,Twin Peaks,Vehicle Fire,5,Fire.Vehicle Fire.Twin Peaks,node688
+Fire,Visitacion Valley,Vehicle Fire,9,Fire.Vehicle Fire.Visitacion Valley,node689
+Fire,West of Twin Peaks,Vehicle Fire,14,Fire.Vehicle Fire.West of Twin Peaks,node690
+Fire,Western Addition,Vehicle Fire,15,Fire.Vehicle Fire.Western Addition,node691
+Fire,Bayview Hunters Point,Water Rescue,90,Fire.Water Rescue.Bayview Hunters Point,node692
+Fire,Bernal Heights,Water Rescue,1,Fire.Water Rescue.Bernal Heights,node693
+Fire,Financial District/South Beach,Water Rescue,275,Fire.Water Rescue.Financial District/South Beach,node694
+Fire,Golden Gate Park,Water Rescue,23,Fire.Water Rescue.Golden Gate Park,node695
+Fire,Hayes Valley,Water Rescue,13,Fire.Water Rescue.Hayes Valley,node696
+Fire,Lakeshore,Water Rescue,193,Fire.Water Rescue.Lakeshore,node697
+Fire,Lincoln Park,Water Rescue,84,Fire.Water Rescue.Lincoln Park,node698
+Fire,Marina,Water Rescue,156,Fire.Water Rescue.Marina,node699
+Fire,Mission Bay,Water Rescue,54,Fire.Water Rescue.Mission Bay,node700
+Fire,Nob Hill,Water Rescue,69,Fire.Water Rescue.Nob Hill,node701
+Fire,None,Water Rescue,31,Fire.Water Rescue.None,node702
+Fire,North Beach,Water Rescue,167,Fire.Water Rescue.North Beach,node703
+Fire,Outer Richmond,Water Rescue,236,Fire.Water Rescue.Outer Richmond,node704
+Fire,Portola,Water Rescue,6,Fire.Water Rescue.Portola,node705
+Fire,Presidio,Water Rescue,283,Fire.Water Rescue.Presidio,node706
+Fire,Russian Hill,Water Rescue,119,Fire.Water Rescue.Russian Hill,node707
+Fire,Seacliff,Water Rescue,26,Fire.Water Rescue.Seacliff,node708
+Fire,Sunset/Parkside,Water Rescue,147,Fire.Water Rescue.Sunset/Parkside,node709
+Fire,Tenderloin,Water Rescue,29,Fire.Water Rescue.Tenderloin,node710
+Fire,Treasure Island,Water Rescue,11,Fire.Water Rescue.Treasure Island,node711
+Fire,Financial District/South Beach,Watercraft in Distress,12,Fire.Watercraft in Distress.Financial District/South Beach,node712
+Fire,Mission Bay,Watercraft in Distress,15,Fire.Watercraft in Distress.Mission Bay,node713
+Fire,North Beach,Watercraft in Distress,1,Fire.Watercraft in Distress.North Beach,node714
+Fire,Outer Richmond,Watercraft in Distress,14,Fire.Watercraft in Distress.Outer Richmond,node715
+Non Life-threatening,Bayview Hunters Point,Medical Incident,"3,473",Non Life-threatening.Medical Incident.Bayview Hunters Point,node716
+Non Life-threatening,Bernal Heights,Medical Incident,"1,180",Non Life-threatening.Medical Incident.Bernal Heights,node717
+Non Life-threatening,Castro/Upper Market,Medical Incident,"2,145",Non Life-threatening.Medical Incident.Castro/Upper Market,node718
+Non Life-threatening,Chinatown,Medical Incident,"1,482",Non Life-threatening.Medical Incident.Chinatown,node719
+Non Life-threatening,Excelsior,Medical Incident,"1,452",Non Life-threatening.Medical Incident.Excelsior,node720
+Non Life-threatening,Financial District/South Beach,Medical Incident,"4,981",Non Life-threatening.Medical Incident.Financial District/South Beach,node721
+Non Life-threatening,Glen Park,Medical Incident,326,Non Life-threatening.Medical Incident.Glen Park,node722
+Non Life-threatening,Golden Gate Park,Medical Incident,435,Non Life-threatening.Medical Incident.Golden Gate Park,node723
+Non Life-threatening,Haight Ashbury,Medical Incident,895,Non Life-threatening.Medical Incident.Haight Ashbury,node724
+Non Life-threatening,Hayes Valley,Medical Incident,"1,539",Non Life-threatening.Medical Incident.Hayes Valley,node725
+Non Life-threatening,Inner Richmond,Medical Incident,913,Non Life-threatening.Medical Incident.Inner Richmond,node726
+Non Life-threatening,Inner Sunset,Medical Incident,938,Non Life-threatening.Medical Incident.Inner Sunset,node727
+Non Life-threatening,Japantown,Medical Incident,724,Non Life-threatening.Medical Incident.Japantown,node728
+Non Life-threatening,Lakeshore,Medical Incident,"1,292",Non Life-threatening.Medical Incident.Lakeshore,node729
+Non Life-threatening,Lincoln Park,Medical Incident,40,Non Life-threatening.Medical Incident.Lincoln Park,node730
+Non Life-threatening,Lone Mountain/USF,Medical Incident,929,Non Life-threatening.Medical Incident.Lone Mountain/USF,node731
+Non Life-threatening,Marina,Medical Incident,"1,167",Non Life-threatening.Medical Incident.Marina,node732
+Non Life-threatening,McLaren Park,Medical Incident,81,Non Life-threatening.Medical Incident.McLaren Park,node733
+Non Life-threatening,Mission,Medical Incident,"7,244",Non Life-threatening.Medical Incident.Mission,node734
+Non Life-threatening,Mission Bay,Medical Incident,"1,304",Non Life-threatening.Medical Incident.Mission Bay,node735
+Non Life-threatening,Nob Hill,Medical Incident,"2,218",Non Life-threatening.Medical Incident.Nob Hill,node736
+Non Life-threatening,Noe Valley,Medical Incident,623,Non Life-threatening.Medical Incident.Noe Valley,node737
+Non Life-threatening,None,Medical Incident,37,Non Life-threatening.Medical Incident.None,node738
+Non Life-threatening,North Beach,Medical Incident,"1,486",Non Life-threatening.Medical Incident.North Beach,node739
+Non Life-threatening,Oceanview/Merced/Ingleside,Medical Incident,743,Non Life-threatening.Medical Incident.Oceanview/Merced/Ingleside,node740
+Non Life-threatening,Outer Mission,Medical Incident,"1,092",Non Life-threatening.Medical Incident.Outer Mission,node741
+Non Life-threatening,Outer Richmond,Medical Incident,"1,679",Non Life-threatening.Medical Incident.Outer Richmond,node742
+Non Life-threatening,Pacific Heights,Medical Incident,"1,391",Non Life-threatening.Medical Incident.Pacific Heights,node743
+Non Life-threatening,Portola,Medical Incident,758,Non Life-threatening.Medical Incident.Portola,node744
+Non Life-threatening,Potrero Hill,Medical Incident,"1,073",Non Life-threatening.Medical Incident.Potrero Hill,node745
+Non Life-threatening,Presidio,Medical Incident,324,Non Life-threatening.Medical Incident.Presidio,node746
+Non Life-threatening,Presidio Heights,Medical Incident,572,Non Life-threatening.Medical Incident.Presidio Heights,node747
+Non Life-threatening,Russian Hill,Medical Incident,970,Non Life-threatening.Medical Incident.Russian Hill,node748
+Non Life-threatening,Seacliff,Medical Incident,92,Non Life-threatening.Medical Incident.Seacliff,node749
+Non Life-threatening,South of Market,Medical Incident,"8,595",Non Life-threatening.Medical Incident.South of Market,node750
+Non Life-threatening,Sunset/Parkside,Medical Incident,"2,822",Non Life-threatening.Medical Incident.Sunset/Parkside,node751
+Non Life-threatening,Tenderloin,Medical Incident,"11,231",Non Life-threatening.Medical Incident.Tenderloin,node752
+Non Life-threatening,Treasure Island,Medical Incident,429,Non Life-threatening.Medical Incident.Treasure Island,node753
+Non Life-threatening,Twin Peaks,Medical Incident,425,Non Life-threatening.Medical Incident.Twin Peaks,node754
+Non Life-threatening,Visitacion Valley,Medical Incident,767,Non Life-threatening.Medical Incident.Visitacion Valley,node755
+Non Life-threatening,West of Twin Peaks,Medical Incident,"1,766",Non Life-threatening.Medical Incident.West of Twin Peaks,node756
+Non Life-threatening,Western Addition,Medical Incident,"2,392",Non Life-threatening.Medical Incident.Western Addition,node757
+Non Life-threatening,Bayview Hunters Point,Other,48,Non Life-threatening.Other.Bayview Hunters Point,node758
+Non Life-threatening,Bernal Heights,Other,12,Non Life-threatening.Other.Bernal Heights,node759
+Non Life-threatening,Castro/Upper Market,Other,23,Non Life-threatening.Other.Castro/Upper Market,node760
+Non Life-threatening,Chinatown,Other,5,Non Life-threatening.Other.Chinatown,node761
+Non Life-threatening,Excelsior,Other,13,Non Life-threatening.Other.Excelsior,node762
+Non Life-threatening,Financial District/South Beach,Other,36,Non Life-threatening.Other.Financial District/South Beach,node763
+Non Life-threatening,Glen Park,Other,7,Non Life-threatening.Other.Glen Park,node764
+Non Life-threatening,Golden Gate Park,Other,3,Non Life-threatening.Other.Golden Gate Park,node765
+Non Life-threatening,Haight Ashbury,Other,7,Non Life-threatening.Other.Haight Ashbury,node766
+Non Life-threatening,Hayes Valley,Other,14,Non Life-threatening.Other.Hayes Valley,node767
+Non Life-threatening,Inner Richmond,Other,6,Non Life-threatening.Other.Inner Richmond,node768
+Non Life-threatening,Inner Sunset,Other,12,Non Life-threatening.Other.Inner Sunset,node769
+Non Life-threatening,Lakeshore,Other,13,Non Life-threatening.Other.Lakeshore,node770
+Non Life-threatening,Lone Mountain/USF,Other,13,Non Life-threatening.Other.Lone Mountain/USF,node771
+Non Life-threatening,Marina,Other,10,Non Life-threatening.Other.Marina,node772
+Non Life-threatening,McLaren Park,Other,1,Non Life-threatening.Other.McLaren Park,node773
+Non Life-threatening,Mission,Other,100,Non Life-threatening.Other.Mission,node774
+Non Life-threatening,Mission Bay,Other,15,Non Life-threatening.Other.Mission Bay,node775
+Non Life-threatening,Nob Hill,Other,37,Non Life-threatening.Other.Nob Hill,node776
+Non Life-threatening,Noe Valley,Other,16,Non Life-threatening.Other.Noe Valley,node777
+Non Life-threatening,North Beach,Other,12,Non Life-threatening.Other.North Beach,node778
+Non Life-threatening,Oceanview/Merced/Ingleside,Other,27,Non Life-threatening.Other.Oceanview/Merced/Ingleside,node779
+Non Life-threatening,Outer Mission,Other,23,Non Life-threatening.Other.Outer Mission,node780
+Non Life-threatening,Outer Richmond,Other,11,Non Life-threatening.Other.Outer Richmond,node781
+Non Life-threatening,Pacific Heights,Other,8,Non Life-threatening.Other.Pacific Heights,node782
+Non Life-threatening,Portola,Other,2,Non Life-threatening.Other.Portola,node783
+Non Life-threatening,Potrero Hill,Other,31,Non Life-threatening.Other.Potrero Hill,node784
+Non Life-threatening,Presidio Heights,Other,2,Non Life-threatening.Other.Presidio Heights,node785
+Non Life-threatening,Russian Hill,Other,13,Non Life-threatening.Other.Russian Hill,node786
+Non Life-threatening,South of Market,Other,70,Non Life-threatening.Other.South of Market,node787
+Non Life-threatening,Sunset/Parkside,Other,26,Non Life-threatening.Other.Sunset/Parkside,node788
+Non Life-threatening,Tenderloin,Other,63,Non Life-threatening.Other.Tenderloin,node789
+Non Life-threatening,Treasure Island,Other,6,Non Life-threatening.Other.Treasure Island,node790
+Non Life-threatening,Twin Peaks,Other,1,Non Life-threatening.Other.Twin Peaks,node791
+Non Life-threatening,Visitacion Valley,Other,15,Non Life-threatening.Other.Visitacion Valley,node792
+Non Life-threatening,West of Twin Peaks,Other,20,Non Life-threatening.Other.West of Twin Peaks,node793
+Non Life-threatening,Western Addition,Other,20,Non Life-threatening.Other.Western Addition,node794
+Non Life-threatening,Bayview Hunters Point,Traffic Collision,463,Non Life-threatening.Traffic Collision.Bayview Hunters Point,node795
+Non Life-threatening,Bernal Heights,Traffic Collision,235,Non Life-threatening.Traffic Collision.Bernal Heights,node796
+Non Life-threatening,Castro/Upper Market,Traffic Collision,84,Non Life-threatening.Traffic Collision.Castro/Upper Market,node797
+Non Life-threatening,Chinatown,Traffic Collision,27,Non Life-threatening.Traffic Collision.Chinatown,node798
+Non Life-threatening,Excelsior,Traffic Collision,76,Non Life-threatening.Traffic Collision.Excelsior,node799
+Non Life-threatening,Financial District/South Beach,Traffic Collision,347,Non Life-threatening.Traffic Collision.Financial District/South Beach,node800
+Non Life-threatening,Glen Park,Traffic Collision,22,Non Life-threatening.Traffic Collision.Glen Park,node801
+Non Life-threatening,Golden Gate Park,Traffic Collision,106,Non Life-threatening.Traffic Collision.Golden Gate Park,node802
+Non Life-threatening,Haight Ashbury,Traffic Collision,40,Non Life-threatening.Traffic Collision.Haight Ashbury,node803
+Non Life-threatening,Hayes Valley,Traffic Collision,234,Non Life-threatening.Traffic Collision.Hayes Valley,node804
+Non Life-threatening,Inner Richmond,Traffic Collision,100,Non Life-threatening.Traffic Collision.Inner Richmond,node805
+Non Life-threatening,Inner Sunset,Traffic Collision,43,Non Life-threatening.Traffic Collision.Inner Sunset,node806
+Non Life-threatening,Japantown,Traffic Collision,19,Non Life-threatening.Traffic Collision.Japantown,node807
+Non Life-threatening,Lakeshore,Traffic Collision,116,Non Life-threatening.Traffic Collision.Lakeshore,node808
+Non Life-threatening,Lone Mountain/USF,Traffic Collision,38,Non Life-threatening.Traffic Collision.Lone Mountain/USF,node809
+Non Life-threatening,Marina,Traffic Collision,97,Non Life-threatening.Traffic Collision.Marina,node810
+Non Life-threatening,McLaren Park,Traffic Collision,7,Non Life-threatening.Traffic Collision.McLaren Park,node811
+Non Life-threatening,Mission,Traffic Collision,412,Non Life-threatening.Traffic Collision.Mission,node812
+Non Life-threatening,Mission Bay,Traffic Collision,66,Non Life-threatening.Traffic Collision.Mission Bay,node813
+Non Life-threatening,Nob Hill,Traffic Collision,90,Non Life-threatening.Traffic Collision.Nob Hill,node814
+Non Life-threatening,Noe Valley,Traffic Collision,65,Non Life-threatening.Traffic Collision.Noe Valley,node815
+Non Life-threatening,None,Traffic Collision,14,Non Life-threatening.Traffic Collision.None,node816
+Non Life-threatening,North Beach,Traffic Collision,34,Non Life-threatening.Traffic Collision.North Beach,node817
+Non Life-threatening,Oceanview/Merced/Ingleside,Traffic Collision,131,Non Life-threatening.Traffic Collision.Oceanview/Merced/Ingleside,node818
+Non Life-threatening,Outer Mission,Traffic Collision,200,Non Life-threatening.Traffic Collision.Outer Mission,node819
+Non Life-threatening,Outer Richmond,Traffic Collision,121,Non Life-threatening.Traffic Collision.Outer Richmond,node820
+Non Life-threatening,Pacific Heights,Traffic Collision,89,Non Life-threatening.Traffic Collision.Pacific Heights,node821
+Non Life-threatening,Portola,Traffic Collision,125,Non Life-threatening.Traffic Collision.Portola,node822
+Non Life-threatening,Potrero Hill,Traffic Collision,128,Non Life-threatening.Traffic Collision.Potrero Hill,node823
+Non Life-threatening,Presidio,Traffic Collision,47,Non Life-threatening.Traffic Collision.Presidio,node824
+Non Life-threatening,Presidio Heights,Traffic Collision,33,Non Life-threatening.Traffic Collision.Presidio Heights,node825
+Non Life-threatening,Russian Hill,Traffic Collision,73,Non Life-threatening.Traffic Collision.Russian Hill,node826
+Non Life-threatening,Seacliff,Traffic Collision,8,Non Life-threatening.Traffic Collision.Seacliff,node827
+Non Life-threatening,South of Market,Traffic Collision,354,Non Life-threatening.Traffic Collision.South of Market,node828
+Non Life-threatening,Sunset/Parkside,Traffic Collision,191,Non Life-threatening.Traffic Collision.Sunset/Parkside,node829
+Non Life-threatening,Tenderloin,Traffic Collision,171,Non Life-threatening.Traffic Collision.Tenderloin,node830
+Non Life-threatening,Treasure Island,Traffic Collision,214,Non Life-threatening.Traffic Collision.Treasure Island,node831
+Non Life-threatening,Twin Peaks,Traffic Collision,16,Non Life-threatening.Traffic Collision.Twin Peaks,node832
+Non Life-threatening,Visitacion Valley,Traffic Collision,22,Non Life-threatening.Traffic Collision.Visitacion Valley,node833
+Non Life-threatening,West of Twin Peaks,Traffic Collision,186,Non Life-threatening.Traffic Collision.West of Twin Peaks,node834
+Non Life-threatening,Western Addition,Traffic Collision,179,Non Life-threatening.Traffic Collision.Western Addition,node835
+Potentially Life-Threatening,Bayview Hunters Point,Medical Incident,"7,520",Potentially Life-Threatening.Medical Incident.Bayview Hunters Point,node836
+Potentially Life-Threatening,Bernal Heights,Medical Incident,"2,076",Potentially Life-Threatening.Medical Incident.Bernal Heights,node837
+Potentially Life-Threatening,Castro/Upper Market,Medical Incident,"3,389",Potentially Life-Threatening.Medical Incident.Castro/Upper Market,node838
+Potentially Life-Threatening,Chinatown,Medical Incident,"2,351",Potentially Life-Threatening.Medical Incident.Chinatown,node839
+Potentially Life-Threatening,Excelsior,Medical Incident,"3,143",Potentially Life-Threatening.Medical Incident.Excelsior,node840
+Potentially Life-Threatening,Financial District/South Beach,Medical Incident,"9,267",Potentially Life-Threatening.Medical Incident.Financial District/South Beach,node841
+Potentially Life-Threatening,Glen Park,Medical Incident,683,Potentially Life-Threatening.Medical Incident.Glen Park,node842
+Potentially Life-Threatening,Golden Gate Park,Medical Incident,532,Potentially Life-Threatening.Medical Incident.Golden Gate Park,node843
+Potentially Life-Threatening,Haight Ashbury,Medical Incident,"1,630",Potentially Life-Threatening.Medical Incident.Haight Ashbury,node844
+Potentially Life-Threatening,Hayes Valley,Medical Incident,"3,295",Potentially Life-Threatening.Medical Incident.Hayes Valley,node845
+Potentially Life-Threatening,Inner Richmond,Medical Incident,"1,524",Potentially Life-Threatening.Medical Incident.Inner Richmond,node846
+Potentially Life-Threatening,Inner Sunset,Medical Incident,"1,721",Potentially Life-Threatening.Medical Incident.Inner Sunset,node847
+Potentially Life-Threatening,Japantown,Medical Incident,"1,338",Potentially Life-Threatening.Medical Incident.Japantown,node848
+Potentially Life-Threatening,Lakeshore,Medical Incident,"1,726",Potentially Life-Threatening.Medical Incident.Lakeshore,node849
+Potentially Life-Threatening,Lincoln Park,Medical Incident,79,Potentially Life-Threatening.Medical Incident.Lincoln Park,node850
+Potentially Life-Threatening,Lone Mountain/USF,Medical Incident,"1,421",Potentially Life-Threatening.Medical Incident.Lone Mountain/USF,node851
+Potentially Life-Threatening,Marina,Medical Incident,"2,127",Potentially Life-Threatening.Medical Incident.Marina,node852
+Potentially Life-Threatening,McLaren Park,Medical Incident,109,Potentially Life-Threatening.Medical Incident.McLaren Park,node853
+Potentially Life-Threatening,Mission,Medical Incident,"13,544",Potentially Life-Threatening.Medical Incident.Mission,node854
+Potentially Life-Threatening,Mission Bay,Medical Incident,"2,037",Potentially Life-Threatening.Medical Incident.Mission Bay,node855
+Potentially Life-Threatening,Nob Hill,Medical Incident,"4,422",Potentially Life-Threatening.Medical Incident.Nob Hill,node856
+Potentially Life-Threatening,Noe Valley,Medical Incident,"1,090",Potentially Life-Threatening.Medical Incident.Noe Valley,node857
+Potentially Life-Threatening,None,Medical Incident,56,Potentially Life-Threatening.Medical Incident.None,node858
+Potentially Life-Threatening,North Beach,Medical Incident,"2,744",Potentially Life-Threatening.Medical Incident.North Beach,node859
+Potentially Life-Threatening,Oceanview/Merced/Ingleside,Medical Incident,"1,793",Potentially Life-Threatening.Medical Incident.Oceanview/Merced/Ingleside,node860
+Potentially Life-Threatening,Outer Mission,Medical Incident,"1,878",Potentially Life-Threatening.Medical Incident.Outer Mission,node861
+Potentially Life-Threatening,Outer Richmond,Medical Incident,"3,023",Potentially Life-Threatening.Medical Incident.Outer Richmond,node862
+Potentially Life-Threatening,Pacific Heights,Medical Incident,"2,448",Potentially Life-Threatening.Medical Incident.Pacific Heights,node863
+Potentially Life-Threatening,Portola,Medical Incident,"1,323",Potentially Life-Threatening.Medical Incident.Portola,node864
+Potentially Life-Threatening,Potrero Hill,Medical Incident,"2,153",Potentially Life-Threatening.Medical Incident.Potrero Hill,node865
+Potentially Life-Threatening,Presidio,Medical Incident,334,Potentially Life-Threatening.Medical Incident.Presidio,node866
+Potentially Life-Threatening,Presidio Heights,Medical Incident,892,Potentially Life-Threatening.Medical Incident.Presidio Heights,node867
+Potentially Life-Threatening,Russian Hill,Medical Incident,"1,763",Potentially Life-Threatening.Medical Incident.Russian Hill,node868
+Potentially Life-Threatening,Seacliff,Medical Incident,152,Potentially Life-Threatening.Medical Incident.Seacliff,node869
+Potentially Life-Threatening,South of Market,Medical Incident,"19,059",Potentially Life-Threatening.Medical Incident.South of Market,node870
+Potentially Life-Threatening,Sunset/Parkside,Medical Incident,"4,994",Potentially Life-Threatening.Medical Incident.Sunset/Parkside,node871
+Potentially Life-Threatening,Tenderloin,Medical Incident,"25,360",Potentially Life-Threatening.Medical Incident.Tenderloin,node872
+Potentially Life-Threatening,Treasure Island,Medical Incident,722,Potentially Life-Threatening.Medical Incident.Treasure Island,node873
+Potentially Life-Threatening,Twin Peaks,Medical Incident,749,Potentially Life-Threatening.Medical Incident.Twin Peaks,node874
+Potentially Life-Threatening,Visitacion Valley,Medical Incident,"1,658",Potentially Life-Threatening.Medical Incident.Visitacion Valley,node875
+Potentially Life-Threatening,West of Twin Peaks,Medical Incident,"2,734",Potentially Life-Threatening.Medical Incident.West of Twin Peaks,node876
+Potentially Life-Threatening,Western Addition,Medical Incident,"4,730",Potentially Life-Threatening.Medical Incident.Western Addition,node877
+Potentially Life-Threatening,Bayview Hunters Point,Other,23,Potentially Life-Threatening.Other.Bayview Hunters Point,node878
+Potentially Life-Threatening,Bernal Heights,Other,33,Potentially Life-Threatening.Other.Bernal Heights,node879
+Potentially Life-Threatening,Castro/Upper Market,Other,6,Potentially Life-Threatening.Other.Castro/Upper Market,node880
+Potentially Life-Threatening,Excelsior,Other,6,Potentially Life-Threatening.Other.Excelsior,node881
+Potentially Life-Threatening,Financial District/South Beach,Other,2,Potentially Life-Threatening.Other.Financial District/South Beach,node882
+Potentially Life-Threatening,Golden Gate Park,Other,9,Potentially Life-Threatening.Other.Golden Gate Park,node883
+Potentially Life-Threatening,Haight Ashbury,Other,6,Potentially Life-Threatening.Other.Haight Ashbury,node884
+Potentially Life-Threatening,Hayes Valley,Other,7,Potentially Life-Threatening.Other.Hayes Valley,node885
+Potentially Life-Threatening,Inner Richmond,Other,9,Potentially Life-Threatening.Other.Inner Richmond,node886
+Potentially Life-Threatening,Inner Sunset,Other,14,Potentially Life-Threatening.Other.Inner Sunset,node887
+Potentially Life-Threatening,Mission,Other,13,Potentially Life-Threatening.Other.Mission,node888
+Potentially Life-Threatening,Nob Hill,Other,15,Potentially Life-Threatening.Other.Nob Hill,node889
+Potentially Life-Threatening,None,Other,9,Potentially Life-Threatening.Other.None,node890
+Potentially Life-Threatening,Outer Mission,Other,6,Potentially Life-Threatening.Other.Outer Mission,node891
+Potentially Life-Threatening,Outer Richmond,Other,7,Potentially Life-Threatening.Other.Outer Richmond,node892
+Potentially Life-Threatening,Pacific Heights,Other,12,Potentially Life-Threatening.Other.Pacific Heights,node893
+Potentially Life-Threatening,Portola,Other,9,Potentially Life-Threatening.Other.Portola,node894
+Potentially Life-Threatening,Potrero Hill,Other,7,Potentially Life-Threatening.Other.Potrero Hill,node895
+Potentially Life-Threatening,South of Market,Other,16,Potentially Life-Threatening.Other.South of Market,node896
+Potentially Life-Threatening,Sunset/Parkside,Other,19,Potentially Life-Threatening.Other.Sunset/Parkside,node897
+Potentially Life-Threatening,Tenderloin,Other,27,Potentially Life-Threatening.Other.Tenderloin,node898
+Potentially Life-Threatening,Treasure Island,Other,11,Potentially Life-Threatening.Other.Treasure Island,node899
+Potentially Life-Threatening,West of Twin Peaks,Other,6,Potentially Life-Threatening.Other.West of Twin Peaks,node900
+Potentially Life-Threatening,Bayview Hunters Point,Traffic Collision,639,Potentially Life-Threatening.Traffic Collision.Bayview Hunters Point,node901
+Potentially Life-Threatening,Bernal Heights,Traffic Collision,315,Potentially Life-Threatening.Traffic Collision.Bernal Heights,node902
+Potentially Life-Threatening,Castro/Upper Market,Traffic Collision,161,Potentially Life-Threatening.Traffic Collision.Castro/Upper Market,node903
+Potentially Life-Threatening,Chinatown,Traffic Collision,100,Potentially Life-Threatening.Traffic Collision.Chinatown,node904
+Potentially Life-Threatening,Excelsior,Traffic Collision,186,Potentially Life-Threatening.Traffic Collision.Excelsior,node905
+Potentially Life-Threatening,Financial District/South Beach,Traffic Collision,580,Potentially Life-Threatening.Traffic Collision.Financial District/South Beach,node906
+Potentially Life-Threatening,Glen Park,Traffic Collision,35,Potentially Life-Threatening.Traffic Collision.Glen Park,node907
+Potentially Life-Threatening,Golden Gate Park,Traffic Collision,181,Potentially Life-Threatening.Traffic Collision.Golden Gate Park,node908
+Potentially Life-Threatening,Haight Ashbury,Traffic Collision,98,Potentially Life-Threatening.Traffic Collision.Haight Ashbury,node909
+Potentially Life-Threatening,Hayes Valley,Traffic Collision,276,Potentially Life-Threatening.Traffic Collision.Hayes Valley,node910
+Potentially Life-Threatening,Inner Richmond,Traffic Collision,189,Potentially Life-Threatening.Traffic Collision.Inner Richmond,node911
+Potentially Life-Threatening,Inner Sunset,Traffic Collision,98,Potentially Life-Threatening.Traffic Collision.Inner Sunset,node912
+Potentially Life-Threatening,Japantown,Traffic Collision,33,Potentially Life-Threatening.Traffic Collision.Japantown,node913
+Potentially Life-Threatening,Lakeshore,Traffic Collision,138,Potentially Life-Threatening.Traffic Collision.Lakeshore,node914
+Potentially Life-Threatening,Lincoln Park,Traffic Collision,9,Potentially Life-Threatening.Traffic Collision.Lincoln Park,node915
+Potentially Life-Threatening,Lone Mountain/USF,Traffic Collision,80,Potentially Life-Threatening.Traffic Collision.Lone Mountain/USF,node916
+Potentially Life-Threatening,Marina,Traffic Collision,147,Potentially Life-Threatening.Traffic Collision.Marina,node917
+Potentially Life-Threatening,McLaren Park,Traffic Collision,18,Potentially Life-Threatening.Traffic Collision.McLaren Park,node918
+Potentially Life-Threatening,Mission,Traffic Collision,904,Potentially Life-Threatening.Traffic Collision.Mission,node919
+Potentially Life-Threatening,Mission Bay,Traffic Collision,146,Potentially Life-Threatening.Traffic Collision.Mission Bay,node920
+Potentially Life-Threatening,Nob Hill,Traffic Collision,231,Potentially Life-Threatening.Traffic Collision.Nob Hill,node921
+Potentially Life-Threatening,Noe Valley,Traffic Collision,49,Potentially Life-Threatening.Traffic Collision.Noe Valley,node922
+Potentially Life-Threatening,None,Traffic Collision,27,Potentially Life-Threatening.Traffic Collision.None,node923
+Potentially Life-Threatening,North Beach,Traffic Collision,150,Potentially Life-Threatening.Traffic Collision.North Beach,node924
+Potentially Life-Threatening,Oceanview/Merced/Ingleside,Traffic Collision,178,Potentially Life-Threatening.Traffic Collision.Oceanview/Merced/Ingleside,node925
+Potentially Life-Threatening,Outer Mission,Traffic Collision,264,Potentially Life-Threatening.Traffic Collision.Outer Mission,node926
+Potentially Life-Threatening,Outer Richmond,Traffic Collision,251,Potentially Life-Threatening.Traffic Collision.Outer Richmond,node927
+Potentially Life-Threatening,Pacific Heights,Traffic Collision,93,Potentially Life-Threatening.Traffic Collision.Pacific Heights,node928
+Potentially Life-Threatening,Portola,Traffic Collision,78,Potentially Life-Threatening.Traffic Collision.Portola,node929
+Potentially Life-Threatening,Potrero Hill,Traffic Collision,178,Potentially Life-Threatening.Traffic Collision.Potrero Hill,node930
+Potentially Life-Threatening,Presidio,Traffic Collision,46,Potentially Life-Threatening.Traffic Collision.Presidio,node931
+Potentially Life-Threatening,Presidio Heights,Traffic Collision,52,Potentially Life-Threatening.Traffic Collision.Presidio Heights,node932
+Potentially Life-Threatening,Russian Hill,Traffic Collision,118,Potentially Life-Threatening.Traffic Collision.Russian Hill,node933
+Potentially Life-Threatening,Seacliff,Traffic Collision,4,Potentially Life-Threatening.Traffic Collision.Seacliff,node934
+Potentially Life-Threatening,South of Market,Traffic Collision,829,Potentially Life-Threatening.Traffic Collision.South of Market,node935
+Potentially Life-Threatening,Sunset/Parkside,Traffic Collision,271,Potentially Life-Threatening.Traffic Collision.Sunset/Parkside,node936
+Potentially Life-Threatening,Tenderloin,Traffic Collision,609,Potentially Life-Threatening.Traffic Collision.Tenderloin,node937
+Potentially Life-Threatening,Treasure Island,Traffic Collision,182,Potentially Life-Threatening.Traffic Collision.Treasure Island,node938
+Potentially Life-Threatening,Twin Peaks,Traffic Collision,17,Potentially Life-Threatening.Traffic Collision.Twin Peaks,node939
+Potentially Life-Threatening,Visitacion Valley,Traffic Collision,54,Potentially Life-Threatening.Traffic Collision.Visitacion Valley,node940
+Potentially Life-Threatening,West of Twin Peaks,Traffic Collision,192,Potentially Life-Threatening.Traffic Collision.West of Twin Peaks,node941
+Potentially Life-Threatening,Western Addition,Traffic Collision,241,Potentially Life-Threatening.Traffic Collision.Western Addition,node942
+Potentially Life-Threatening,Marina,Water Rescue,5,Potentially Life-Threatening.Water Rescue.Marina,node943
+Potentially Life-Threatening,Mission Bay,Water Rescue,15,Potentially Life-Threatening.Water Rescue.Mission Bay,node944
+Fire,,Administrative,1,Fire.Administrative,node945
+Alarm,,Aircraft Emergency,63,Alarm.Aircraft Emergency,node946
+Fire,,Aircraft Emergency,185,Fire.Aircraft Emergency,node947
+Alarm,,Alarms,270420,Alarm.Alarms,node948
+Alarm,,Assist Police,451,Alarm.Assist Police,node949
+Alarm,,Citizen Assist / Service Call,32451,Alarm.Citizen Assist / Service Call,node950
+Fire,,Confined Space / Structure Collapse,331,Fire.Confined Space / Structure Collapse,node951
+Alarm,,Electrical Hazard,8411,Alarm.Electrical Hazard,node952
+Alarm,,Elevator / Escalator Rescue,7131,Alarm.Elevator / Escalator Rescue,node953
+Fire,,Explosion,1114,Fire.Explosion,node954
+Fire,,"Extrication / Entrapped (Machinery, Vehicle)",402,"Fire.Extrication / Entrapped (Machinery, Vehicle)",node955
+Alarm,,Fuel Spill,2302,Alarm.Fuel Spill,node956
+Alarm,,Gas Leak (Natural and LP Gases),12200,Alarm.Gas Leak (Natural and LP Gases),node957
+Alarm,,HazMat,934,Alarm.HazMat,node958
+Fire,,HazMat,246,Fire.HazMat,node959
+Fire,,High Angle Rescue,693,Fire.High Angle Rescue,node960
+Fire,,Industrial Accidents,440,Fire.Industrial Accidents,node961
+Fire,,Marine Fire,174,Fire.Marine Fire,node962
+Alarm,,Medical Incident,1452,Alarm.Medical Incident,node963
+Non Life-threatening,,Medical Incident,537563,Non Life-threatening.Medical Incident,node964
+Potentially Life-Threatening,,Medical Incident,1118158,Potentially Life-Threatening.Medical Incident,node965
+Fire,,Mutual Aid / Assist Outside Agency,178,Fire.Mutual Aid / Assist Outside Agency,node966
+Alarm,,Odor (Strange / Unknown),3209,Alarm.Odor (Strange / Unknown),node967
+Fire,,Odor (Strange / Unknown),52,Fire.Odor (Strange / Unknown),node968
+Alarm,,Oil Spill,4,Alarm.Oil Spill,node969
+Alarm,,Other,29093,Alarm.Other,node970
+Fire,,Other,701,Fire.Other,node971
+Non Life-threatening,,Other,3619,Non Life-threatening.Other,node972
+Potentially Life-Threatening,,Other,1531,Potentially Life-Threatening.Other,node973
+Alarm,,Outside Fire,3548,Alarm.Outside Fire,node974
+Fire,,Outside Fire,26727,Fire.Outside Fire,node975
+Alarm,,Smoke Investigation (Outside),5210,Alarm.Smoke Investigation (Outside),node976
+Alarm,,Structure Fire,204954,Alarm.Structure Fire,node977
+Fire,,Structure Fire,40925,Fire.Structure Fire,node978
+Potentially Life-Threatening,,Structure Fire,16,Potentially Life-Threatening.Structure Fire,node979
+Fire,,Suspicious Package,65,Fire.Suspicious Package,node980
+Non Life-threatening,,Traffic Collision,39555,Non Life-threatening.Traffic Collision,node981
+Potentially Life-Threatening,,Traffic Collision,69097,Potentially Life-Threatening.Traffic Collision,node982
+Fire,,Train / Rail Fire,10,Fire.Train / Rail Fire,node983
+Fire,,Train / Rail Incident,578,Fire.Train / Rail Incident,node984
+Alarm,,Vehicle Fire,13,Alarm.Vehicle Fire,node985
+Fire,,Vehicle Fire,8594,Fire.Vehicle Fire,node986
+Alarm,,Watercraft in Distress,14,Alarm.Watercraft in Distress,node987
+Fire,,Watercraft in Distress,559,Fire.Watercraft in Distress,node988
+Fire,,Water Rescue,15874,Fire.Water Rescue,node989
+Potentially Life-Threatening,,Water Rescue,55,Potentially Life-Threatening.Water Rescue,node990
+Alarm,,,581860,Alarm,node991
+Fire,,,97849,Fire,node992
+Non Life-threatening,,,580737,Non Life-threatening,node993
+Potentially Life-Threatening,,,1188857,Potentially Life-Threatening,node994
+,,,,root,node995

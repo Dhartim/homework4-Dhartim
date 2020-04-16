@@ -1,0 +1,2974 @@
+Call Type Group,Call Type,Battalion,Station Area
+Potentially Life-Threatening,Traffic Collision,B08,40
+Fire,Outside Fire,B05,05
+Fire,Vehicle Fire,B09,39
+Potentially Life-Threatening,Medical Incident,B05,24
+Alarm,Odor (Strange / Unknown),B04,16
+Non Life-threatening,Medical Incident,B99,04
+Potentially Life-Threatening,Medical Incident,B99,14
+Fire,Structure Fire,B08,33
+Alarm,Citizen Assist / Service Call,B07,37
+Alarm,Other,B01,08
+Non Life-threatening,Traffic Collision,B99,44
+Alarm,Elevator / Escalator Rescue,B01,28
+Alarm,Other,B10,06
+Potentially Life-Threatening,Other,B07,31
+Fire,Vehicle Fire,B10,07
+Potentially Life-Threatening,Medical Incident,B03,37
+Non Life-threatening,Traffic Collision,B99,05
+Fire,Odor (Strange / Unknown),B01,41
+Alarm,Structure Fire,B10,04
+Alarm,HazMat,B03,48
+Fire,Outside Fire,B03,40
+Potentially Life-Threatening,Medical Incident,B05,32
+Alarm,Other,B05,21
+Alarm,Structure Fire,B02,06
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B10,32
+Non Life-threatening,Medical Incident,B10,33
+Alarm,HazMat,B01,01
+Alarm,Assist Police,B09,42
+Alarm,Medical Incident,B05,06
+Potentially Life-Threatening,Medical Incident,B99,31
+Alarm,Gas Leak (Natural and LP Gases),B06,07
+Alarm,Citizen Assist / Service Call,B08,33
+Potentially Life-Threatening,Medical Incident,B99,21
+Non Life-threatening,Other,B06,24
+Non Life-threatening,Other,B06,32
+Potentially Life-Threatening,Other,B10,32
+Fire,Outside Fire,B04,51
+Non Life-threatening,Medical Incident,B02,24
+Alarm,Alarms,B09,06
+Alarm,Alarms,B02,03
+Potentially Life-Threatening,Medical Incident,B07,22
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B07,21
+Fire,Outside Fire,B03,13
+Fire,Vehicle Fire,B07,34
+Fire,Outside Fire,B01,03
+Alarm,Citizen Assist / Service Call,B03,06
+Potentially Life-Threatening,Other,B07,14
+Alarm,Gas Leak (Natural and LP Gases),B05,10
+Alarm,Citizen Assist / Service Call,B01,41
+Alarm,Structure Fire,B09,17
+Non Life-threatening,Medical Incident,B08,09
+Alarm,Fuel Spill,B09,32
+Alarm,Citizen Assist / Service Call,B10,09
+Alarm,Other,B09,42
+Non Life-threatening,Medical Incident,B08,51
+Alarm,Other,B08,07
+Alarm,Other,B09,44
+Non Life-threatening,Traffic Collision,B99,01
+Potentially Life-Threatening,Medical Incident,B08,34
+Fire,Vehicle Fire,B08,22
+Alarm,Gas Leak (Natural and LP Gases),B10,37
+Alarm,Assist Police,B99,32
+Fire,Structure Fire,B01,41
+Alarm,Smoke Investigation (Outside),B04,10
+Non Life-threatening,Other,B04,28
+Alarm,Alarms,B10,44
+Non Life-threatening,Medical Incident,B03,07
+Alarm,Alarms,B10,42
+Alarm,Other,B03,51
+Fire,Structure Fire,B10,09
+Non Life-threatening,Medical Incident,B07,08
+Alarm,Odor (Strange / Unknown),B02,06
+Potentially Life-Threatening,Traffic Collision,B08,18
+Fire,Outside Fire,B06,11
+Alarm,Smoke Investigation (Outside),B08,19
+Alarm,Assist Police,B05,21
+Alarm,Elevator / Escalator Rescue,B08,20
+Alarm,Structure Fire,B04,16
+Fire,High Angle Rescue,B07,34
+Non Life-threatening,Traffic Collision,B09,32
+Alarm,Alarms,B06,20
+Fire,HazMat,B02,36
+Alarm,Alarms,B08,39
+Potentially Life-Threatening,Traffic Collision,B09,15
+Non Life-threatening,Other,B02,37
+Alarm,Outside Fire,B03,48
+Fire,Confined Space / Structure Collapse,B04,03
+Fire,Structure Fire,B05,21
+Fire,Industrial Accidents,B05,10
+Potentially Life-Threatening,Traffic Collision,B10,47
+Alarm,Assist Police,B01,41
+Alarm,Citizen Assist / Service Call,B03,02
+Alarm,Electrical Hazard,B07,34
+Potentially Life-Threatening,Traffic Collision,B99,16
+Fire,HazMat,B05,05
+Non Life-threatening,Other,B04,38
+Alarm,Other,B08,33
+Fire,Watercraft in Distress,B04,28
+Fire,Outside Fire,B06,29
+Potentially Life-Threatening,Medical Incident,B10,37
+Non Life-threatening,Medical Incident,B06,37
+Fire,Explosion,B08,22
+Alarm,Structure Fire,B03,04
+Alarm,Smoke Investigation (Outside),B01,28
+Fire,Suspicious Package,B09,44
+Fire,Water Rescue,B03,08
+Alarm,Citizen Assist / Service Call,B05,21
+Alarm,Alarms,B06,26
+Alarm,Electrical Hazard,B10,07
+Alarm,Alarms,B06,36
+Alarm,Structure Fire,B09,43
+Fire,HazMat,B03,13
+Potentially Life-Threatening,Medical Incident,B01,07
+Non Life-threatening,Medical Incident,B08,22
+Non Life-threatening,Medical Incident,B03,33
+Alarm,Electrical Hazard,B09,39
+Alarm,Outside Fire,B01,01
+Non Life-threatening,Medical Incident,B08,06
+Alarm,Alarms,B01,16
+Fire,Confined Space / Structure Collapse,B09,26
+Alarm,Alarms,B03,01
+Fire,Outside Fire,B06,43
+Alarm,Gas Leak (Natural and LP Gases),B05,24
+Fire,Structure Fire,B09,42
+Alarm,Other,B99,10
+Fire,Structure Fire,B09,44
+Non Life-threatening,Medical Incident,B02,10
+Alarm,Gas Leak (Natural and LP Gases),B99,14
+Non Life-threatening,Medical Incident,B07,34
+Potentially Life-Threatening,Traffic Collision,B99,36
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B99,51
+Fire,Suspicious Package,B05,21
+Alarm,Alarms,B02,29
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B02,07
+Alarm,Gas Leak (Natural and LP Gases),B03,37
+Fire,Confined Space / Structure Collapse,B01,02
+Alarm,Alarms,B09,51
+Alarm,Odor (Strange / Unknown),B09,43
+Potentially Life-Threatening,Medical Incident,B02,15
+Alarm,Alarms,B01,36
+Fire,Outside Fire,B01,35
+Alarm,Alarms,B06,19
+Alarm,Gas Leak (Natural and LP Gases),B99,31
+Potentially Life-Threatening,Medical Incident,B06,07
+Non Life-threatening,Medical Incident,B10,07
+Fire,Confined Space / Structure Collapse,B03,08
+Fire,Other,B04,16
+Alarm,Citizen Assist / Service Call,B09,42
+Alarm,Citizen Assist / Service Call,B09,44
+Alarm,Electrical Hazard,B08,22
+Alarm,Odor (Strange / Unknown),B03,04
+Fire,Outside Fire,B02,36
+Non Life-threatening,Medical Incident,B09,39
+Alarm,Other,B10,09
+Alarm,Elevator / Escalator Rescue,B04,10
+Alarm,Gas Leak (Natural and LP Gases),B07,22
+Alarm,Smoke Investigation (Outside),B08,12
+Alarm,Other,B01,41
+Fire,HazMat,B06,11
+Fire,Explosion,B07,34
+Potentially Life-Threatening,Medical Incident,B05,10
+Alarm,Elevator / Escalator Rescue,B08,19
+Alarm,Smoke Investigation (Outside),B08,20
+Potentially Life-Threatening,Other,B02,07
+Alarm,Medical Incident,B04,05
+Alarm,Medical Incident,B07,10
+Fire,Confined Space / Structure Collapse,B09,19
+Potentially Life-Threatening,Medical Incident,B10,47
+Alarm,Other,B99,28
+Fire,Structure Fire,B02,05
+Non Life-threatening,Medical Incident,B02,28
+Potentially Life-Threatening,Medical Incident,B99,19
+Alarm,Citizen Assist / Service Call,B03,29
+Fire,Outside Fire,B04,03
+Potentially Life-Threatening,Medical Incident,B09,15
+Fire,Vehicle Fire,B09,32
+Alarm,Other,B03,17
+Fire,Suspicious Package,B02,01
+Potentially Life-Threatening,Medical Incident,B07,29
+Alarm,Citizen Assist / Service Call,B05,20
+Fire,Structure Fire,B03,35
+Non Life-threatening,Traffic Collision,B06,37
+Potentially Life-Threatening,Traffic Collision,B10,37
+Non Life-threatening,Medical Incident,B07,40
+Alarm,Structure Fire,B02,35
+Potentially Life-Threatening,Medical Incident,B99,16
+Alarm,Fuel Spill,B08,22
+Fire,Structure Fire,B10,17
+Alarm,Citizen Assist / Service Call,B05,12
+Alarm,Outside Fire,B05,06
+Alarm,Other,B06,13
+Non Life-threatening,Medical Incident,B09,10
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B08,23
+Alarm,Citizen Assist / Service Call,B02,05
+Alarm,Assist Police,B01,13
+Fire,Water Rescue,B01,35
+Alarm,Gas Leak (Natural and LP Gases),B08,18
+Non Life-threatening,Traffic Collision,B08,22
+Alarm,Assist Police,B03,03
+Potentially Life-Threatening,Medical Incident,B07,35
+Fire,Structure Fire,B03,29
+Alarm,Structure Fire,B02,29
+Alarm,Odor (Strange / Unknown),B06,26
+Potentially Life-Threatening,Medical Incident,B99,48
+Potentially Life-Threatening,Other,B08,23
+Fire,Structure Fire,B05,20
+Fire,HazMat,B06,06
+Alarm,Citizen Assist / Service Call,B03,35
+Alarm,Odor (Strange / Unknown),B03,01
+Non Life-threatening,Other,B08,20
+Fire,Outside Fire,B09,26
+Fire,Structure Fire,B05,12
+Alarm,Citizen Assist / Service Call,B10,17
+Non Life-threatening,Other,B08,12
+Alarm,Other,B04,08
+Alarm,Other,B10,29
+Alarm,Elevator / Escalator Rescue,B04,28
+Alarm,Structure Fire,B01,16
+Potentially Life-Threatening,Medical Incident,B07,43
+Potentially Life-Threatening,Traffic Collision,B07,51
+Alarm,Structure Fire,B03,01
+Non Life-threatening,Traffic Collision,B07,34
+Fire,Structure Fire,B02,01
+Potentially Life-Threatening,Medical Incident,B99,36
+Fire,Suspicious Package,B03,35
+Alarm,Fuel Spill,B09,39
+Alarm,Smoke Investigation (Outside),B02,37
+Alarm,Gas Leak (Natural and LP Gases),B08,40
+Fire,Suspicious Package,B10,17
+Fire,Structure Fire,B04,41
+Alarm,HazMat,B04,05
+Alarm,Fuel Spill,B10,07
+Alarm,HazMat,B07,10
+Alarm,Other,B03,03
+Alarm,Alarms,B09,43
+Alarm,Other,B01,13
+Non Life-threatening,Other,B01,28
+Fire,Watercraft in Distress,B08,19
+Alarm,Smoke Investigation (Outside),B04,38
+Alarm,Structure Fire,B06,26
+Fire,Outside Fire,B06,09
+Alarm,Odor (Strange / Unknown),B02,29
+Fire,Outside Fire,B01,02
+Fire,Outside Fire,B03,08
+Alarm,Citizen Assist / Service Call,B02,01
+Fire,Confined Space / Structure Collapse,B02,36
+Alarm,Alarms,B03,04
+Alarm,Elevator / Escalator Rescue,B06,32
+Alarm,Other,B10,43
+Non Life-threatening,Traffic Collision,B10,07
+Potentially Life-Threatening,Traffic Collision,B06,07
+Alarm,Citizen Assist / Service Call,B04,41
+Potentially Life-Threatening,Traffic Collision,B05,10
+Fire,Odor (Strange / Unknown),B02,05
+Non Life-threatening,Other,B01,39
+Fire,Outside Fire,B09,19
+Fire,Industrial Accidents,B09,15
+Alarm,Elevator / Escalator Rescue,B06,24
+Alarm,Fuel Spill,B07,34
+Non Life-threatening,Traffic Collision,B09,39
+Non Life-threatening,Medical Incident,B07,18
+Fire,Industrial Accidents,B10,47
+Alarm,Structure Fire,B08,39
+Alarm,Other,B10,17
+Fire,Outside Fire,B02,21
+Non Life-threatening,Medical Incident,B99,44
+Non Life-threatening,Medical Incident,B99,42
+Potentially Life-Threatening,Traffic Collision,B99,14
+Alarm,Citizen Assist / Service Call,B10,29
+Alarm,HazMat,B05,06
+Potentially Life-Threatening,Medical Incident,B08,40
+Alarm,Structure Fire,B06,20
+Alarm,Other,B03,35
+Alarm,Medical Incident,B01,01
+Alarm,Alarms,B04,16
+Alarm,Aircraft Emergency,B07,34
+Fire,Confined Space / Structure Collapse,B05,05
+Non Life-threatening,Traffic Collision,B99,04
+Potentially Life-Threatening,Traffic Collision,B05,24
+Potentially Life-Threatening,Medical Incident,B99,12
+Alarm,Structure Fire,B10,44
+Alarm,Structure Fire,B10,42
+Alarm,Alarms,B05,08
+Potentially Life-Threatening,Medical Incident,B05,25
+Fire,Industrial Accidents,B08,18
+Potentially Life-Threatening,Medical Incident,B04,07
+Alarm,Other,B02,05
+Non Life-threatening,Medical Incident,B99,23
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B10,25
+Potentially Life-Threatening,Traffic Collision,B03,37
+Fire,HazMat,B04,03
+Non Life-threatening,Medical Incident,B99,05
+Non Life-threatening,Traffic Collision,B02,32
+Alarm,Other,B05,12
+Fire,Watercraft in Distress,B01,28
+Non Life-threatening,Other,B08,19
+Fire,Structure Fire,B10,29
+Fire,Outside Fire,B06,06
+Alarm,Other,B99,25
+Alarm,Other,B05,20
+Non Life-threatening,Other,B07,23
+Potentially Life-Threatening,Traffic Collision,B06,33
+Non Life-threatening,Traffic Collision,B10,33
+Non Life-threatening,Other,B04,10
+Alarm,Smoke Investigation (Outside),B04,28
+Alarm,Assist Police,B02,01
+Fire,Water Rescue,B06,11
+Potentially Life-Threatening,Traffic Collision,B99,31
+Potentially Life-Threatening,Other,B10,25
+Alarm,Other,B03,29
+Alarm,Alarms,B09,17
+Alarm,Assist Police,B04,41
+Potentially Life-Threatening,Traffic Collision,B07,22
+Alarm,Odor (Strange / Unknown),B02,03
+Alarm,Electrical Hazard,B09,32
+Alarm,Assist Police,B03,29
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B09,33
+Alarm,Elevator / Escalator Rescue,B01,10
+Potentially Life-Threatening,Medical Incident,B05,38
+Alarm,Gas Leak (Natural and LP Gases),B10,47
+Alarm,Outside Fire,B04,05
+Alarm,Other,B10,11
+Alarm,Other,B04,41
+Alarm,Gas Leak (Natural and LP Gases),B09,15
+Fire,Explosion,B09,32
+Alarm,Structure Fire,B02,03
+Alarm,Elevator / Escalator Rescue,B04,38
+Fire,Structure Fire,B03,03
+Fire,Structure Fire,B01,13
+Alarm,Assist Police,B05,12
+Alarm,Gas Leak (Natural and LP Gases),B99,16
+Alarm,Other,B02,01
+Non Life-threatening,Medical Incident,B99,01
+Non Life-threatening,Traffic Collision,B03,07
+Alarm,Alarms,B02,06
+Alarm,Odor (Strange / Unknown),B10,42
+Alarm,Odor (Strange / Unknown),B10,44
+Alarm,Smoke Investigation (Outside),B06,24
+Potentially Life-Threatening,Medical Incident,B08,18
+Fire,Confined Space / Structure Collapse,B06,11
+Potentially Life-Threatening,Medical Incident,B07,11
+Fire,Marine Fire,B07,34
+Alarm,Alarms,B10,04
+Alarm,Citizen Assist / Service Call,B03,03
+Alarm,Citizen Assist / Service Call,B01,13
+Alarm,Assist Police,B02,05
+Alarm,Other,B99,38
+Alarm,Assist Police,B10,17
+Non Life-threatening,Medical Incident,B02,38
+Alarm,Odor (Strange / Unknown),B08,39
+Fire,Water Rescue,B04,51
+Potentially Life-Threatening,Medical Incident,B07,03
+Alarm,Assist Police,B03,35
+Alarm,Smoke Investigation (Outside),B06,32
+Non Life-threatening,Medical Incident,B09,32
+Non Life-threatening,Medical Incident,B05,09
+Alarm,Elevator / Escalator Rescue,B10,17
+Potentially Life-Threatening,Traffic Collision,B06,26
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B01,02
+Non Life-threatening,Traffic Collision,B10,26
+Fire,Industrial Accidents,B09,43
+Alarm,Citizen Assist / Service Call,B04,28
+Fire,Vehicle Fire,B05,06
+Non Life-threatening,Medical Incident,B09,13
+Alarm,Elevator / Escalator Rescue,B03,35
+Fire,HazMat,B09,33
+Alarm,Gas Leak (Natural and LP Gases),B02,06
+Alarm,Smoke Investigation (Outside),B06,13
+Non Life-threatening,Traffic Collision,B10,36
+Potentially Life-Threatening,Other,B03,08
+Fire,Explosion,B04,05
+Potentially Life-Threatening,Medical Incident,B09,35
+Potentially Life-Threatening,Medical Incident,B05,34
+Alarm,Other,B04,25
+Potentially Life-Threatening,Traffic Collision,B04,31
+Alarm,Medical Incident,B07,34
+Potentially Life-Threatening,Traffic Collision,B03,01
+Potentially Life-Threatening,Traffic Collision,B01,16
+Alarm,Alarms,B05,28
+Alarm,Elevator / Escalator Rescue,B02,05
+Non Life-threatening,Other,B01,41
+Alarm,Elevator / Escalator Rescue,B05,12
+Non Life-threatening,Medical Incident,B04,05
+Fire,Structure Fire,B04,28
+Potentially Life-Threatening,Medical Incident,B99,07
+Alarm,Alarms,B09,15
+Non Life-threatening,Medical Incident,B07,10
+Alarm,Citizen Assist / Service Call,B03,15
+Alarm,Medical Incident,B09,39
+Non Life-threatening,Medical Incident,B09,40
+Alarm,Structure Fire,B05,10
+Potentially Life-Threatening,Other,B06,09
+Non Life-threatening,Other,B10,09
+Potentially Life-Threatening,Other,B01,02
+Alarm,Smoke Investigation (Outside),B10,29
+Alarm,Alarms,B10,47
+Potentially Life-Threatening,Medical Incident,B02,09
+Alarm,Elevator / Escalator Rescue,B03,29
+Fire,Industrial Accidents,B03,04
+Alarm,Structure Fire,B06,07
+Alarm,Alarms,B99,16
+Alarm,Assist Police,B04,38
+Alarm,Citizen Assist / Service Call,B99,08
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B03,08
+Alarm,Medical Incident,B10,07
+Alarm,Odor (Strange / Unknown),B10,37
+Fire,High Angle Rescue,B05,06
+Alarm,Odor (Strange / Unknown),B06,07
+Fire,Outside Fire,B08,23
+Alarm,Smoke Investigation (Outside),B01,13
+Alarm,Smoke Investigation (Outside),B03,03
+Potentially Life-Threatening,Other,B09,26
+Alarm,Structure Fire,B10,37
+Alarm,Elevator / Escalator Rescue,B04,41
+Potentially Life-Threatening,Medical Incident,B03,04
+Alarm,Other,B04,38
+Non Life-threatening,Medical Incident,B05,02
+Non Life-threatening,Other,B08,33
+Fire,Water Rescue,B99,51
+Alarm,Citizen Assist / Service Call,B06,24
+Alarm,Citizen Assist / Service Call,B06,32
+Alarm,Other,B08,31
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B04,03
+Potentially Life-Threatening,Water Rescue,B04,16
+Non Life-threatening,Medical Incident,B99,37
+Fire,Outside Fire,B09,07
+Alarm,Other,B02,37
+Alarm,Odor (Strange / Unknown),B05,10
+Alarm,Elevator / Escalator Rescue,B02,01
+Alarm,Gas Leak (Natural and LP Gases),B04,16
+Non Life-threatening,Medical Incident,B03,21
+Alarm,Electrical Hazard,B04,05
+Potentially Life-Threatening,Traffic Collision,B05,13
+Non Life-threatening,Medical Incident,B04,01
+Alarm,Electrical Hazard,B07,10
+Non Life-threatening,Medical Incident,B03,31
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B09,26
+Alarm,Electrical Hazard,B09,40
+Fire,Structure Fire,B06,24
+Fire,Outside Fire,B99,35
+Fire,Structure Fire,B06,32
+Non Life-threatening,Medical Incident,B02,41
+Alarm,Medical Incident,B08,22
+Potentially Life-Threatening,Traffic Collision,B02,29
+Potentially Life-Threatening,Other,B04,03
+Potentially Life-Threatening,Medical Incident,B09,43
+Potentially Life-Threatening,Medical Incident,B02,02
+Fire,Water Rescue,B10,32
+Non Life-threatening,Traffic Collision,B03,36
+Alarm,Assist Police,B06,24
+Fire,Vehicle Fire,B02,41
+Non Life-threatening,Medical Incident,B02,08
+Potentially Life-Threatening,Medical Incident,B01,14
+Non Life-threatening,Other,B09,42
+Fire,Water Rescue,B07,14
+Non Life-threatening,Other,B09,44
+Alarm,Gas Leak (Natural and LP Gases),B03,04
+Alarm,HazMat,B09,32
+Non Life-threatening,Medical Incident,B01,04
+Potentially Life-Threatening,Traffic Collision,B02,11
+Alarm,Smoke Investigation (Outside),B02,05
+Potentially Life-Threatening,Traffic Collision,B02,03
+Alarm,Smoke Investigation (Outside),B10,17
+Non Life-threatening,Traffic Collision,B07,38
+Potentially Life-Threatening,Traffic Collision,B10,01
+Potentially Life-Threatening,Medical Incident,B09,17
+Alarm,Smoke Investigation (Outside),B03,35
+Alarm,Assist Police,B06,32
+Fire,Outside Fire,B09,33
+Potentially Life-Threatening,Medical Incident,B04,16
+Alarm,Smoke Investigation (Outside),B03,29
+Alarm,Alarms,B08,40
+Potentially Life-Threatening,Medical Incident,B01,21
+Fire,Other,B06,07
+Alarm,Smoke Investigation (Outside),B05,12
+Alarm,Odor (Strange / Unknown),B03,37
+Fire,Other,B05,10
+Fire,Vehicle Fire,B03,14
+Alarm,Smoke Investigation (Outside),B05,20
+Alarm,Gas Leak (Natural and LP Gases),B09,43
+Potentially Life-Threatening,Medical Incident,B08,10
+Alarm,Electrical Hazard,B05,06
+Alarm,Other,B04,28
+Fire,Outside Fire,B10,25
+Fire,Structure Fire,B02,37
+Alarm,Structure Fire,B03,37
+Non Life-threatening,Other,B05,21
+Non Life-threatening,Medical Incident,B06,04
+Potentially Life-Threatening,Medical Incident,B10,04
+Fire,Explosion,B05,06
+Alarm,Alarms,B08,18
+Potentially Life-Threatening,Medical Incident,B02,06
+Potentially Life-Threatening,Medical Incident,B06,14
+Potentially Life-Threatening,Traffic Collision,B10,42
+Non Life-threatening,Medical Incident,B10,14
+Potentially Life-Threatening,Traffic Collision,B10,44
+Alarm,Smoke Investigation (Outside),B02,01
+Potentially Life-Threatening,Medical Incident,B09,03
+Potentially Life-Threatening,Medical Incident,B09,11
+Fire,Other,B10,37
+Fire,Vehicle Fire,B04,05
+Potentially Life-Threatening,Traffic Collision,B06,20
+Fire,Structure Fire,B04,38
+Fire,Vehicle Fire,B07,10
+Alarm,Fuel Spill,B03,48
+Alarm,Structure Fire,B05,24
+Alarm,Elevator / Escalator Rescue,B03,03
+Potentially Life-Threatening,Traffic Collision,B10,05
+Alarm,Elevator / Escalator Rescue,B01,13
+Fire,Outside Fire,B07,12
+Potentially Life-Threatening,Traffic Collision,B08,39
+Alarm,Smoke Investigation (Outside),B04,41
+Alarm,Structure Fire,B99,14
+Fire,Industrial Accidents,B04,16
+Non Life-threatening,Traffic Collision,B01,01
+Potentially Life-Threatening,Medical Incident,B99,33
+Fire,Outside Fire,B03,28
+Alarm,Fuel Spill,B01,01
+Alarm,Citizen Assist / Service Call,B02,37
+Alarm,Structure Fire,B07,22
+Non Life-threatening,Traffic Collision,B03,48
+Alarm,Other,B06,32
+Alarm,Electrical Hazard,B08,15
+Non Life-threatening,Medical Incident,B05,22
+Non Life-threatening,Medical Incident,B10,21
+Alarm,Alarms,B05,38
+Alarm,Citizen Assist / Service Call,B04,38
+Alarm,Assist Police,B99,08
+Alarm,Other,B06,24
+Alarm,Citizen Assist / Service Call,B01,10
+Non Life-threatening,Medical Incident,B05,06
+Potentially Life-Threatening,Medical Incident,B04,36
+Fire,Water Rescue,B10,25
+Fire,Watercraft in Distress,B05,16
+Potentially Life-Threatening,Medical Incident,B02,11
+Non Life-threatening,Other,B02,01
+Alarm,Outside Fire,B10,07
+Alarm,Alarms,B99,31
+Non Life-threatening,Medical Incident,B03,36
+Non Life-threatening,Traffic Collision,B02,08
+Alarm,Assist Police,B08,19
+Alarm,Smoke Investigation (Outside),B05,21
+Potentially Life-Threatening,Medical Incident,B09,22
+Non Life-threatening,Other,B04,41
+Alarm,Elevator / Escalator Rescue,B08,33
+Alarm,Citizen Assist / Service Call,B01,39
+Non Life-threatening,Medical Incident,B01,05
+Alarm,Electrical Hazard,B01,01
+Fire,Structure Fire,B01,28
+Potentially Life-Threatening,Medical Incident,B09,06
+Fire,HazMat,B02,07
+Fire,HazMat,B99,51
+Alarm,Alarms,B07,22
+Potentially Life-Threatening,Medical Incident,B02,03
+Potentially Life-Threatening,Medical Incident,B10,01
+Non Life-threatening,Medical Incident,B06,01
+Potentially Life-Threatening,Other,B06,11
+Alarm,Alarms,B99,14
+Fire,Water Rescue,B03,28
+Alarm,Electrical Hazard,B03,48
+Non Life-threatening,Traffic Collision,B08,15
+Alarm,Medical Incident,B09,32
+Alarm,Alarms,B05,24
+Alarm,Citizen Assist / Service Call,B99,18
+Non Life-threatening,Medical Incident,B05,03
+Potentially Life-Threatening,Traffic Collision,B04,16
+Alarm,Odor (Strange / Unknown),B08,40
+Alarm,Outside Fire,B07,34
+Alarm,Citizen Assist / Service Call,B01,28
+Alarm,Structure Fire,B08,18
+Alarm,Alarms,B03,37
+Fire,Industrial Accidents,B10,44
+Alarm,Gas Leak (Natural and LP Gases),B02,29
+Alarm,Smoke Investigation (Outside),B09,44
+Fire,Outside Fire,B10,32
+Alarm,Odor (Strange / Unknown),B08,18
+Alarm,Smoke Investigation (Outside),B09,42
+Non Life-threatening,Medical Incident,B06,44
+Potentially Life-Threatening,Medical Incident,B10,44
+Non Life-threatening,Other,B02,05
+Potentially Life-Threatening,Medical Incident,B10,42
+Non Life-threatening,Medical Incident,B06,42
+Potentially Life-Threatening,Traffic Collision,B02,06
+Alarm,Gas Leak (Natural and LP Gases),B06,26
+Alarm,Electrical Hazard,B03,36
+Fire,Outside Fire,B07,14
+Alarm,Fuel Spill,B05,06
+Alarm,Outside Fire,B08,22
+Alarm,Gas Leak (Natural and LP Gases),B01,16
+Potentially Life-Threatening,Medical Incident,B06,12
+Non Life-threatening,Other,B03,35
+Alarm,Gas Leak (Natural and LP Gases),B03,01
+Potentially Life-Threatening,Medical Incident,B08,39
+Non Life-threatening,Medical Incident,B01,01
+Fire,Explosion,B03,48
+Alarm,Citizen Assist / Service Call,B08,20
+Alarm,Structure Fire,B08,40
+Potentially Life-Threatening,Medical Incident,B06,20
+Non Life-threatening,Other,B10,17
+Non Life-threatening,Medical Incident,B06,23
+Alarm,Citizen Assist / Service Call,B08,12
+Potentially Life-Threatening,Medical Incident,B10,05
+Fire,Explosion,B01,01
+Non Life-threatening,Traffic Collision,B05,22
+Non Life-threatening,Medical Incident,B03,48
+Fire,Outside Fire,B07,31
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B03,13
+Fire,Industrial Accidents,B02,03
+Fire,Outside Fire,B07,21
+Non Life-threatening,Other,B03,29
+Non Life-threatening,Medical Incident,B05,17
+Alarm,Elevator / Escalator Rescue,B10,09
+Alarm,Other,B04,10
+Alarm,Other,B07,23
+Potentially Life-Threatening,Other,B05,05
+Potentially Life-Threatening,Traffic Collision,B04,36
+Fire,Structure Fire,B08,20
+Non Life-threatening,Traffic Collision,B05,06
+Alarm,Alarms,B08,34
+Alarm,Elevator / Escalator Rescue,B01,41
+Non Life-threatening,Other,B05,12
+Alarm,Vehicle Fire,B06,11
+Alarm,Other,B08,19
+Fire,Structure Fire,B08,12
+Fire,Industrial Accidents,B02,29
+Fire,Water Rescue,B08,23
+Alarm,HazMat,B09,39
+Alarm,Gas Leak (Natural and LP Gases),B10,44
+Potentially Life-Threatening,Medical Incident,B06,36
+Alarm,Gas Leak (Natural and LP Gases),B10,42
+Alarm,Smoke Investigation (Outside),B08,33
+Alarm,Citizen Assist / Service Call,B07,01
+Potentially Life-Threatening,Medical Incident,B06,26
+Non Life-threatening,Other,B03,03
+Fire,Outside Fire,B02,07
+Fire,Outside Fire,B99,51
+Alarm,Other,B01,28
+Non Life-threatening,Other,B01,13
+Potentially Life-Threatening,Medical Incident,B01,16
+Alarm,Fuel Spill,B07,10
+Alarm,Fuel Spill,B04,05
+Alarm,HazMat,B10,07
+Potentially Life-Threatening,Medical Incident,B03,01
+Alarm,Gas Leak (Natural and LP Gases),B08,39
+Potentially Life-Threatening,Medical Incident,B04,21
+Fire,Vehicle Fire,B03,48
+Fire,Watercraft in Distress,B03,29
+Alarm,Gas Leak (Natural and LP Gases),B06,20
+Alarm,Assist Police,B08,20
+Alarm,Elevator / Escalator Rescue,B05,21
+Potentially Life-Threatening,Medical Incident,B04,31
+Potentially Life-Threatening,Other,B02,36
+Fire,Watercraft in Distress,B03,35
+Fire,Vehicle Fire,B01,01
+Potentially Life-Threatening,Traffic Collision,B09,29
+Potentially Life-Threatening,Medical Incident,B01,48
+Fire,Train / Rail Incident,B03,29
+Fire,Watercraft in Distress,B10,17
+Alarm,Odor (Strange / Unknown),B09,15
+Potentially Life-Threatening,Traffic Collision,B99,07
+Non Life-threatening,Traffic Collision,B07,10
+Fire,Water Rescue,B99,35
+Non Life-threatening,Traffic Collision,B04,05
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B02,36
+Fire,Train / Rail Incident,B05,12
+Alarm,Alarms,B10,37
+Alarm,HazMat,B07,34
+Potentially Life-Threatening,Traffic Collision,B02,09
+Potentially Life-Threatening,Traffic Collision,B03,04
+Alarm,Oil Spill,B06,32
+Alarm,Citizen Assist / Service Call,B08,19
+Potentially Life-Threatening,Medical Incident,B02,35
+Non Life-threatening,Traffic Collision,B05,02
+Fire,Confined Space / Structure Collapse,B08,23
+Potentially Life-Threatening,Traffic Collision,B08,24
+Potentially Life-Threatening,Medical Incident,B03,44
+Alarm,Alarms,B06,07
+Fire,Train / Rail Incident,B02,01
+Alarm,Citizen Assist / Service Call,B04,10
+Alarm,Structure Fire,B99,16
+Potentially Life-Threatening,Medical Incident,B03,42
+Non Life-threatening,Medical Incident,B05,29
+Potentially Life-Threatening,Medical Incident,B01,36
+Alarm,Citizen Assist / Service Call,B06,25
+Alarm,Elevator / Escalator Rescue,B09,42
+Non Life-threatening,Traffic Collision,B99,37
+Alarm,Structure Fire,B10,47
+Potentially Life-Threatening,Medical Incident,B03,05
+Alarm,Elevator / Escalator Rescue,B09,44
+Alarm,Alarms,B05,10
+Alarm,HazMat,B08,22
+Alarm,Structure Fire,B09,15
+Alarm,Gas Leak (Natural and LP Gases),B02,03
+Potentially Life-Threatening,Medical Incident,B08,25
+Alarm,Other,B99,13
+Fire,HazMat,B07,14
+Non Life-threatening,Medical Incident,B02,13
+Alarm,Smoke Investigation (Outside),B10,09
+Alarm,Other,B08,12
+Fire,Structure Fire,B08,19
+Non Life-threatening,Other,B10,29
+Non Life-threatening,Medical Incident,B07,28
+Alarm,Smoke Investigation (Outside),B01,41
+Fire,Structure Fire,B04,10
+Fire,Industrial Accidents,B03,01
+Alarm,Other,B08,20
+Potentially Life-Threatening,Traffic Collision,B09,43
+Fire,HazMat,B07,31
+Non Life-threatening,Medical Incident,B09,34
+Non Life-threatening,Traffic Collision,B02,41
+Alarm,Assist Police,B01,28
+Potentially Life-Threatening,Medical Incident,B02,29
+Alarm,Other,B99,40
+Non Life-threatening,Medical Incident,B02,40
+Fire,Outside Fire,B01,15
+Fire,Vehicle Fire,B04,03
+Potentially Life-Threatening,Traffic Collision,B02,01
+Alarm,Smoke Investigation (Outside),B10,44
+Fire,Outside Fire,B09,32
+Alarm,Smoke Investigation (Outside),B10,42
+Alarm,Gas Leak (Natural and LP Gases),B08,33
+Alarm,Other,B08,34
+Potentially Life-Threatening,Medical Incident,B08,07
+Potentially Life-Threatening,Medical Incident,B09,44
+Non Life-threatening,Medical Incident,B01,22
+Alarm,Alarms,B08,19
+Potentially Life-Threatening,Medical Incident,B09,42
+Alarm,Odor (Strange / Unknown),B06,24
+Alarm,Citizen Assist / Service Call,B06,07
+Alarm,Alarms,B04,10
+Alarm,Alarms,B07,23
+Non Life-threatening,Medical Incident,B09,12
+Non Life-threatening,Medical Incident,B10,08
+Non Life-threatening,Medical Incident,B01,06
+Non Life-threatening,Medical Incident,B04,29
+Alarm,Citizen Assist / Service Call,B05,10
+Alarm,HazMat,B09,33
+Potentially Life-Threatening,Traffic Collision,B04,41
+Alarm,Smoke Investigation (Outside),B08,39
+Alarm,Electrical Hazard,B06,06
+Alarm,Odor (Strange / Unknown),B06,32
+Non Life-threatening,Traffic Collision,B06,11
+Non Life-threatening,Other,B09,17
+Non Life-threatening,Medical Incident,B09,20
+Alarm,Fuel Spill,B06,11
+Fire,Structure Fire,B06,07
+Alarm,Elevator / Escalator Rescue,B02,29
+Non Life-threatening,Other,B04,16
+Potentially Life-Threatening,Medical Incident,B04,13
+Alarm,Assist Police,B03,37
+Fire,Structure Fire,B05,10
+Fire,Watercraft in Distress,B03,04
+Fire,Industrial Accidents,B05,21
+Alarm,Structure Fire,B04,28
+Alarm,Electrical Hazard,B02,21
+Potentially Life-Threatening,Traffic Collision,B03,43
+Fire,Vehicle Fire,B09,26
+Fire,Marine Fire,B01,35
+Potentially Life-Threatening,Medical Incident,B05,31
+Non Life-threatening,Traffic Collision,B04,51
+Potentially Life-Threatening,Traffic Collision,B02,05
+Alarm,Other,B03,37
+Non Life-threatening,Other,B02,06
+Fire,Odor (Strange / Unknown),B05,10
+Alarm,Elevator / Escalator Rescue,B03,01
+Alarm,Medical Incident,B07,31
+Alarm,Elevator / Escalator Rescue,B01,16
+Alarm,Alarms,B07,01
+Alarm,HazMat,B10,25
+Potentially Life-Threatening,Medical Incident,B05,21
+Alarm,Fuel Spill,B05,05
+Non Life-threatening,Traffic Collision,B03,13
+Non Life-threatening,Traffic Collision,B01,03
+Potentially Life-Threatening,Medical Incident,B10,22
+Fire,Vehicle Fire,B06,09
+Alarm,Other,B05,24
+Alarm,Elevator / Escalator Rescue,B06,36
+Fire,Structure Fire,B10,37
+Fire,Vehicle Fire,B01,02
+Potentially Life-Threatening,Traffic Collision,B03,35
+Non Life-threatening,Medical Incident,B06,06
+Potentially Life-Threatening,Medical Incident,B01,08
+Potentially Life-Threatening,Traffic Collision,B02,44
+Alarm,Other,B99,14
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B05,06
+Alarm,Elevator / Escalator Rescue,B06,26
+Alarm,Gas Leak (Natural and LP Gases),B99,10
+Potentially Life-Threatening,Medical Incident,B09,01
+Alarm,Smoke Investigation (Outside),B02,03
+Alarm,Outside Fire,B08,23
+Potentially Life-Threatening,Traffic Collision,B10,17
+Alarm,Other,B07,22
+Potentially Life-Threatening,Medical Incident,B03,02
+Alarm,Gas Leak (Natural and LP Gases),B10,09
+Non Life-threatening,Medical Incident,B03,41
+Fire,Vehicle Fire,B03,08
+Alarm,Medical Incident,B07,14
+Alarm,Gas Leak (Natural and LP Gases),B01,41
+Alarm,Structure Fire,B06,32
+Potentially Life-Threatening,Traffic Collision,B03,29
+Non Life-threatening,Traffic Collision,B05,05
+Alarm,Structure Fire,B06,24
+Alarm,Fuel Spill,B03,13
+Non Life-threatening,Medical Incident,B02,31
+Alarm,Gas Leak (Natural and LP Gases),B10,51
+Alarm,Fuel Spill,B01,03
+Alarm,Other,B99,31
+Potentially Life-Threatening,Other,B05,06
+Potentially Life-Threatening,Traffic Collision,B05,20
+Alarm,Citizen Assist / Service Call,B10,37
+Fire,Industrial Accidents,B09,44
+Alarm,Other,B99,21
+Non Life-threatening,Medical Incident,B02,21
+Fire,Outside Fire,B99,44
+Alarm,Fuel Spill,B04,51
+Fire,Vehicle Fire,B09,19
+Potentially Life-Threatening,Traffic Collision,B05,12
+Potentially Life-Threatening,Medical Incident,B99,32
+Alarm,Elevator / Escalator Rescue,B08,39
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B04,05
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B07,10
+Non Life-threatening,Medical Incident,B09,19
+Potentially Life-Threatening,Traffic Collision,B03,03
+Alarm,Electrical Hazard,B09,26
+Non Life-threatening,Medical Incident,B99,15
+Potentially Life-Threatening,Traffic Collision,B01,13
+Alarm,Gas Leak (Natural and LP Gases),B05,21
+Fire,Train / Rail Incident,B02,06
+Fire,Explosion,B06,09
+Alarm,Elevator / Escalator Rescue,B10,42
+Alarm,Elevator / Escalator Rescue,B10,44
+Fire,Water Rescue,B08,22
+Alarm,Alarms,B08,20
+Fire,Explosion,B01,02
+Non Life-threatening,Medical Incident,B09,16
+Non Life-threatening,Traffic Collision,B02,36
+Potentially Life-Threatening,Medical Incident,B99,10
+Non Life-threatening,Medical Incident,B07,07
+Alarm,Alarms,B08,12
+Non Life-threatening,Medical Incident,B03,08
+Alarm,Other,B07,51
+Non Life-threatening,Medical Incident,B01,02
+Non Life-threatening,Medical Incident,B06,09
+Potentially Life-Threatening,Medical Incident,B10,09
+Alarm,Other,B08,08
+Alarm,Fuel Spill,B02,36
+Alarm,Alarms,B99,13
+Non Life-threatening,Traffic Collision,B04,06
+Alarm,Medical Incident,B02,07
+Fire,Explosion,B03,08
+Potentially Life-Threatening,Traffic Collision,B05,36
+Alarm,Odor (Strange / Unknown),B02,37
+Fire,Vehicle Fire,B06,06
+Alarm,Other,B05,10
+Potentially Life-Threatening,Medical Incident,B01,41
+Non Life-threatening,Medical Incident,B09,48
+Alarm,Other,B06,07
+Alarm,Electrical Hazard,B04,03
+Alarm,Smoke Investigation (Outside),B02,29
+Alarm,Odor (Strange / Unknown),B04,38
+Alarm,Assist Police,B10,37
+Fire,Explosion,B09,19
+Fire,Explosion,B04,03
+Alarm,Citizen Assist / Service Call,B99,21
+Alarm,Assist Police,B06,07
+Potentially Life-Threatening,Medical Incident,B08,33
+Alarm,Gas Leak (Natural and LP Gases),B09,44
+Non Life-threatening,Other,B03,04
+Alarm,Gas Leak (Natural and LP Gases),B09,42
+Alarm,Electrical Hazard,B09,19
+Non Life-threatening,Medical Incident,B09,26
+Alarm,Citizen Assist / Service Call,B99,31
+Alarm,HazMat,B08,23
+Alarm,Electrical Hazard,B99,15
+Fire,Structure Fire,B05,24
+Alarm,Elevator / Escalator Rescue,B02,03
+Alarm,Smoke Investigation (Outside),B06,26
+Alarm,Structure Fire,B04,38
+Alarm,Citizen Assist / Service Call,B07,06
+Alarm,Other,B10,37
+Potentially Life-Threatening,Medical Incident,B03,06
+Alarm,Smoke Investigation (Outside),B01,16
+Alarm,Smoke Investigation (Outside),B03,01
+Alarm,Citizen Assist / Service Call,B07,22
+Fire,Industrial Accidents,B10,09
+Fire,Structure Fire,B03,37
+Fire,Watercraft in Distress,B04,16
+Alarm,Structure Fire,B02,37
+Alarm,Outside Fire,B10,25
+Alarm,Assist Police,B05,10
+Alarm,Electrical Hazard,B03,08
+Potentially Life-Threatening,Traffic Collision,B10,29
+Alarm,Electrical Hazard,B01,02
+Non Life-threatening,Traffic Collision,B06,29
+Alarm,Citizen Assist / Service Call,B99,14
+Alarm,Electrical Hazard,B06,09
+Potentially Life-Threatening,Medical Incident,B10,02
+Alarm,Citizen Assist / Service Call,B05,24
+Fire,Water Rescue,B07,34
+Non Life-threatening,Medical Incident,B04,03
+Non Life-threatening,Other,B09,43
+Alarm,Alarms,B01,28
+Non Life-threatening,Medical Incident,B01,51
+Alarm,Citizen Assist / Service Call,B03,37
+Non Life-threatening,Traffic Collision,B99,15
+Potentially Life-Threatening,Medical Incident,B01,13
+Non Life-threatening,Traffic Collision,B09,19
+Potentially Life-Threatening,Medical Incident,B03,03
+Non Life-threatening,Medical Incident,B10,18
+Non Life-threatening,Other,B06,26
+Alarm,HazMat,B02,07
+Alarm,Structure Fire,B01,28
+Alarm,Citizen Assist / Service Call,B08,18
+Alarm,Gas Leak (Natural and LP Gases),B02,05
+Fire,Vehicle Fire,B05,05
+Alarm,Smoke Investigation (Outside),B03,04
+Fire,Outside Fire,B09,39
+Non Life-threatening,Medical Incident,B02,36
+Alarm,Fuel Spill,B06,09
+Alarm,Other,B99,36
+Potentially Life-Threatening,Traffic Collision,B99,10
+Alarm,Fuel Spill,B01,02
+Non Life-threatening,Traffic Collision,B07,07
+Non Life-threatening,Traffic Collision,B03,08
+Alarm,Gas Leak (Natural and LP Gases),B10,17
+Alarm,Odor (Strange / Unknown),B08,12
+Fire,Outside Fire,B10,07
+Non Life-threatening,Medical Incident,B01,35
+Alarm,Elevator / Escalator Rescue,B02,06
+Alarm,Gas Leak (Natural and LP Gases),B03,35
+Potentially Life-Threatening,Medical Incident,B03,11
+Non Life-threatening,Other,B03,01
+Alarm,Odor (Strange / Unknown),B08,20
+Alarm,Alarms,B02,37
+Potentially Life-Threatening,Medical Incident,B05,36
+Non Life-threatening,Medical Incident,B04,06
+Non Life-threatening,Medical Incident,B01,29
+Potentially Life-Threatening,Traffic Collision,B01,41
+Alarm,Gas Leak (Natural and LP Gases),B03,29
+Fire,Explosion,B02,36
+Potentially Life-Threatening,Water Rescue,B03,35
+Non Life-threatening,Traffic Collision,B01,02
+Fire,Structure Fire,B08,18
+Alarm,Fuel Spill,B03,08
+Alarm,Assist Police,B09,15
+Potentially Life-Threatening,Traffic Collision,B10,09
+Non Life-threatening,Traffic Collision,B06,09
+Fire,Outside Fire,B07,34
+Fire,Vehicle Fire,B01,03
+Alarm,Alarms,B04,38
+Fire,Vehicle Fire,B03,13
+Alarm,Gas Leak (Natural and LP Gases),B05,12
+Non Life-threatening,Medical Incident,B04,22
+Non Life-threatening,Medical Incident,B06,43
+Alarm,Gas Leak (Natural and LP Gases),B05,20
+Alarm,Fuel Spill,B09,19
+Fire,Vehicle Fire,B04,51
+Alarm,Smoke Investigation (Outside),B09,43
+Alarm,Fuel Spill,B04,03
+Non Life-threatening,Traffic Collision,B09,26
+Fire,Structure Fire,B08,40
+Potentially Life-Threatening,Traffic Collision,B08,33
+Alarm,Gas Leak (Natural and LP Gases),B02,01
+Potentially Life-Threatening,Medical Incident,B06,13
+Alarm,Other,B99,16
+Alarm,Electrical Hazard,B02,36
+Fire,Outside Fire,B08,22
+Potentially Life-Threatening,Medical Incident,B99,28
+Alarm,Other,B10,47
+Alarm,Outside Fire,B07,14
+Potentially Life-Threatening,Medical Incident,B03,17
+Alarm,Structure Fire,B99,13
+Alarm,Other,B09,15
+Alarm,Gas Leak (Natural and LP Gases),B04,41
+Alarm,Other,B99,19
+Alarm,Structure Fire,B06,39
+Fire,Watercraft in Distress,B99,94
+Alarm,Structure Fire,B08,12
+Fire,Vehicle Fire,B06,11
+Alarm,Citizen Assist / Service Call,B08,40
+Alarm,Medical Incident,B08,23
+Non Life-threatening,Medical Incident,B06,29
+Potentially Life-Threatening,Medical Incident,B10,29
+Alarm,Structure Fire,B08,20
+Non Life-threatening,Medical Incident,B10,40
+Fire,Other,B04,10
+Alarm,Alarms,B05,07
+Potentially Life-Threatening,Medical Incident,B99,39
+Non Life-threatening,Other,B02,29
+Alarm,Elevator / Escalator Rescue,B04,16
+Alarm,Outside Fire,B07,21
+Non Life-threatening,Medical Incident,B02,48
+Fire,Vehicle Fire,B03,18
+Fire,Industrial Accidents,B01,13
+Alarm,Outside Fire,B07,31
+Non Life-threatening,Traffic Collision,B04,03
+Alarm,Citizen Assist / Service Call,B99,12
+Alarm,Odor (Strange / Unknown),B01,28
+Alarm,Fuel Spill,B09,26
+Potentially Life-Threatening,Medical Incident,B05,16
+Fire,Outside Fire,B09,25
+Alarm,Odor (Strange / Unknown),B04,10
+Alarm,Electrical Hazard,B01,03
+Alarm,Electrical Hazard,B03,13
+Alarm,Smoke Investigation (Outside),B02,06
+Fire,Confined Space / Structure Collapse,B09,32
+Non Life-threatening,Medical Incident,B03,18
+Potentially Life-Threatening,Medical Incident,B02,01
+Alarm,Electrical Hazard,B04,51
+Potentially Life-Threatening,Traffic Collision,B09,42
+Alarm,Odor (Strange / Unknown),B08,19
+Alarm,Alarms,B06,24
+Potentially Life-Threatening,Traffic Collision,B09,44
+Potentially Life-Threatening,Medical Incident,B10,03
+Non Life-threatening,Medical Incident,B06,03
+Alarm,Outside Fire,B99,51
+Fire,Suspicious Package,B09,15
+Potentially Life-Threatening,Medical Incident,B10,11
+Fire,Other,B01,28
+Non Life-threatening,Medical Incident,B06,11
+Alarm,Alarms,B06,32
+Alarm,Outside Fire,B02,07
+Alarm,Smoke Investigation (Outside),B09,11
+Non Life-threatening,Other,B02,03
+Alarm,Medical Incident,B99,03
+Non Life-threatening,Traffic Collision,B10,08
+Fire,Industrial Accidents,B03,29
+Alarm,Elevator / Escalator Rescue,B03,04
+Potentially Life-Threatening,Medical Incident,B04,41
+Fire,Industrial Accidents,B03,35
+Alarm,Other,B07,03
+Potentially Life-Threatening,Traffic Collision,B03,09
+Fire,Explosion,B06,11
+Fire,HazMat,B07,34
+Potentially Life-Threatening,Medical Incident,B99,38
+Alarm,Gas Leak (Natural and LP Gases),B10,29
+Fire,Industrial Accidents,B10,17
+Alarm,Citizen Assist / Service Call,B99,36
+Fire,Outside Fire,B08,51
+Alarm,Elevator / Escalator Rescue,B09,43
+Fire,High Angle Rescue,B02,36
+Alarm,Assist Police,B08,40
+Non Life-threatening,Medical Incident,B09,21
+Alarm,Other,B08,18
+Alarm,Assist Police,B04,07
+Alarm,Medical Incident,B09,33
+Alarm,Electrical Hazard,B05,05
+Fire,Marine Fire,B03,08
+Potentially Life-Threatening,Traffic Collision,B04,13
+Non Life-threatening,Medical Incident,B05,01
+Alarm,HazMat,B07,14
+Potentially Life-Threatening,Traffic Collision,B05,21
+Alarm,Gas Leak (Natural and LP Gases),B01,13
+Alarm,Gas Leak (Natural and LP Gases),B03,03
+Alarm,Assist Police,B08,18
+Fire,Structure Fire,B09,15
+Non Life-threatening,Medical Incident,B01,03
+Non Life-threatening,Medical Incident,B02,12
+Alarm,Alarms,B04,28
+Fire,HazMat,B08,22
+Non Life-threatening,Medical Incident,B03,13
+Non Life-threatening,Other,B10,42
+Potentially Life-Threatening,Medical Incident,B02,23
+Non Life-threatening,Medical Incident,B04,51
+Fire,Outside Fire,B02,24
+Potentially Life-Threatening,Traffic Collision,B05,31
+Non Life-threatening,Other,B10,44
+Alarm,Other,B04,07
+Alarm,HazMat,B10,32
+Potentially Life-Threatening,Medical Incident,B02,05
+Fire,Explosion,B05,05
+Non Life-threatening,Medical Incident,B02,20
+Alarm,Electrical Hazard,B06,11
+Potentially Life-Threatening,Medical Incident,B02,44
+Potentially Life-Threatening,Medical Incident,B02,42
+Non Life-threatening,Traffic Collision,B06,06
+Fire,Train / Rail Incident,B03,01
+Fire,Structure Fire,B99,16
+Non Life-threatening,Medical Incident,B06,17
+Potentially Life-Threatening,Medical Incident,B10,17
+Fire,Outside Fire,B02,32
+Fire,Watercraft in Distress,B01,48
+Non Life-threatening,Medical Incident,B01,11
+Potentially Life-Threatening,Other,B01,01
+Alarm,Aircraft Emergency,B03,08
+Potentially Life-Threatening,Medical Incident,B03,35
+Non Life-threatening,Other,B08,39
+Alarm,Other,B08,40
+Fire,Outside Fire,B10,33
+Fire,Industrial Accidents,B04,41
+Fire,Vehicle Fire,B02,36
+Alarm,Smoke Investigation (Outside),B04,16
+Alarm,Citizen Assist / Service Call,B09,15
+Potentially Life-Threatening,Medical Incident,B03,29
+Alarm,Medical Incident,B10,25
+Alarm,HazMat,B07,31
+Potentially Life-Threatening,Other,B03,48
+Alarm,Citizen Assist / Service Call,B10,47
+Potentially Life-Threatening,Traffic Collision,B03,02
+Fire,Vehicle Fire,B01,35
+Alarm,Fuel Spill,B06,06
+Fire,Explosion,B01,03
+Fire,Explosion,B03,13
+Potentially Life-Threatening,Medical Incident,B05,12
+Alarm,Structure Fire,B04,10
+Alarm,Citizen Assist / Service Call,B99,16
+Non Life-threatening,Medical Incident,B05,05
+Alarm,Structure Fire,B08,19
+Potentially Life-Threatening,Medical Incident,B05,20
+Potentially Life-Threatening,Medical Incident,B99,25
+Alarm,Odor (Strange / Unknown),B10,09
+Fire,Structure Fire,B02,06
+Alarm,Assist Police,B99,07
+Potentially Life-Threatening,Medical Incident,B08,31
+Alarm,Fuel Spill,B08,23
+Fire,High Angle Rescue,B07,14
+Alarm,Odor (Strange / Unknown),B01,41
+Fire,HazMat,B03,48
+Potentially Life-Threatening,Medical Incident,B02,37
+Potentially Life-Threatening,Medical Incident,B08,21
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B08,22
+Alarm,Medical Incident,B09,26
+Alarm,Structure Fire,B08,33
+Non Life-threatening,Other,B10,37
+Fire,Odor (Strange / Unknown),B04,16
+Alarm,Outside Fire,B05,05
+Non Life-threatening,Traffic Collision,B99,35
+Potentially Life-Threatening,Medical Incident,B04,38
+Alarm,Other,B03,04
+Potentially Life-Threatening,Traffic Collision,B99,40
+Non Life-threatening,Traffic Collision,B99,29
+Potentially Life-Threatening,Other,B08,22
+Alarm,Citizen Assist / Service Call,B06,14
+Alarm,Citizen Assist / Service Call,B02,06
+Alarm,Outside Fire,B01,03
+Potentially Life-Threatening,Medical Incident,B99,41
+Alarm,Outside Fire,B03,13
+Alarm,Gas Leak (Natural and LP Gases),B04,28
+Non Life-threatening,Medical Incident,B99,02
+Alarm,Other,B09,43
+Alarm,Alarms,B01,13
+Alarm,Medical Incident,B04,03
+Alarm,Alarms,B03,03
+Alarm,Electrical Hazard,B99,51
+Alarm,Elevator / Escalator Rescue,B08,18
+Non Life-threatening,Medical Incident,B03,32
+Potentially Life-Threatening,Traffic Collision,B08,20
+Alarm,Electrical Hazard,B02,07
+Non Life-threatening,Traffic Collision,B08,23
+Potentially Life-Threatening,Traffic Collision,B08,12
+Non Life-threatening,Traffic Collision,B03,25
+Fire,HazMat,B01,01
+Potentially Life-Threatening,Other,B07,34
+Fire,Vehicle Fire,B07,14
+Potentially Life-Threatening,Medical Incident,B05,07
+Alarm,Alarms,B10,29
+Fire,Explosion,B02,07
+Alarm,Medical Incident,B03,08
+Potentially Life-Threatening,Medical Incident,B10,15
+Non Life-threatening,Medical Incident,B06,15
+Fire,Vehicle Fire,B10,32
+Alarm,Smoke Investigation (Outside),B09,15
+Alarm,Citizen Assist / Service Call,B04,16
+Alarm,Structure Fire,B99,10
+Alarm,Medical Incident,B09,19
+Potentially Life-Threatening,Traffic Collision,B01,28
+Fire,Suspicious Package,B02,06
+Alarm,Alarms,B99,39
+Alarm,Elevator / Escalator Rescue,B08,40
+Alarm,Assist Police,B09,43
+Alarm,Gas Leak (Natural and LP Gases),B06,24
+Fire,Industrial Accidents,B04,38
+Fire,Vehicle Fire,B07,21
+Alarm,HazMat,B02,36
+Alarm,Odor (Strange / Unknown),B08,33
+Non Life-threatening,Medical Incident,B99,09
+Alarm,Other,B02,09
+Fire,Vehicle Fire,B07,31
+Non Life-threatening,Other,B06,07
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B07,34
+Fire,Structure Fire,B04,16
+Alarm,Other,B99,07
+Non Life-threatening,Medical Incident,B99,51
+Non Life-threatening,Traffic Collision,B99,43
+Alarm,Outside Fire,B06,11
+Non Life-threatening,Medical Incident,B02,07
+Alarm,Structure Fire,B10,09
+Non Life-threatening,Other,B05,10
+Potentially Life-Threatening,Medical Incident,B99,34
+Fire,Outside Fire,B10,36
+Alarm,Medical Incident,B01,02
+Alarm,Medical Incident,B06,09
+Alarm,Gas Leak (Natural and LP Gases),B06,32
+Alarm,Structure Fire,B01,41
+Fire,Explosion,B07,14
+Non Life-threatening,Other,B99,14
+Fire,Structure Fire,B03,04
+Fire,Vehicle Fire,B99,51
+Alarm,Assist Police,B04,16
+Potentially Life-Threatening,Medical Incident,B05,33
+Fire,Vehicle Fire,B02,07
+Alarm,Fuel Spill,B10,25
+Fire,Explosion,B10,32
+Fire,Confined Space / Structure Collapse,B05,06
+Non Life-threatening,Other,B05,24
+Alarm,HazMat,B05,05
+Non Life-threatening,Medical Incident,B99,22
+Alarm,Other,B10,04
+Fire,Vehicle Fire,B99,09
+Alarm,Citizen Assist / Service Call,B09,43
+Non Life-threatening,Medical Incident,B07,21
+Non Life-threatening,Medical Incident,B99,06
+Alarm,Structure Fire,B05,21
+Non Life-threatening,Other,B03,37
+Alarm,Other,B02,06
+Fire,Outside Fire,B03,48
+Non Life-threatening,Medical Incident,B07,31
+Alarm,Fuel Spill,B07,12
+Non Life-threatening,Traffic Collision,B99,17
+Potentially Life-Threatening,Medical Incident,B06,24
+Alarm,Odor (Strange / Unknown),B09,42
+Potentially Life-Threatening,Traffic Collision,B08,19
+Alarm,Smoke Investigation (Outside),B08,18
+Non Life-threatening,Traffic Collision,B07,12
+Alarm,Odor (Strange / Unknown),B09,44
+Alarm,Citizen Assist / Service Call,B03,04
+Alarm,Alarms,B02,01
+Alarm,Other,B04,36
+Fire,Explosion,B07,31
+Fire,Outside Fire,B01,01
+Potentially Life-Threatening,Traffic Collision,B04,10
+Alarm,HazMat,B01,03
+Alarm,HazMat,B03,13
+Alarm,Citizen Assist / Service Call,B08,32
+Alarm,Alarms,B04,41
+Non Life-threatening,Medical Incident,B07,14
+Fire,Structure Fire,B09,43
+Non Life-threatening,Traffic Collision,B10,25
+Potentially Life-Threatening,Medical Incident,B06,32
+Non Life-threatening,Medical Incident,B10,32
+Non Life-threatening,Traffic Collision,B99,03
+Potentially Life-Threatening,Medical Incident,B03,15
+Alarm,Alarms,B03,29
+Alarm,Gas Leak (Natural and LP Gases),B02,37
+Fire,High Angle Rescue,B99,51
+Alarm,Elevator / Escalator Rescue,B99,16
+Alarm,Smoke Investigation (Outside),B08,40
+Fire,High Angle Rescue,B02,07
+Potentially Life-Threatening,Medical Incident,B99,08
+Alarm,Alarms,B05,20
+Alarm,Elevator / Escalator Rescue,B10,47
+Alarm,Structure Fire,B09,44
+Alarm,Fuel Spill,B09,33
+Alarm,Structure Fire,B09,42
+Alarm,Electrical Hazard,B07,21
+Fire,Aircraft Emergency,B99,44
+Fire,Train / Rail Incident,B10,37
+Alarm,Alarms,B05,12
+Non Life-threatening,Traffic Collision,B99,11
+Alarm,Gas Leak (Natural and LP Gases),B04,38
+Alarm,Electrical Hazard,B07,31
+Alarm,Elevator / Escalator Rescue,B09,15
+Potentially Life-Threatening,Traffic Collision,B08,26
+Alarm,HazMat,B06,11
+Alarm,Alarms,B02,05
+Alarm,Assist Police,B02,06
+Potentially Life-Threatening,Medical Incident,B04,28
+Non Life-threatening,Traffic Collision,B09,33
+Alarm,Odor (Strange / Unknown),B05,21
+Alarm,Oil Spill,B03,01
+Potentially Life-Threatening,Traffic Collision,B07,01
+Alarm,Outside Fire,B02,36
+Alarm,Alarms,B03,35
+Alarm,Electrical Hazard,B07,14
+Alarm,Other,B04,16
+Fire,Outside Fire,B03,36
+Alarm,Alarms,B10,17
+Alarm,Electrical Hazard,B10,32
+Alarm,Fuel Spill,B07,14
+Fire,Outside Fire,B05,06
+Alarm,Structure Fire,B10,17
+Alarm,Other,B08,39
+Non Life-threatening,Traffic Collision,B99,22
+Non Life-threatening,Other,B08,40
+Alarm,Fuel Spill,B10,32
+Fire,Explosion,B10,25
+Alarm,Other,B06,20
+Potentially Life-Threatening,Medical Incident,B08,48
+Alarm,Structure Fire,B03,35
+Alarm,Other,B10,42
+Non Life-threatening,Traffic Collision,B99,06
+Alarm,Other,B10,44
+Alarm,Citizen Assist / Service Call,B02,29
+Fire,Outside Fire,B05,22
+Non Life-threatening,Medical Incident,B99,17
+Alarm,Outside Fire,B04,03
+Non Life-threatening,Traffic Collision,B07,31
+Alarm,Medical Incident,B02,20
+Alarm,Gas Leak (Natural and LP Gases),B01,28
+Alarm,Structure Fire,B02,05
+Alarm,Medical Incident,B01,03
+Non Life-threatening,Traffic Collision,B07,21
+Alarm,Medical Incident,B03,13
+Non Life-threatening,Medical Incident,B03,28
+Alarm,Electrical Hazard,B09,33
+Alarm,Fuel Spill,B07,21
+Non Life-threatening,Medical Incident,B07,20
+Alarm,Medical Incident,B05,05
+Potentially Life-Threatening,Medical Incident,B07,23
+Potentially Life-Threatening,Medical Incident,B04,10
+Alarm,Structure Fire,B05,12
+Potentially Life-Threatening,Medical Incident,B07,05
+Alarm,Citizen Assist / Service Call,B06,19
+Non Life-threatening,Medical Incident,B07,12
+Alarm,Alarms,B09,44
+Alarm,Fuel Spill,B07,31
+Potentially Life-Threatening,Traffic Collision,B06,24
+Potentially Life-Threatening,Medical Incident,B08,19
+Fire,Odor (Strange / Unknown),B03,01
+Alarm,Alarms,B09,42
+Potentially Life-Threatening,Medical Incident,B01,38
+Alarm,Elevator / Escalator Rescue,B05,10
+Alarm,Odor (Strange / Unknown),B02,01
+Alarm,Structure Fire,B05,20
+Alarm,Elevator / Escalator Rescue,B06,07
+Fire,Odor (Strange / Unknown),B06,26
+Fire,Structure Fire,B02,29
+Alarm,Structure Fire,B03,29
+Non Life-threatening,Traffic Collision,B10,32
+Alarm,Citizen Assist / Service Call,B06,16
+Potentially Life-Threatening,Traffic Collision,B06,32
+Alarm,Odor (Strange / Unknown),B04,41
+Potentially Life-Threatening,Medical Incident,B08,16
+Non Life-threatening,Medical Incident,B03,39
+Non Life-threatening,Traffic Collision,B07,14
+Alarm,Assist Police,B02,03
+Potentially Life-Threatening,Medical Incident,B06,25
+Non Life-threatening,Medical Incident,B10,25
+Alarm,Smoke Investigation (Outside),B05,24
+Alarm,Odor (Strange / Unknown),B03,29
+Alarm,Outside Fire,B01,02
+Alarm,Outside Fire,B06,09
+Fire,Structure Fire,B06,26
+Alarm,Smoke Investigation (Outside),B99,14
+Alarm,Medical Incident,B06,11
+Fire,Train / Rail Incident,B09,15
+Fire,Vehicle Fire,B08,23
+Alarm,Other,B02,03
+Alarm,Structure Fire,B04,41
+Fire,HazMat,B04,05
+Non Life-threatening,Medical Incident,B99,03
+Alarm,Elevator / Escalator Rescue,B10,37
+Non Life-threatening,Medical Incident,B99,11
+Alarm,Smoke Investigation (Outside),B03,37
+Alarm,Odor (Strange / Unknown),B05,12
+Alarm,Alarms,B04,18
+Fire,Marine Fire,B99,51
+Fire,Explosion,B09,33
+Alarm,Odor (Strange / Unknown),B05,20
+Alarm,Structure Fire,B02,01
+Fire,Water Rescue,B03,48
+Fire,Structure Fire,B03,01
+Alarm,Structure Fire,B10,03
+Fire,Structure Fire,B01,16
+Non Life-threatening,Medical Incident,B09,33
+Alarm,Assist Police,B10,44
+Alarm,Smoke Investigation (Outside),B99,31
+Potentially Life-Threatening,Traffic Collision,B04,28
+Alarm,Assist Police,B10,42
+Alarm,Alarms,B05,21
+Alarm,Citizen Assist / Service Call,B06,26
+Potentially Life-Threatening,Medical Incident,B07,01
+Potentially Life-Threatening,Medical Incident,B08,36
+Non Life-threatening,Other,B08,18
+Alarm,Odor (Strange / Unknown),B02,05
+Alarm,Alarms,B05,31
+Potentially Life-Threatening,Other,B09,32
+Alarm,Smoke Investigation (Outside),B07,22
+Alarm,Odor (Strange / Unknown),B10,17
+Alarm,Gas Leak (Natural and LP Gases),B08,12
+Alarm,Alarms,B09,01
+Alarm,Assist Police,B08,39
+Fire,Outside Fire,B02,08
+Alarm,Gas Leak (Natural and LP Gases),B08,20
+Alarm,Citizen Assist / Service Call,B04,21
+Alarm,Odor (Strange / Unknown),B03,35
+Alarm,Citizen Assist / Service Call,B03,01
+Alarm,Outside Fire,B03,08
+Fire,Confined Space / Structure Collapse,B03,36
+Alarm,Citizen Assist / Service Call,B01,16
+Alarm,Electrical Hazard,B10,25
+Alarm,HazMat,B04,03
+Fire,Other,B02,05
+Alarm,Alarms,B01,41
+Non Life-threatening,Other,B09,15
+Alarm,Other,B03,05
+Potentially Life-Threatening,Traffic Collision,B02,37
+Alarm,Alarms,B10,09
+Fire,Structure Fire,B10,42
+Fire,Structure Fire,B10,44
+Potentially Life-Threatening,Medical Incident,B99,13
+Fire,Explosion,B08,23
+Fire,Administrative,B06,07
+Non Life-threatening,Other,B10,47
+Non Life-threatening,Medical Incident,B99,35
+Alarm,Other,B02,35
+Non Life-threatening,Medical Incident,B10,28
+Fire,Vehicle Fire,B09,33
+Fire,Other,B03,35
+Fire,High Angle Rescue,B07,12
+Fire,Structure Fire,B06,20
+Fire,HazMat,B05,06
+Potentially Life-Threatening,Traffic Collision,B04,38
+Alarm,Other,B01,36
+Alarm,Other,B03,42
+Fire,Structure Fire,B08,39
+Alarm,Other,B03,44
+Non Life-threatening,Traffic Collision,B99,02
+Alarm,Smoke Investigation (Outside),B06,07
+Non Life-threatening,Medical Incident,B07,16
+Fire,Industrial Accidents,B01,28
+Alarm,Odor (Strange / Unknown),B03,03
+Alarm,Odor (Strange / Unknown),B01,13
+Non Life-threatening,Medical Incident,B09,07
+Alarm,Gas Leak (Natural and LP Gases),B07,01
+Non Life-threatening,Medical Incident,B08,44
+Non Life-threatening,Medical Incident,B99,29
+Alarm,Citizen Assist / Service Call,B10,42
+Alarm,Other,B02,29
+Alarm,Citizen Assist / Service Call,B10,44
+Alarm,Assist Police,B06,26
+Potentially Life-Threatening,Medical Incident,B06,39
+Non Life-threatening,Medical Incident,B07,19
+Potentially Life-Threatening,Medical Incident,B08,12
+Alarm,Other,B09,09
+Alarm,Alarms,B99,10
+Alarm,Citizen Assist / Service Call,B06,20
+Alarm,Assist Police,B03,01
+Potentially Life-Threatening,Medical Incident,B08,20
+Non Life-threatening,Traffic Collision,B03,32
+Alarm,Structure Fire,B10,29
+Fire,Vehicle Fire,B99,03
+Alarm,Watercraft in Distress,B01,28
+Alarm,Citizen Assist / Service Call,B08,39
+Fire,Other,B05,12
+Alarm,HazMat,B09,26
+Non Life-threatening,Medical Incident,B08,23
+Alarm,Smoke Investigation (Outside),B05,10
+Non Life-threatening,Traffic Collision,B06,15
+Alarm,Other,B04,21
+Alarm,Elevator / Escalator Rescue,B03,37
+Alarm,Other,B03,01
+Fire,Industrial Accidents,B08,20
+Alarm,Fuel Spill,B02,07
+Potentially Life-Threatening,Medical Incident,B99,18
+Alarm,Other,B01,16
+Alarm,Fuel Spill,B99,51
+Alarm,Medical Incident,B02,36
+Alarm,Other,B04,31
+Fire,Vehicle Fire,B10,25
+Alarm,Odor (Strange / Unknown),B10,29
+Alarm,Structure Fire,B01,13
+Alarm,HazMat,B06,09
+Potentially Life-Threatening,Water Rescue,B08,19
+Alarm,Structure Fire,B03,03
+Fire,Structure Fire,B02,03
+Alarm,HazMat,B01,02
+Alarm,Assist Police,B02,29
+Potentially Life-Threatening,Medical Incident,B01,28
+Fire,Outside Fire,B07,10
+Fire,Outside Fire,B04,05
+Alarm,Smoke Investigation (Outside),B10,37
+Fire,Vehicle Fire,B07,12
+Alarm,Other,B06,26
+Fire,Suspicious Package,B10,44
+Alarm,Elevator / Escalator Rescue,B07,22
+Alarm,Gas Leak (Natural and LP Gases),B04,10
+Fire,Odor (Strange / Unknown),B08,39
+Alarm,Gas Leak (Natural and LP Gases),B08,19
+Alarm,HazMat,B03,08
+Alarm,Alarms,B08,33
+Non Life-threatening,Traffic Collision,B99,09
+Non Life-threatening,Medical Incident,B07,26
+Alarm,Elevator / Escalator Rescue,B99,31
+Alarm,Citizen Assist / Service Call,B02,03
+Non Life-threatening,Traffic Collision,B02,07
+Non Life-threatening,Traffic Collision,B99,51
+Non Life-threatening,Medical Incident,B99,43
+Non Life-threatening,Medical Incident,B07,36
+Non Life-threatening,Medical Incident,B08,01
+Alarm,Electrical Hazard,B08,23
+Alarm,Gas Leak (Natural and LP Gases),B04,05
+Alarm,Fuel Spill,B08,39
+Alarm,Gas Leak (Natural and LP Gases),B07,10
+Non Life-threatening,Medical Incident,B99,33
+Alarm,Electrical Hazard,B04,16
+Alarm,Other,B07,14
+Alarm,Other,B02,33
+Fire,Watercraft in Distress,B03,08
+Fire,Water Rescue,B99,08
+Alarm,Other,B10,32
+Potentially Life-Threatening,Traffic Collision,B03,48
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B05,21
+Alarm,Outside Fire,B09,15
+Alarm,Fuel Spill,B10,42
+Alarm,Structure Fire,B10,33
+Alarm,Fuel Spill,B10,44
+Alarm,HazMat,B08,40
+Potentially Life-Threatening,Medical Incident,B05,06
+Non Life-threatening,Medical Incident,B04,36
+Fire,Explosion,B02,06
+Potentially Life-Threatening,Other,B05,21
+Fire,Vehicle Fire,B02,09
+Potentially Life-Threatening,Medical Incident,B07,32
+Non Life-threatening,Medical Incident,B10,04
+Alarm,Elevator / Escalator Rescue,B02,36
+Alarm,Other,B07,21
+Non Life-threatening,Traffic Collision,B10,42
+Non Life-threatening,Medical Incident,B02,06
+Non Life-threatening,Medical Incident,B06,14
+Alarm,Elevator / Escalator Rescue,B01,35
+Non Life-threatening,Traffic Collision,B10,44
+Fire,Odor (Strange / Unknown),B99,51
+Alarm,Other,B07,31
+Fire,Odor (Strange / Unknown),B02,07
+Alarm,Smoke Investigation (Outside),B06,11
+Fire,Outside Fire,B08,19
+Fire,Water Rescue,B04,28
+Non Life-threatening,Traffic Collision,B06,20
+Alarm,Alarms,B09,32
+Potentially Life-Threatening,Traffic Collision,B01,01
+Fire,Train / Rail Incident,B03,08
+Fire,Mutual Aid / Assist Outside Agency,B02,05
+Non Life-threatening,Traffic Collision,B08,39
+Fire,Outside Fire,B04,10
+Non Life-threatening,Medical Incident,B02,22
+Non Life-threatening,Medical Incident,B01,21
+Alarm,Citizen Assist / Service Call,B06,15
+Non Life-threatening,Medical Incident,B04,16
+Alarm,Fuel Spill,B02,03
+Non Life-threatening,Medical Incident,B01,31
+Potentially Life-Threatening,Medical Incident,B08,15
+Alarm,Alarms,B99,44
+Fire,Vehicle Fire,B08,24
+Fire,Structure Fire,B02,07
+Alarm,Smoke Investigation (Outside),B05,05
+Fire,Vehicle Fire,B03,04
+Fire,Structure Fire,B99,51
+Alarm,Assist Police,B07,31
+Alarm,Other,B03,10
+Potentially Life-Threatening,Medical Incident,B02,08
+Alarm,Electrical Hazard,B10,04
+Non Life-threatening,Medical Incident,B01,14
+Alarm,Smoke Investigation (Outside),B01,03
+Alarm,Smoke Investigation (Outside),B03,13
+Potentially Life-Threatening,Traffic Collision,B03,36
+Alarm,Electrical Hazard,B02,06
+Alarm,Electrical Hazard,B06,14
+Alarm,Gas Leak (Natural and LP Gases),B05,02
+Non Life-threatening,Traffic Collision,B02,11
+Alarm,Smoke Investigation (Outside),B04,51
+Fire,Vehicle Fire,B09,43
+Potentially Life-Threatening,Other,B09,42
+Fire,Train / Rail Incident,B09,26
+Alarm,Citizen Assist / Service Call,B99,09
+Potentially Life-Threatening,Other,B09,44
+Fire,Explosion,B04,16
+Non Life-threatening,Traffic Collision,B10,01
+Non Life-threatening,Medical Incident,B09,17
+Non Life-threatening,Traffic Collision,B02,03
+Alarm,Assist Police,B07,14
+Alarm,HazMat,B08,18
+Alarm,Citizen Assist / Service Call,B02,07
+Alarm,Citizen Assist / Service Call,B99,51
+Fire,Water Rescue,B06,24
+Alarm,Assist Police,B10,32
+Potentially Life-Threatening,Medical Incident,B04,01
+Non Life-threatening,Traffic Collision,B09,09
+Alarm,Outside Fire,B08,40
+Potentially Life-Threatening,Medical Incident,B03,31
+Alarm,Odor (Strange / Unknown),B07,34
+Fire,Confined Space / Structure Collapse,B04,38
+Fire,Outside Fire,B99,13
+Non Life-threatening,Traffic Collision,B02,29
+Alarm,Citizen Assist / Service Call,B99,06
+Potentially Life-Threatening,Medical Incident,B02,41
+Fire,High Angle Rescue,B02,06
+Fire,Structure Fire,B10,32
+Alarm,Citizen Assist / Service Call,B07,31
+Non Life-threatening,Medical Incident,B02,02
+Alarm,Structure Fire,B08,22
+Alarm,HazMat,B09,15
+Potentially Life-Threatening,Traffic Collision,B05,35
+Fire,Explosion,B03,04
+Alarm,Citizen Assist / Service Call,B07,21
+Non Life-threatening,Other,B04,03
+Non Life-threatening,Medical Incident,B09,43
+Fire,Structure Fire,B07,14
+Fire,Outside Fire,B08,20
+Non Life-threatening,Other,B09,26
+Alarm,Elevator / Escalator Rescue,B06,11
+Non Life-threatening,Medical Incident,B05,41
+Alarm,Odor (Strange / Unknown),B10,07
+Fire,HazMat,B08,19
+Alarm,Medical Incident,B10,37
+Fire,Outside Fire,B08,12
+Fire,Explosion,B09,43
+Alarm,Structure Fire,B06,37
+Non Life-threatening,Medical Incident,B03,04
+Alarm,Fuel Spill,B02,29
+Potentially Life-Threatening,Traffic Collision,B02,13
+Alarm,Smoke Investigation (Outside),B02,36
+Fire,Vehicle Fire,B04,16
+Alarm,Assist Police,B99,51
+Alarm,Odor (Strange / Unknown),B09,39
+Alarm,Assist Police,B02,07
+Alarm,Citizen Assist / Service Call,B10,32
+Fire,Structure Fire,B07,31
+Potentially Life-Threatening,Medical Incident,B99,37
+Fire,Industrial Accidents,B04,05
+Fire,Structure Fire,B07,21
+Alarm,Citizen Assist / Service Call,B07,14
+Alarm,Other,B02,07
+Fire,Odor (Strange / Unknown),B07,31
+Potentially Life-Threatening,Medical Incident,B04,05
+Alarm,Fuel Spill,B03,01
+Alarm,Other,B99,51
+Fire,Outside Fire,B01,28
+Alarm,Fuel Spill,B01,16
+Non Life-threatening,Medical Incident,B99,07
+Potentially Life-Threatening,Medical Incident,B07,10
+Potentially Life-Threatening,Other,B01,41
+Alarm,Structure Fire,B09,39
+Alarm,Medical Incident,B05,10
+Non Life-threatening,Other,B01,02
+Alarm,Smoke Investigation (Outside),B06,29
+Alarm,Elevator / Escalator Rescue,B05,05
+Non Life-threatening,Traffic Collision,B01,48
+Potentially Life-Threatening,Medical Incident,B09,40
+Potentially Life-Threatening,Other,B10,09
+Non Life-threatening,Other,B06,09
+Alarm,Structure Fire,B10,07
+Non Life-threatening,Medical Incident,B02,09
+Alarm,Other,B99,09
+Alarm,Gas Leak (Natural and LP Gases),B05,06
+Alarm,Medical Incident,B06,07
+Alarm,Fuel Spill,B06,26
+Fire,Vehicle Fire,B02,06
+Alarm,Electrical Hazard,B09,43
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B10,09
+Non Life-threatening,Other,B09,19
+Fire,Suspicious Package,B07,31
+Alarm,Outside Fire,B08,18
+Non Life-threatening,Traffic Collision,B06,26
+Fire,Odor (Strange / Unknown),B07,14
+Potentially Life-Threatening,Traffic Collision,B10,36
+Non Life-threatening,Traffic Collision,B06,36
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B01,41
+Alarm,Other,B10,10
+Potentially Life-Threatening,Medical Incident,B09,13
+Alarm,Electrical Hazard,B03,04
+Alarm,Odor (Strange / Unknown),B08,22
+Non Life-threatening,Traffic Collision,B04,31
+Potentially Life-Threatening,Medical Incident,B05,51
+Alarm,Elevator / Escalator Rescue,B03,13
+Non Life-threatening,Other,B03,08
+Alarm,Elevator / Escalator Rescue,B01,03
+Alarm,Elevator / Escalator Rescue,B04,51
+Non Life-threatening,Traffic Collision,B04,21
+Alarm,Structure Fire,B07,34
+Non Life-threatening,Traffic Collision,B03,01
+Non Life-threatening,Traffic Collision,B01,16
+Non Life-threatening,Medical Incident,B09,09
+Alarm,Smoke Investigation (Outside),B01,02
+Fire,Water Rescue,B01,28
+Alarm,Smoke Investigation (Outside),B06,09
+Fire,Outside Fire,B04,38
+Alarm,Alarms,B07,34
+Alarm,HazMat,B10,37
+Fire,Vehicle Fire,B02,03
+Non Life-threatening,Medical Incident,B05,13
+Potentially Life-Threatening,Medical Incident,B10,48
+Alarm,Other,B08,23
+Fire,Structure Fire,B10,25
+Non Life-threatening,Traffic Collision,B09,43
+Fire,Outside Fire,B02,37
+Alarm,Fuel Spill,B03,04
+Non Life-threatening,Medical Incident,B02,29
+Potentially Life-Threatening,Medical Incident,B02,40
+Alarm,Other,B99,29
+Fire,Suspicious Package,B09,33
+Potentially Life-Threatening,Traffic Collision,B02,41
+Non Life-threatening,Medical Incident,B02,35
+Alarm,Other,B99,35
+Alarm,Citizen Assist / Service Call,B07,12
+Non Life-threatening,Traffic Collision,B03,04
+Alarm,Smoke Investigation (Outside),B09,19
+Alarm,Fuel Spill,B09,43
+Alarm,Citizen Assist / Service Call,B07,20
+Non Life-threatening,Medical Incident,B01,36
+Non Life-threatening,Medical Incident,B05,40
+Non Life-threatening,Medical Incident,B06,19
+Alarm,Electrical Hazard,B06,26
+Non Life-threatening,Traffic Collision,B08,24
+Alarm,Gas Leak (Natural and LP Gases),B03,36
+Fire,Explosion,B02,29
+Alarm,Alarms,B10,07
+Fire,HazMat,B06,32
+Alarm,Outside Fire,B07,22
+Alarm,Citizen Assist / Service Call,B10,25
+Fire,Train / Rail Incident,B06,11
+Non Life-threatening,Medical Incident,B03,05
+Alarm,Electrical Hazard,B03,01
+Alarm,Medical Incident,B09,15
+Potentially Life-Threatening,Medical Incident,B03,12
+Alarm,Alarms,B09,39
+Potentially Life-Threatening,Medical Incident,B02,13
+Alarm,Smoke Investigation (Outside),B03,08
+Fire,Suspicious Package,B10,25
+Fire,Explosion,B03,01
+Fire,Vehicle Fire,B08,39
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B01,13
+Alarm,Gas Leak (Natural and LP Gases),B03,48
+Non Life-threatening,Traffic Collision,B09,29
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B03,03
+Non Life-threatening,Traffic Collision,B99,07
+Potentially Life-Threatening,Traffic Collision,B07,10
+Potentially Life-Threatening,Traffic Collision,B04,05
+Fire,Structure Fire,B09,33
+Fire,Confined Space / Structure Collapse,B01,28
+Potentially Life-Threatening,Other,B05,36
+Fire,Vehicle Fire,B06,20
+Alarm,Other,B07,36
+Fire,Watercraft in Distress,B04,51
+Alarm,Smoke Investigation (Outside),B04,03
+Fire,Vehicle Fire,B10,44
+Fire,Vehicle Fire,B10,42
+Fire,Explosion,B06,26
+Alarm,Electrical Hazard,B02,29
+Alarm,Other,B03,38
+Non Life-threatening,Traffic Collision,B02,09
+Non Life-threatening,Medical Incident,B06,36
+Potentially Life-Threatening,Medical Incident,B10,36
+Fire,Marine Fire,B04,16
+Fire,Train / Rail Incident,B03,13
+Alarm,Fuel Spill,B02,09
+Alarm,Alarms,B08,22
+Non Life-threatening,Medical Incident,B01,19
+Alarm,Smoke Investigation (Outside),B09,26
+Alarm,HazMat,B05,10
+Alarm,Citizen Assist / Service Call,B09,33
+Potentially Life-Threatening,Other,B01,13
+Alarm,Elevator / Escalator Rescue,B06,06
+Non Life-threatening,Medical Incident,B06,26
+Potentially Life-Threatening,Medical Incident,B10,26
+Non Life-threatening,Medical Incident,B04,21
+Alarm,Gas Leak (Natural and LP Gases),B01,01
+Non Life-threatening,Medical Incident,B01,16
+Alarm,HazMat,B06,07
+Non Life-threatening,Medical Incident,B03,01
+Non Life-threatening,Other,B02,36
+Non Life-threatening,Medical Incident,B04,31
+Alarm,Assist Police,B08,23
+Potentially Life-Threatening,Water Rescue,B03,48
+Non Life-threatening,Traffic Collision,B09,35
+Potentially Life-Threatening,Traffic Collision,B10,21
+Non Life-threatening,Traffic Collision,B06,21
+Fire,Vehicle Fire,B01,16
+Fire,Explosion,B08,39
+Fire,Vehicle Fire,B03,01
+Alarm,HazMat,B03,37
+Potentially Life-Threatening,Medical Incident,B03,48
+Fire,Marine Fire,B03,04
+Alarm,Other,B10,25
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B02,05
+Alarm,Assist Police,B99,03
+Non Life-threatening,Other,B05,05
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B10,17
+Alarm,Elevator / Escalator Rescue,B01,02
+Fire,HazMat,B04,38
+Potentially Life-Threatening,Traffic Collision,B05,06
+Fire,Structure Fire,B08,23
+Potentially Life-Threatening,Medical Incident,B05,17
+Alarm,HazMat,B05,24
+Fire,Vehicle Fire,B06,26
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B03,35
+Alarm,Alarms,B08,51
+Alarm,Other,B07,12
+Alarm,Outside Fire,B10,37
+Alarm,Fuel Spill,B02,06
+Potentially Life-Threatening,Other,B05,12
+Non Life-threatening,Medical Incident,B10,44
+Non Life-threatening,Other,B04,51
+Alarm,Assist Police,B09,33
+Potentially Life-Threatening,Other,B02,05
+Non Life-threatening,Traffic Collision,B02,06
+Potentially Life-Threatening,Medical Incident,B06,42
+Non Life-threatening,Medical Incident,B10,42
+Alarm,Alarms,B03,07
+Fire,High Angle Rescue,B02,29
+Non Life-threatening,Medical Incident,B02,17
+Fire,Outside Fire,B06,32
+Alarm,HazMat,B07,22
+Alarm,Elevator / Escalator Rescue,B03,08
+Non Life-threatening,Other,B03,13
+Alarm,Fuel Spill,B04,36
+Alarm,Other,B03,28
+Non Life-threatening,Other,B01,03
+Potentially Life-Threatening,Medical Incident,B01,01
+Potentially Life-Threatening,Medical Incident,B03,16
+Alarm,Medical Incident,B08,40
+Fire,Train / Rail Incident,B02,36
+Alarm,Citizen Assist / Service Call,B08,23
+Potentially Life-Threatening,Medical Incident,B10,12
+Potentially Life-Threatening,Other,B03,35
+Fire,Confined Space / Structure Collapse,B04,10
+Non Life-threatening,Medical Incident,B08,39
+Fire,Outside Fire,B06,24
+Non Life-threatening,Medical Incident,B10,05
+Alarm,Citizen Assist / Service Call,B10,39
+Alarm,Odor (Strange / Unknown),B09,32
+Fire,Aircraft Emergency,B09,44
+Alarm,Structure Fire,B08,29
+Alarm,Electrical Hazard,B02,03
+Non Life-threatening,Medical Incident,B06,20
+Potentially Life-Threatening,Other,B10,17
+Alarm,Elevator / Escalator Rescue,B04,03
+Fire,Explosion,B02,03
+Alarm,Structure Fire,B09,32
+Fire,High Angle Rescue,B03,01
+Fire,Industrial Accidents,B01,01
+Potentially Life-Threatening,Medical Incident,B05,03
+Non Life-threatening,Traffic Collision,B04,16
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B02,01
+Potentially Life-Threatening,Medical Incident,B05,11
+Alarm,Other,B09,33
+Alarm,Elevator / Escalator Rescue,B04,11
+Fire,Vehicle Fire,B03,44
+Alarm,Medical Incident,B08,18
+Alarm,Electrical Hazard,B10,44
+Non Life-threatening,Medical Incident,B02,11
+Fire,Odor (Strange / Unknown),B08,23
+Alarm,Electrical Hazard,B10,42
+Alarm,Outside Fire,B06,07
+Alarm,Other,B99,11
+Potentially Life-Threatening,Traffic Collision,B02,08
+Potentially Life-Threatening,Medical Incident,B01,42
+Fire,Vehicle Fire,B02,29
+Potentially Life-Threatening,Medical Incident,B03,36
+Fire,Water Rescue,B08,19
+Potentially Life-Threatening,Medical Incident,B01,05
+Fire,Outside Fire,B04,28
+Alarm,Fuel Spill,B04,16
+Alarm,Electrical Hazard,B08,39
+Alarm,Other,B02,94
+Alarm,Smoke Investigation (Outside),B06,06
+Fire,Industrial Accidents,B03,48
+Non Life-threatening,Other,B06,11
+Potentially Life-Threatening,Medical Incident,B06,01
+Non Life-threatening,Medical Incident,B10,01
+Alarm,Other,B99,03
+Alarm,Assist Police,B10,25
+Alarm,Electrical Hazard,B06,20
+Non Life-threatening,Medical Incident,B02,03
+Fire,Water Rescue,B07,23
+Potentially Life-Threatening,Medical Incident,B10,07
+Non Life-threatening,Medical Incident,B06,07
+Alarm,HazMat,B03,01
+Fire,Vehicle Fire,B03,37
+Fire,HazMat,B02,01
+Alarm,Assist Police,B09,26
+Alarm,Elevator / Escalator Rescue,B10,25
+Alarm,Other,B01,02
+Fire,HazMat,B04,41
+Alarm,Structure Fire,B04,05
+Alarm,Structure Fire,B07,10
+Potentially Life-Threatening,Medical Incident,B09,39
+Fire,Vehicle Fire,B05,24
+Alarm,Other,B06,09
+Fire,Outside Fire,B03,03
+Alarm,Citizen Assist / Service Call,B01,06
+Non Life-threatening,Other,B02,07
+Alarm,HazMat,B06,26
+Non Life-threatening,Other,B99,51
+Fire,Outside Fire,B01,13
+Alarm,Other,B09,48
+Alarm,Outside Fire,B02,03
+Alarm,Smoke Investigation (Outside),B08,23
+Non Life-threatening,Medical Incident,B05,10
+Fire,Vehicle Fire,B07,22
+Potentially Life-Threatening,Medical Incident,B07,34
+Fire,Explosion,B05,10
+Non Life-threatening,Traffic Collision,B99,36
+Alarm,Other,B03,08
+Non Life-threatening,Medical Incident,B07,51
+Alarm,Other,B07,07
+Potentially Life-Threatening,Medical Incident,B02,10
+Alarm,Assist Police,B04,03
+Fire,Vehicle Fire,B99,31
+Fire,Explosion,B06,07
+Fire,Confined Space / Structure Collapse,B10,09
+Alarm,Other,B09,19
+Alarm,Electrical Hazard,B10,37
+Fire,Confined Space / Structure Collapse,B01,41
+Alarm,Outside Fire,B10,42
+Alarm,Electrical Hazard,B06,07
+Fire,HazMat,B02,05
+Alarm,Medical Incident,B09,43
+Alarm,Other,B04,03
+Non Life-threatening,Medical Incident,B01,07
+Potentially Life-Threatening,Medical Incident,B08,22
+Alarm,Assist Police,B09,19
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B02,37
+Fire,Explosion,B10,37
+Alarm,Structure Fire,B04,01
+Alarm,Fuel Spill,B10,47
+Fire,Other,B05,06
+Alarm,Citizen Assist / Service Call,B06,06
+Alarm,Elevator / Escalator Rescue,B09,33
+Fire,HazMat,B03,35
+Fire,High Angle Rescue,B99,14
+Alarm,Outside Fire,B08,39
+Alarm,Other,B04,11
+Alarm,Fuel Spill,B09,15
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B04,38
+Fire,HazMat,B10,17
+Alarm,Other,B06,02
+Alarm,Other,B01,09
+Potentially Life-Threatening,Medical Incident,B08,06
+Alarm,Electrical Hazard,B05,10
+Alarm,Assist Police,B03,08
+Alarm,Assist Police,B01,02
+Alarm,Odor (Strange / Unknown),B07,10
+Non Life-threatening,Traffic Collision,B09,15
+Alarm,Odor (Strange / Unknown),B04,05
+Potentially Life-Threatening,Traffic Collision,B02,28
+Fire,HazMat,B03,29
+Alarm,HazMat,B02,29
+Non Life-threatening,Traffic Collision,B10,47
+Alarm,Citizen Assist / Service Call,B02,21
+Fire,Outside Fire,B10,29
+Fire,Structure Fire,B06,06
+Non Life-threatening,Traffic Collision,B99,16
+Potentially Life-Threatening,Other,B04,38
+Alarm,Medical Incident,B03,04
+Alarm,Other,B09,26
+Fire,HazMat,B05,12
+Potentially Life-Threatening,Medical Incident,B06,37
+Non Life-threatening,Medical Incident,B10,37
+Fire,Water Rescue,B10,09
+Non Life-threatening,Traffic Collision,B07,29
+Alarm,Electrical Hazard,B99,31
+Alarm,Citizen Assist / Service Call,B09,19
+Alarm,Electrical Hazard,B06,33
+Fire,Outside Fire,B04,41
+Non Life-threatening,Traffic Collision,B08,18
+Alarm,Smoke Investigation (Outside),B07,12
+Alarm,Gas Leak (Natural and LP Gases),B08,22
+Fire,Vehicle Fire,B10,37
+Fire,Structure Fire,B01,02
+Alarm,HazMat,B02,03
+Alarm,Outside Fire,B06,26
+Alarm,Elevator / Escalator Rescue,B08,23
+Fire,HazMat,B01,13
+Potentially Life-Threatening,Medical Incident,B03,07
+Alarm,Alarms,B06,42
+Potentially Life-Threatening,Medical Incident,B07,08
+Fire,Structure Fire,B06,09
+Fire,Outside Fire,B02,01
+Potentially Life-Threatening,Traffic Collision,B09,32
+Alarm,Electrical Hazard,B07,22
+Alarm,Citizen Assist / Service Call,B03,08
+Alarm,Citizen Assist / Service Call,B07,07
+Alarm,Outside Fire,B03,01
+Non Life-threatening,Traffic Collision,B07,03
+Alarm,Alarms,B01,01
+Alarm,Medical Incident,B04,16
+Alarm,Smoke Investigation (Outside),B10,25
+Alarm,Electrical Hazard,B05,24
+Fire,Structure Fire,B09,19
+Potentially Life-Threatening,Medical Incident,B08,09
+Alarm,Electrical Hazard,B99,14
+Alarm,Citizen Assist / Service Call,B01,02
+Alarm,Alarms,B03,48
+Alarm,Citizen Assist / Service Call,B06,09
+Potentially Life-Threatening,Traffic Collision,B99,01
+Non Life-threatening,Medical Incident,B08,34
+Alarm,Electrical Hazard,B03,37
+Alarm,Fuel Spill,B08,18
+Fire,Structure Fire,B03,08
+Alarm,Odor (Strange / Unknown),B05,06
+Alarm,Smoke Investigation (Outside),B09,33
+Alarm,Alarms,B03,36
+Non Life-threatening,Medical Incident,B99,31
+Alarm,Citizen Assist / Service Call,B09,26
+Alarm,HazMat,B08,39
+Fire,Odor (Strange / Unknown),B03,08
+Alarm,Gas Leak (Natural and LP Gases),B10,07
+Non Life-threatening,Medical Incident,B07,06
+Fire,Outside Fire,B03,35
+Alarm,Structure Fire,B05,06
+Alarm,Other,B02,21
+Non Life-threatening,Medical Incident,B99,21
+Potentially Life-Threatening,Other,B06,24
+Potentially Life-Threatening,Medical Incident,B02,32
+Fire,Outside Fire,B10,17
+Fire,Outside Fire,B02,05
+Non Life-threatening,Medical Incident,B07,22
+Potentially Life-Threatening,Water Rescue,B07,34
+Fire,Explosion,B05,24
+Alarm,Gas Leak (Natural and LP Gases),B09,39
+Alarm,HazMat,B10,44
+Non Life-threatening,Other,B10,32
+Potentially Life-Threatening,Other,B06,32
+Alarm,HazMat,B10,42
+Alarm,Alarms,B07,38
+Fire,Train / Rail Incident,B02,07
+Alarm,Fuel Spill,B08,40
+Fire,Structure Fire,B04,03
+Non Life-threatening,Other,B07,14
+Fire,Water Rescue,B09,44
+Non Life-threatening,Medical Incident,B05,24
+Fire,Structure Fire,B09,26
+Potentially Life-Threatening,Medical Incident,B99,04
+Fire,Outside Fire,B05,20
+Fire,Outside Fire,B99,25
+Non Life-threatening,Traffic Collision,B08,40
+Non Life-threatening,Medical Incident,B99,14
+Fire,Watercraft in Distress,B99,51
+Alarm,Gas Leak (Natural and LP Gases),B07,34
+Fire,Vehicle Fire,B05,10
+Alarm,Other,B06,06
+Fire,Outside Fire,B05,12
+Alarm,Medical Incident,B02,06
+Non Life-threatening,Medical Incident,B03,37
+Alarm,Other,B04,43
+Non Life-threatening,Traffic Collision,B99,20
+Non Life-threatening,Other,B07,31
+Fire,Vehicle Fire,B06,07
+Alarm,Outside Fire,B02,29
+Fire,Odor (Strange / Unknown),B06,09
+Alarm,Structure Fire,B10,14
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B06,32
+Non Life-threatening,Other,B07,21
+Fire,Odor (Strange / Unknown),B01,02
+Non Life-threatening,Traffic Collision,B99,12
+Alarm,Citizen Assist / Service Call,B04,03
+Fire,Outside Fire,B03,29
+Non Life-threatening,Medical Incident,B08,18
+Potentially Life-Threatening,Traffic Collision,B03,07
+Potentially Life-Threatening,Medical Incident,B09,24
+Alarm,Assist Police,B01,03
+Potentially Life-Threatening,Medical Incident,B04,37
+Fire,Water Rescue,B03,35
+Non Life-threatening,Other,B09,33
+Potentially Life-Threatening,Structure Fire,B08,18
+Fire,Water Rescue,B10,17
+Potentially Life-Threatening,Traffic Collision,B09,25
+Non Life-threatening,Medical Incident,B07,03
+Alarm,Smoke Investigation (Outside),B07,14
+Alarm,Odor (Strange / Unknown),B01,01
+Potentially Life-Threatening,Medical Incident,B02,38
+Fire,Confined Space / Structure Collapse,B02,01
+Fire,Vehicle Fire,B09,15
+Alarm,Citizen Assist / Service Call,B02,36
+Potentially Life-Threatening,Medical Incident,B09,32
+Fire,Outside Fire,B09,42
+Fire,Outside Fire,B09,44
+Alarm,Smoke Investigation (Outside),B10,32
+Fire,HazMat,B01,41
+Alarm,Odor (Strange / Unknown),B03,48
+Alarm,Other,B06,11
+Alarm,Medical Incident,B02,03
+Non Life-threatening,Medical Incident,B05,38
+Fire,Watercraft in Distress,B08,23
+Alarm,Electrical Hazard,B08,40
+Alarm,HazMat,B04,16
+Alarm,Alarms,B05,06
+Fire,Explosion,B08,18
+Alarm,Smoke Investigation (Outside),B07,21
+Fire,Structure Fire,B02,36
+Potentially Life-Threatening,Medical Incident,B99,01
+Alarm,Assist Police,B05,05
+Non Life-threatening,Traffic Collision,B08,34
+Alarm,Smoke Investigation (Outside),B07,31
+Alarm,Structure Fire,B03,36
+Fire,Water Rescue,B03,29
+Alarm,Elevator / Escalator Rescue,B02,07
+Non Life-threatening,Traffic Collision,B99,21
+Potentially Life-Threatening,Other,B08,19
+Alarm,Electrical Hazard,B08,18
+Alarm,Elevator / Escalator Rescue,B99,51
+Non Life-threatening,Other,B07,12
+Alarm,Fuel Spill,B03,37
+Alarm,Other,B05,05
+Alarm,Odor (Strange / Unknown),B03,36
+Non Life-threatening,Traffic Collision,B99,31
+Non Life-threatening,Traffic Collision,B06,33
+Potentially Life-Threatening,Medical Incident,B02,25
+Fire,Confined Space / Structure Collapse,B03,35
+Alarm,Outside Fire,B03,04
+Alarm,Assist Police,B06,11
+Fire,Outside Fire,B05,21
+Non Life-threatening,Other,B10,25
+Alarm,Fuel Spill,B05,24
+Alarm,Structure Fire,B03,48
+Fire,Explosion,B08,40
+Non Life-threatening,Traffic Collision,B07,22
+Alarm,HazMat,B02,06
+Alarm,Fuel Spill,B99,14
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B04,10
+Potentially Life-Threatening,Medical Incident,B99,44
+Alarm,Structure Fire,B01,01
+Potentially Life-Threatening,Medical Incident,B99,42
+Non Life-threatening,Traffic Collision,B99,14
+Alarm,Citizen Assist / Service Call,B06,29
+Alarm,Fuel Spill,B07,22
+Potentially Life-Threatening,Traffic Collision,B99,04
+Non Life-threatening,Traffic Collision,B05,24
+Non Life-threatening,Medical Incident,B08,40
+Fire,Confined Space / Structure Collapse,B05,20
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B08,19
+Alarm,Medical Incident,B08,39
+Potentially Life-Threatening,Medical Incident,B08,29
+Alarm,Other,B03,13
+Non Life-threatening,Medical Incident,B99,12
+Alarm,Other,B02,12
+Alarm,Other,B01,03
+Alarm,Fuel Spill,B99,31
+Non Life-threatening,Medical Incident,B04,07
+Alarm,Other,B04,51
+Alarm,Medical Incident,B10,44
+Potentially Life-Threatening,Medical Incident,B99,23
+Alarm,Medical Incident,B10,42
+Non Life-threatening,Traffic Collision,B03,37
+Potentially Life-Threatening,Medical Incident,B99,05
+Alarm,Outside Fire,B09,43
+Non Life-threatening,Medical Incident,B99,20
+Fire,Outside Fire,B99,10
+Alarm,Elevator / Escalator Rescue,B07,14
+Alarm,Other,B04,22
+Non Life-threatening,Traffic Collision,B06,07
+Potentially Life-Threatening,Traffic Collision,B10,07
+Alarm,Other,B04,06
+Fire,Confined Space / Structure Collapse,B03,03
+Fire,Confined Space / Structure Collapse,B01,13
+Non Life-threatening,Traffic Collision,B05,10
+Potentially Life-Threatening,Medical Incident,B07,18
+Fire,Vehicle Fire,B08,40
+Alarm,Citizen Assist / Service Call,B06,11
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B01,28
+Potentially Life-Threatening,Traffic Collision,B09,39
+Potentially Life-Threatening,Traffic Collision,B07,34
+Non Life-threatening,Medical Incident,B99,36
+Alarm,Alarms,B03,31
+Alarm,Other,B02,36
+Alarm,Medical Incident,B04,31
+Alarm,Outside Fire,B04,16
+Alarm,Elevator / Escalator Rescue,B07,21
+Fire,Water Rescue,B05,16
+Fire,Watercraft in Distress,B10,25
+Alarm,Fuel Spill,B05,10
+Alarm,Elevator / Escalator Rescue,B99,06
+Non Life-threatening,Medical Incident,B99,26
+Alarm,Medical Incident,B03,01
+Alarm,Electrical Hazard,B09,15
+Alarm,Elevator / Escalator Rescue,B07,31
+Alarm,Citizen Assist / Service Call,B05,01
+Potentially Life-Threatening,Other,B01,28
+Alarm,Medical Incident,B06,26
+Fire,Outside Fire,B01,41
+Alarm,Fuel Spill,B06,07
+Fire,Structure Fire,B06,11
+Fire,Outside Fire,B10,09
+Non Life-threatening,Medical Incident,B04,33
+Alarm,Citizen Assist / Service Call,B04,51
+Alarm,Medical Incident,B02,29
+Alarm,Outside Fire,B10,04
+Potentially Life-Threatening,Traffic Collision,B08,22
+Non Life-threatening,Other,B99,29
+Fire,HazMat,B05,21
+Fire,Train / Rail Incident,B09,33
+Alarm,Outside Fire,B02,06
+Alarm,Fuel Spill,B10,37
+Non Life-threatening,Medical Incident,B99,48
+Alarm,Citizen Assist / Service Call,B03,13
+Fire,Odor (Strange / Unknown),B06,11
+Fire,Other,B03,48
+Alarm,Citizen Assist / Service Call,B01,03
+Alarm,Assist Police,B02,36
+Fire,Structure Fire,B05,05
+Alarm,Smoke Investigation (Outside),B99,51
+Potentially Life-Threatening,Other,B08,20
+Alarm,Smoke Investigation (Outside),B02,07
+Non Life-threatening,Other,B08,23
+Potentially Life-Threatening,Medical Incident,B07,13
+Fire,Outside Fire,B08,33
+Alarm,HazMat,B03,04
+Fire,Water Rescue,B01,13
+Alarm,Gas Leak (Natural and LP Gases),B09,32
+Fire,Explosion,B09,15
+Non Life-threatening,Medical Incident,B10,47
+Alarm,HazMat,B09,43
+Non Life-threatening,Medical Incident,B99,19
+Fire,Structure Fire,B03,13
+Alarm,Alarms,B04,05
+Fire,Suspicious Package,B06,11
+Alarm,Alarms,B07,10
+Non Life-threatening,Medical Incident,B09,15
+Fire,Structure Fire,B01,03
+Alarm,Other,B02,19
+Non Life-threatening,Medical Incident,B05,39
+Alarm,Citizen Assist / Service Call,B05,05
+Non Life-threatening,Medical Incident,B07,29
+Fire,Vehicle Fire,B08,18
+Non Life-threatening,Traffic Collision,B10,37
+Potentially Life-Threatening,Medical Incident,B07,40
+Potentially Life-Threatening,Medical Incident,B09,10
+Alarm,Other,B02,16
+Non Life-threatening,Medical Incident,B99,16
+Fire,Outside Fire,B02,03
+Alarm,Alarms,B04,51
+Alarm,Outside Fire,B01,13
+Non Life-threatening,Traffic Collision,B08,26
+Alarm,Electrical Hazard,B06,24
+Alarm,Outside Fire,B03,03
+Fire,Vehicle Fire,B04,38
+Non Life-threatening,Medical Incident,B04,28
+Alarm,Medical Incident,B04,13
+Alarm,Alarms,B01,03
+Fire,Structure Fire,B07,10
+Alarm,HazMat,B04,41
+Fire,Structure Fire,B04,05
+Potentially Life-Threatening,Traffic Collision,B09,33
+Alarm,Alarms,B03,13
+Fire,Marine Fire,B01,28
+Alarm,HazMat,B02,01
+Alarm,Odor (Strange / Unknown),B06,06
+Alarm,Electrical Hazard,B06,32
+Fire,Vehicle Fire,B02,37
+Fire,HazMat,B03,01
+Potentially Life-Threatening,Traffic Collision,B99,03
+Alarm,Citizen Assist / Service Call,B07,10
+Fire,Industrial Accidents,B07,14
+Alarm,Citizen Assist / Service Call,B04,05
+Fire,Confined Space / Structure Collapse,B04,16
+Fire,Other,B03,08
+Alarm,Alarms,B05,05
+Alarm,Other,B02,08
+Non Life-threatening,Medical Incident,B99,08
+Potentially Life-Threatening,Medical Incident,B03,10
+Alarm,Medical Incident,B09,44
+Alarm,Medical Incident,B09,42
+Alarm,Assist Police,B05,06
+Potentially Life-Threatening,Traffic Collision,B99,11
+Alarm,Other,B01,04
+Fire,Vehicle Fire,B08,14
+Fire,Outside Fire,B06,20
+Non Life-threatening,Medical Incident,B06,24
+Non Life-threatening,Traffic Collision,B08,19
+Alarm,HazMat,B10,17
+Potentially Life-Threatening,Traffic Collision,B07,12
+Fire,Outside Fire,B08,39
+Non Life-threatening,Traffic Collision,B07,23
+Non Life-threatening,Traffic Collision,B04,10
+Alarm,HazMat,B03,35
+Alarm,Electrical Hazard,B04,28
+Alarm,Other,B05,06
+Alarm,Structure Fire,B02,21
+Potentially Life-Threatening,Medical Incident,B07,14
+Non Life-threatening,Traffic Collision,B06,25
+Potentially Life-Threatening,Traffic Collision,B10,25
+Alarm,Gas Leak (Natural and LP Gases),B99,51
+Fire,Watercraft in Distress,B07,34
+Alarm,Gas Leak (Natural and LP Gases),B02,07
+Fire,Other,B04,03
+Alarm,Alarms,B06,11
+Potentially Life-Threatening,Medical Incident,B10,32
+Alarm,HazMat,B02,05
+Non Life-threatening,Medical Incident,B06,32
+Fire,Outside Fire,B10,42
+Fire,Outside Fire,B10,44
+Alarm,Smoke Investigation (Outside),B09,32
+Fire,Confined Space / Structure Collapse,B02,06
+Alarm,Citizen Assist / Service Call,B03,31
+Alarm,HazMat,B05,12
+Potentially Life-Threatening,Medical Incident,B99,22
+Potentially Life-Threatening,Water Rescue,B99,51
+Alarm,Structure Fire,B06,06
+Fire,Explosion,B06,32
+Potentially Life-Threatening,Other,B05,24
+Potentially Life-Threatening,Traffic Collision,B03,28
+Fire,Explosion,B06,24
+Alarm,Alarms,B05,01
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B07,22
+Potentially Life-Threatening,Medical Incident,B07,21
+Alarm,HazMat,B03,29
+Alarm,Medical Incident,B05,21
+Alarm,Fuel Spill,B04,10
+Potentially Life-Threatening,Medical Incident,B07,31
+Alarm,Fuel Spill,B08,19
+Fire,Water Rescue,B04,16
+Fire,Odor (Strange / Unknown),B07,10
+Potentially Life-Threatening,Medical Incident,B99,06
+Fire,Mutual Aid / Assist Outside Agency,B08,40
+Alarm,Aircraft Emergency,B01,28
+Potentially Life-Threatening,Medical Incident,B99,09
+Fire,Suspicious Package,B05,06
+Fire,Outside Fire,B03,01
+Alarm,Odor (Strange / Unknown),B09,26
+Alarm,Fuel Spill,B01,28
+Fire,Outside Fire,B01,16
+Non Life-threatening,Other,B10,07
+Potentially Life-Threatening,Other,B06,07
+Alarm,Outside Fire,B02,01
+Alarm,Structure Fire,B06,09
+Alarm,Gas Leak (Natural and LP Gases),B07,14
+Alarm,HazMat,B01,13
+Fire,Water Rescue,B03,04
+Fire,Outside Fire,B06,26
+Alarm,Medical Incident,B01,41
+Non Life-threatening,Medical Incident,B99,34
+Fire,HazMat,B02,03
+Alarm,Other,B07,10
+Potentially Life-Threatening,Medical Incident,B99,51
+Potentially Life-Threatening,Medical Incident,B02,07
+Alarm,Other,B04,05
+Alarm,Structure Fire,B01,02
+Alarm,Medical Incident,B10,09
+Alarm,Other,B09,40
+Non Life-threatening,Other,B09,39
+Alarm,Gas Leak (Natural and LP Gases),B10,32
+Alarm,Outside Fire,B04,41
+Fire,Water Rescue,B09,43
+Fire,Odor (Strange / Unknown),B05,06
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B06,07
+Non Life-threatening,Other,B07,34
+Non Life-threatening,Medical Incident,B05,07
+Alarm,Electrical Hazard,B02,37
+Alarm,Structure Fire,B03,08
+Fire,Structure Fire,B02,08
+Potentially Life-Threatening,Medical Incident,B06,15
+Non Life-threatening,Medical Incident,B10,15
+Fire,Vehicle Fire,B06,32
+Fire,Vehicle Fire,B06,24
+Fire,High Angle Rescue,B04,28
+Alarm,Gas Leak (Natural and LP Gases),B07,21
+Non Life-threatening,Traffic Collision,B01,28
+Alarm,Elevator / Escalator Rescue,B99,44
+Alarm,Odor (Strange / Unknown),B04,03
+Alarm,Gas Leak (Natural and LP Gases),B07,31
+Alarm,Electrical Hazard,B04,38
+Potentially Life-Threatening,Medical Incident,B10,10
+Alarm,Structure Fire,B09,19
+Non Life-threatening,Medical Incident,B99,41
+Alarm,Structure Fire,B04,03
+Non Life-threatening,Traffic Collision,B99,40
+Potentially Life-Threatening,Traffic Collision,B99,29
+Non Life-threatening,Other,B08,22
+Alarm,Citizen Assist / Service Call,B10,14
+Alarm,Odor (Strange / Unknown),B09,19
+Alarm,Elevator / Escalator Rescue,B09,32
+Fire,Explosion,B04,38
+Potentially Life-Threatening,Medical Incident,B99,02
+Alarm,Outside Fire,B02,05
+Alarm,Other,B03,21
+Alarm,Outside Fire,B10,17
+Potentially Life-Threatening,Traffic Collision,B08,23
+Alarm,Other,B04,01
+Non Life-threatening,Traffic Collision,B08,20
+Potentially Life-Threatening,Medical Incident,B03,32
+Fire,Structure Fire,B05,06
+Fire,Confined Space / Structure Collapse,B03,04
+Potentially Life-Threatening,Medical Incident,B05,37
+Alarm,Outside Fire,B03,35
+Alarm,Alarms,B02,36
+Alarm,Other,B03,31
+Non Life-threatening,Traffic Collision,B08,12
+Potentially Life-Threatening,Traffic Collision,B03,25
+Fire,HazMat,B08,39
+Alarm,Odor (Strange / Unknown),B03,08
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B10,37
+Alarm,Outside Fire,B03,29
+Alarm,Odor (Strange / Unknown),B01,02
+Alarm,Citizen Assist / Service Call,B05,22
+Non Life-threatening,Medical Incident,B08,31
+Alarm,Assist Police,B04,05
+Non Life-threatening,Traffic Collision,B99,13
+Potentially Life-Threatening,Medical Incident,B01,15
+Fire,Outside Fire,B02,29
+Alarm,Odor (Strange / Unknown),B06,09
+Alarm,Assist Police,B07,10
+Non Life-threatening,Medical Incident,B02,37
+Alarm,Fuel Spill,B08,20
+Non Life-threatening,Medical Incident,B01,10
+Alarm,Outside Fire,B05,12
+Alarm,Alarms,B06,43
+Potentially Life-Threatening,Other,B10,37
+Alarm,Citizen Assist / Service Call,B05,06
+Non Life-threatening,Medical Incident,B04,38
+Alarm,Oil Spill,B03,48
+Fire,Vehicle Fire,B04,28
+Alarm,Structure Fire,B09,26
+Alarm,Alarms,B04,22
+Alarm,Medical Incident,B08,33
+Fire,Outside Fire,B09,09
+Fire,Confined Space / Structure Collapse,B03,01
+Alarm,Alarms,B09,26
+Alarm,Structure Fire,B04,22
+Alarm,Outside Fire,B09,44
+Alarm,Citizen Assist / Service Call,B03,36
+Fire,Explosion,B01,28
+Alarm,Gas Leak (Natural and LP Gases),B07,12
+Alarm,Smoke Investigation (Outside),B08,22
+Fire,Mutual Aid / Assist Outside Agency,B06,07
+Potentially Life-Threatening,Medical Incident,B07,26
+Alarm,Structure Fire,B01,29
+Alarm,Electrical Hazard,B08,12
+Potentially Life-Threatening,Medical Incident,B07,36
+Fire,Confined Space / Structure Collapse,B06,26
+Alarm,Gas Leak (Natural and LP Gases),B10,25
+Alarm,Electrical Hazard,B08,20
+Potentially Life-Threatening,Traffic Collision,B02,07
+Potentially Life-Threatening,Traffic Collision,B99,51
+Potentially Life-Threatening,Medical Incident,B99,43
+Alarm,Citizen Assist / Service Call,B05,03
+Non Life-threatening,Medical Incident,B99,18
+Alarm,Other,B02,18
+Potentially Life-Threatening,Water Rescue,B10,25
+Fire,Structure Fire,B03,36
+Potentially Life-Threatening,Traffic Collision,B06,15
+Alarm,Structure Fire,B02,36
+Fire,Industrial Accidents,B08,23
+Fire,Outside Fire,B02,09
+Fire,HazMat,B04,16
+Alarm,Structure Fire,B01,35
+Alarm,Alarms,B01,51
+Fire,Vehicle Fire,B04,10
+Alarm,HazMat,B10,09
+Alarm,Other,B10,36
+Alarm,Gas Leak (Natural and LP Gases),B03,28
+Fire,Vehicle Fire,B08,19
+Non Life-threatening,Medical Incident,B01,28
+Alarm,Medical Incident,B01,13
+Fire,Other,B06,11
+Alarm,Alarms,B04,03
+Alarm,HazMat,B01,41
+Alarm,Medical Incident,B03,03
+Alarm,Alarms,B09,19
+Potentially Life-Threatening,Medical Incident,B09,07
+Fire,HazMat,B02,06
+Alarm,Gas Leak (Natural and LP Gases),B09,33
+Alarm,Smoke Investigation (Outside),B10,07
+Fire,Structure Fire,B03,48
+Fire,Water Rescue,B01,16
+Non Life-threatening,Traffic Collision,B99,41
+Potentially Life-Threatening,Medical Incident,B99,29
+Alarm,Fuel Spill,B04,38
+Non Life-threatening,Medical Incident,B99,40
+Alarm,Outside Fire,B05,21
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B09,15
+Alarm,Smoke Investigation (Outside),B09,39
+Fire,Outside Fire,B03,04
+Fire,Water Rescue,B06,26
+Alarm,Odor (Strange / Unknown),B02,36
+Non Life-threatening,Medical Incident,B06,39
+Fire,Other,B05,05
+Non Life-threatening,Medical Incident,B08,12
+Alarm,Alarms,B03,08
+Potentially Life-Threatening,Medical Incident,B03,25
+Potentially Life-Threatening,Medical Incident,B08,23
+Non Life-threatening,Medical Incident,B08,20
+Alarm,Citizen Assist / Service Call,B01,01
+Potentially Life-Threatening,Other,B09,15
+Fire,Outside Fire,B09,43
+Non Life-threatening,Traffic Collision,B02,37
+Alarm,Citizen Assist / Service Call,B03,48
+Alarm,Alarms,B01,02
+Alarm,Alarms,B06,09
+Alarm,Smoke Investigation (Outside),B07,34
+Non Life-threatening,Medical Incident,B99,13
+Alarm,Other,B03,12
+Non Life-threatening,Traffic Collision,B04,38
+Fire,High Angle Rescue,B08,19
+Alarm,Smoke Investigation (Outside),B09,28
+Potentially Life-Threatening,Medical Incident,B99,35
+Non Life-threatening,Medical Incident,B06,28
+Fire,Suspicious Package,B03,36
+Alarm,Electrical Hazard,B01,28
+Fire,Structure Fire,B01,01
+Fire,High Angle Rescue,B01,28
+Alarm,Electrical Hazard,B04,10
+Non Life-threatening,Medical Incident,B08,36
+Non Life-threatening,Medical Incident,B07,01
+Potentially Life-Threatening,Medical Incident,B09,33
+Alarm,Odor (Strange / Unknown),B03,13
+Non Life-threatening,Medical Incident,3E,E2
+Non Life-threatening,Traffic Collision,B04,28
+Alarm,Odor (Strange / Unknown),B01,03
+Potentially Life-Threatening,Other,B08,18
+Alarm,Electrical Hazard,B08,19
+Alarm,Alarms,B06,06
+Alarm,HazMat,B09,44
+Alarm,Assist Police,B01,01
+Non Life-threatening,Other,B09,32
+Alarm,Gas Leak (Natural and LP Gases),B08,23
+Fire,Water Rescue,B10,42
+Fire,Water Rescue,B10,44
+Alarm,Elevator / Escalator Rescue,B08,22
+Alarm,Outside Fire,B10,09
+Fire,Vehicle Fire,B06,39
+Fire,Vehicle Fire,B08,12
+Alarm,Assist Police,B03,48
+Alarm,Medical Incident,B04,41
+Alarm,Structure Fire,B06,11
+Fire,Industrial Accidents,B10,25
+Alarm,Other,B01,05
+Fire,Vehicle Fire,B08,20
+Potentially Life-Threatening,Medical Incident,B99,03
+Alarm,Alarms,B02,21
+Potentially Life-Threatening,Medical Incident,B99,11
+Alarm,Medical Incident,B02,01
+Alarm,Odor (Strange / Unknown),B05,05
+Alarm,Fuel Spill,B04,28
+Alarm,Other,B03,36
+Fire,Outside Fire,B04,16
+Non Life-threatening,Traffic Collision,B99,08
+Alarm,Other,B01,44
+Non Life-threatening,Medical Incident,B07,23
+Fire,Confined Space / Structure Collapse,B08,39
+Non Life-threatening,Medical Incident,B04,10
+Potentially Life-Threatening,Medical Incident,B07,20
+Non Life-threatening,Medical Incident,B01,38
+Fire,Vehicle Fire,B01,28
+Alarm,Medical Incident,B05,12
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B08,40
+Potentially Life-Threatening,Medical Incident,B07,12
+Non Life-threatening,Traffic Collision,B06,24
+Potentially Life-Threatening,Traffic Collision,B10,24
+Non Life-threatening,Medical Incident,B08,19
+Alarm,Structure Fire,B05,05
+Non Life-threatening,Traffic Collision,B06,32
+Alarm,Other,B03,48
+Potentially Life-Threatening,Traffic Collision,B10,32
+Alarm,Odor (Strange / Unknown),B06,11
+Alarm,Elevator / Escalator Rescue,B10,07
+Fire,Outside Fire,B02,06
+Fire,Confined Space / Structure Collapse,B10,44
+Alarm,Medical Incident,B03,29
+Potentially Life-Threatening,Traffic Collision,B07,14
+Alarm,HazMat,B05,21
+Potentially Life-Threatening,Medical Incident,B10,25
+Fire,Outside Fire,B10,04
+Fire,High Angle Rescue,B08,20
+Alarm,Medical Incident,B03,35
+Potentially Life-Threatening,Other,B08,40
+Alarm,Other,B03,16
+Alarm,Other,B01,01
+Non Life-threatening,Medical Incident,B08,48
+Alarm,Medical Incident,B10,17
+Non Life-threatening,Other,B99,42
+Alarm,Fuel Spill,B06,32
+Alarm,Structure Fire,B01,03
+Potentially Life-Threatening,Traffic Collision,B07,31
+Alarm,Structure Fire,B03,13
+Alarm,Fuel Spill,B06,24
+Fire,Explosion,B04,10
+Potentially Life-Threatening,Traffic Collision,B99,06
+Alarm,Medical Incident,B02,05
+Potentially Life-Threatening,Traffic Collision,B07,21
+Fire,Explosion,B08,19
+Potentially Life-Threatening,Medical Incident,B03,28
+Alarm,Elevator / Escalator Rescue,B07,34
+Alarm,Structure Fire,B04,51
+Fire,Outside Fire,B99,16
+Alarm,Electrical Hazard,B10,09
+Non Life-threatening,Traffic Collision,B10,29
+Fire,HazMat,B08,40
+Non Life-threatening,Traffic Collision,B04,08
+Fire,Industrial Accidents,B03,08
+Alarm,Electrical Hazard,B01,41
+Fire,Confined Space / Structure Collapse,B10,37
+Alarm,Assist Police,B07,34
+Potentially Life-Threatening,Medical Incident,B04,11
+Potentially Life-Threatening,Medical Incident,B04,03
+Fire,Outside Fire,B09,15
+Potentially Life-Threatening,Other,B09,43
+Fire,Vehicle Fire,B09,44
+Fire,Marine Fire,B10,17
+Fire,Vehicle Fire,B09,42
+Fire,Outside Fire,B10,47
+Alarm,Fuel Spill,B01,18
+Fire,Marine Fire,B03,35
+Alarm,Other,B03,33
+Alarm,Other,B08,22
+Alarm,Outside Fire,B04,10
+Potentially Life-Threatening,Medical Incident,B09,36
+Alarm,Medical Incident,B04,38
+Alarm,HazMat,B08,12
+Fire,Marine Fire,B03,29
+Non Life-threatening,Medical Incident,B08,33
+Alarm,Assist Police,B10,07
+Alarm,HazMat,B08,20
+Alarm,Other,B06,37
+Potentially Life-Threatening,Medical Incident,B09,26
+Alarm,Outside Fire,B08,19
+Alarm,Odor (Strange / Unknown),B02,07
+Alarm,Medical Incident,B02,37
+Alarm,Odor (Strange / Unknown),B99,51
+Fire,Vehicle Fire,B03,09
+Alarm,Electrical Hazard,B99,10
+Fire,Industrial Accidents,B01,02
+Alarm,Elevator / Escalator Rescue,B03,36
+Fire,Other,B07,21
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B09,43
+Non Life-threatening,Medical Incident,B10,09
+Potentially Life-Threatening,Medical Incident,B06,09
+Alarm,Other,B09,39
+Alarm,Structure Fire,B99,51
+Potentially Life-Threatening,Medical Incident,B01,02
+Alarm,Structure Fire,B02,07
+Alarm,HazMat,B01,28
+Potentially Life-Threatening,Medical Incident,B04,17
+Non Life-threatening,Medical Incident,B01,41
+Potentially Life-Threatening,Traffic Collision,B01,29
+Non Life-threatening,Other,B07,10
+Fire,Vehicle Fire,B09,01
+Non Life-threatening,Other,B04,05
+Non Life-threatening,Traffic Collision,B05,36
+Alarm,Fuel Spill,B03,03
+Alarm,Elevator / Escalator Rescue,B03,48
+Alarm,Fuel Spill,B01,13
+Alarm,Other,B10,07
+Non Life-threatening,Medical Incident,B10,51
+Alarm,Alarms,B99,35
+Fire,Vehicle Fire,B05,21
+Alarm,Gas Leak (Natural and LP Gases),B02,21
+Alarm,Elevator / Escalator Rescue,B01,01
+Alarm,Electrical Hazard,B08,33
+Fire,HazMat,B08,18
+Alarm,Assist Police,B08,22
+Non Life-threatening,Traffic Collision,B03,03
+Potentially Life-Threatening,Medical Incident,B09,19
+Fire,Industrial Accidents,B04,03
+Potentially Life-Threatening,Medical Incident,B99,15
+Non Life-threatening,Traffic Collision,B01,13
+Fire,Train / Rail Fire,B09,15
+Fire,Explosion,B10,09
+Alarm,Alarms,B08,23
+Non Life-threatening,Medical Incident,B99,10
+Potentially Life-Threatening,Medical Incident,B07,07
+Potentially Life-Threatening,Medical Incident,B03,08
+Alarm,Gas Leak (Natural and LP Gases),B06,06
+Alarm,Other,B07,34
+Potentially Life-Threatening,Traffic Collision,B02,36
+Fire,Water Rescue,B04,94
+Fire,Explosion,B01,41
+Non Life-threatening,Medical Incident,B03,02
+Alarm,Structure Fire,B07,14
+Alarm,Gas Leak (Natural and LP Gases),B06,09
+Alarm,Medical Incident,B06,32
+Potentially Life-Threatening,Water Rescue,B03,08
+Non Life-threatening,Medical Incident,B99,24
+Non Life-threatening,Other,B10,21
+Fire,Structure Fire,B08,22
+Alarm,Gas Leak (Natural and LP Gases),B01,02
+Alarm,Fuel Spill,B10,17
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B02,06
+Alarm,Structure Fire,B10,32
+Non Life-threatening,Traffic Collision,B03,29
+Potentially Life-Threatening,Medical Incident,B03,41
+Fire,Vehicle Fire,B99,10
+Alarm,Fuel Spill,B03,35
+Fire,Water Rescue,B08,34
+Non Life-threatening,Traffic Collision,B05,20
+Non Life-threatening,Traffic Collision,B99,25
+Alarm,Citizen Assist / Service Call,B06,37
+Fire,Outside Fire,B08,40
+Potentially Life-Threatening,Traffic Collision,B05,05
+Potentially Life-Threatening,Medical Incident,B02,31
+Potentially Life-Threatening,Traffic Collision,B05,23
+Alarm,Citizen Assist / Service Call,B07,41
+Non Life-threatening,Other,B05,06
+Alarm,Fuel Spill,B02,05
+Non Life-threatening,Traffic Collision,B05,12
+Fire,Explosion,B05,21
+Non Life-threatening,Medical Incident,B99,32
+Alarm,Medical Incident,B06,24
+Potentially Life-Threatening,Medical Incident,B02,21
+Alarm,Electrical Hazard,B09,44
+Alarm,Structure Fire,B07,21
+Alarm,Electrical Hazard,B09,42
+Potentially Life-Threatening,Traffic Collision,B04,51
+Non Life-threatening,Medical Incident,B05,31
+Non Life-threatening,Traffic Collision,B02,05
+Potentially Life-Threatening,Other,B02,06
+Alarm,Fuel Spill,B05,12
+Alarm,Citizen Assist / Service Call,B08,22
+Alarm,Alarms,B09,33
+Alarm,Smoke Investigation (Outside),B03,36
+Alarm,Structure Fire,B07,31
+Potentially Life-Threatening,Traffic Collision,B03,13
+Potentially Life-Threatening,Traffic Collision,B01,03
+Potentially Life-Threatening,Traffic Collision,B02,12
+Alarm,Fuel Spill,B05,20
+Alarm,Gas Leak (Natural and LP Gases),B09,19
+Non Life-threatening,Medical Incident,B05,21
+Non Life-threatening,Traffic Collision,B03,35
+Fire,Vehicle Fire,B10,09
+Alarm,HazMat,B04,10
+Non Life-threatening,Medical Incident,B02,04
+Alarm,Fuel Spill,B03,29
+Alarm,Gas Leak (Natural and LP Gases),B03,08
+Alarm,HazMat,B08,19
+Non Life-threatening,Traffic Collision,B10,17
+Non Life-threatening,Traffic Collision,B02,42
+Potentially Life-Threatening,Medical Incident,B06,06
+Non Life-threatening,Medical Incident,B10,06
+Non Life-threatening,Medical Incident,B01,08
+Fire,Vehicle Fire,B01,41
+Alarm,Smoke Investigation (Outside),B03,48
+Alarm,Citizen Assist / Service Call,B07,34
+Non Life-threatening,Traffic Collision,B99,38
+Potentially Life-Threatening,Other,B04,16
+Alarm,Other,B09,25
+Alarm,Fuel Spill,B04,41
+Fire,Structure Fire,B10,07
+Alarm,Gas Leak (Natural and LP Gases),B04,03
+Fire,Suspicious Package,B08,22
+Fire,Vehicle Fire,B08,33
+Alarm,Odor (Strange / Unknown),B07,21
+Non Life-threatening,Medical Incident,B04,13
+Fire,Explosion,B09,44
+Potentially Life-Threatening,Traffic Collision,B05,01
+Fire,Water Rescue,B99,14
+Alarm,Alarms,B03,28
+Alarm,Fuel Spill,B02,01
+Non Life-threatening,Medical Incident,B03,51
+Alarm,Other,B07,08
+Fire,Structure Fire,B09,39
+Fire,Other,B99,51
+Alarm,Outside Fire,B01,28
+Alarm,Odor (Strange / Unknown),B07,31
+Non Life-threatening,Medical Incident,B08,07
+Non Life-threatening,Medical Incident,B09,44
+Alarm,Alarms,B07,12
+Non Life-threatening,Traffic Collision,B10,03
+Non Life-threatening,Medical Incident,B09,42
+Non Life-threatening,Traffic Collision,B02,01
+Fire,Structure Fire,B07,34
+Alarm,Smoke Investigation (Outside),B06,42
+Alarm,Structure Fire,B03,10
+Alarm,Alarms,B07,20
+Alarm,Citizen Assist / Service Call,B10,07
+Fire,Water Rescue,B07,22
+Alarm,Gas Leak (Natural and LP Gases),B09,26
+Alarm,Electrical Hazard,B05,21
+Fire,Odor (Strange / Unknown),B08,22
+Non Life-threatening,Traffic Collision,B04,41
+Alarm,Smoke Investigation (Outside),B01,01
+Alarm,Other,B08,09
+Alarm,Alarms,B10,25
+Potentially Life-Threatening,Medical Incident,B10,08
+Alarm,Odor (Strange / Unknown),B07,14
+Potentially Life-Threatening,Medical Incident,B01,06
+Alarm,Citizen Assist / Service Call,B09,39
+Non Life-threatening,Medical Incident,B09,05
+Fire,Outside Fire,B08,18
+Alarm,Odor (Strange / Unknown),B10,32
+Potentially Life-Threatening,Traffic Collision,B06,11
+Non Life-threatening,Medical Incident,B03,29
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B10,42
+Fire,Explosion,B10,17
+Potentially Life-Threatening,Medical Incident,B05,44
+Potentially Life-Threatening,Traffic Collision,B03,41
+Non Life-threatening,Other,B03,48
+Fire,Industrial Accidents,B06,11
+Alarm,Structure Fire,B10,25
+Fire,Explosion,B03,35
+Non Life-threatening,Traffic Collision,B99,24
+Fire,Outside Fire,B03,37
+Non Life-threatening,Medical Incident,B05,12
+Non Life-threatening,Traffic Collision,B99,32
+Fire,Vehicle Fire,B01,13
+Fire,Vehicle Fire,B03,03
+Alarm,Elevator / Escalator Rescue,B07,10
+Alarm,Medical Incident,B08,19
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B08,39
+Fire,Outside Fire,B99,14
+Fire,HazMat,B10,37
+Alarm,Elevator / Escalator Rescue,B04,05
+Alarm,Medical Incident,B04,10
+Alarm,Citizen Assist / Service Call,B07,40
+Alarm,Outside Fire,B04,38
+Alarm,Fuel Spill,B05,21
+Non Life-threatening,Medical Incident,B05,20
+Fire,Confined Space / Structure Collapse,B08,40
+Non Life-threatening,Medical Incident,B99,25
+Potentially Life-Threatening,Medical Incident,B05,23
+Potentially Life-Threatening,Medical Incident,B05,05
+Alarm,Assist Police,B99,01
+Fire,Outside Fire,B05,24
+Potentially Life-Threatening,Medical Incident,B01,03
+Potentially Life-Threatening,Medical Incident,B03,13
+Alarm,Odor (Strange / Unknown),B09,33
+Fire,Explosion,B05,12
+Non Life-threatening,Traffic Collision,B05,21
+Non Life-threatening,Medical Incident,B04,34
+Alarm,Structure Fire,B03,28
+Fire,Outside Fire,B07,22
+Potentially Life-Threatening,Other,B10,42
+Alarm,Other,B99,05
+Potentially Life-Threatening,Other,B10,44
+Alarm,Electrical Hazard,B02,01
+Potentially Life-Threatening,Medical Incident,B04,51
+Non Life-threatening,Medical Incident,B02,05
+Alarm,HazMat,B06,32
+Alarm,HazMat,B06,24
+Non Life-threatening,Medical Incident,B10,17
+Potentially Life-Threatening,Medical Incident,B06,17
+Fire,Explosion,B03,29
+Alarm,Gas Leak (Natural and LP Gases),B02,36
+Alarm,Other,B99,42
+Potentially Life-Threatening,Traffic Collision,B06,06
+Non Life-threatening,Medical Incident,B02,42
+Alarm,Other,B99,44
+Non Life-threatening,Medical Incident,B03,35
+Potentially Life-Threatening,Other,B08,39
+Alarm,Electrical Hazard,B04,41
+Fire,Water Rescue,B08,18
+Non Life-threatening,Other,B01,01
+Potentially Life-Threatening,Medical Incident,B01,11
+Alarm,Assist Police,B09,32
+Fire,Outside Fire,B99,31
+Alarm,Electrical Hazard,B03,29
+Non Life-threatening,Medical Incident,B99,38
+Alarm,Alarms,B99,22
+Non Life-threatening,Traffic Collision,B03,09
+Alarm,Other,B09,32
+Fire,Outside Fire,B08,34
+Fire,Explosion,B04,41
+Alarm,Electrical Hazard,B05,12
+Fire,Water Rescue,B08,40
+Non Life-threatening,Medical Incident,B03,43
+Alarm,Fuel Spill,B09,42
+Alarm,Alarms,B07,31
+Alarm,Structure Fire,B09,33
+Alarm,Fuel Spill,B09,44
+Fire,High Angle Rescue,B01,13
+Alarm,Electrical Hazard,B05,20
+Alarm,Medical Incident,B08,36
+Fire,Explosion,B02,01
+Fire,Industrial Accidents,B01,03
+Alarm,Smoke Investigation (Outside),B05,06
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B02,03
+Alarm,Alarms,B07,21
+Potentially Life-Threatening,Medical Incident,B05,01
+Non Life-threatening,Other,B03,36
+Fire,HazMat,B06,07
+Non Life-threatening,Traffic Collision,B09,42
+Non Life-threatening,Traffic Collision,B09,44
+Potentially Life-Threatening,Medical Incident,B06,03
+Non Life-threatening,Medical Incident,B10,03
+Alarm,Other,B99,01
+Non Life-threatening,Medical Incident,B02,01
+Alarm,Electrical Hazard,B02,05
+Potentially Life-Threatening,Other,B02,03
+Alarm,Electrical Hazard,B10,17
+Potentially Life-Threatening,Medical Incident,B06,11
+Non Life-threatening,Medical Incident,B10,11
+Alarm,Alarms,B10,32
+Potentially Life-Threatening,Medical Incident,B04,02
+Alarm,Citizen Assist / Service Call,B07,18
+Fire,Vehicle Fire,B10,29
+Alarm,Electrical Hazard,B03,35
+Non Life-threatening,Medical Incident,B04,41
+Alarm,Alarms,B07,14
+Alarm,Odor (Strange / Unknown),B10,25
+Potentially Life-Threatening,Traffic Collision,B10,08
+Alarm,Citizen Assist / Service Call,B08,29
+Fire,Outside Fire,B10,37
+Alarm,Smoke Investigation (Outside),B04,05
+Fire,High Angle Rescue,B03,35
+Alarm,Medical Incident,B08,20
+Alarm,Smoke Investigation (Outside),B07,10
+Alarm,Structure Fire,B03,25
+Fire,Industrial Accidents,B02,36
+Alarm,Structure Fire,B08,23
+Non Life-threatening,Medical Incident,B10,29
+Fire,High Angle Rescue,B10,17
+Potentially Life-Threatening,Medical Incident,B06,29
+Alarm,HazMat,B04,38
+Non Life-threatening,Medical Incident,B04,08
+Fire,Vehicle Fire,B04,41
+Potentially Life-Threatening,Medical Incident,B10,40
+Alarm,Medical Incident,B08,12
+Alarm,Fuel Spill,B08,33
+Non Life-threatening,Medical Incident,B99,39
+Potentially Life-Threatening,Other,B02,29
+Fire,Confined Space / Structure Collapse,B09,15
+Fire,Vehicle Fire,B02,01
+Potentially Life-Threatening,Traffic Collision,B04,03
+Non Life-threatening,Medical Incident,B05,16
+Potentially Life-Threatening,Medical Incident,B02,48
+Alarm,Aircraft Emergency,B09,44
+Alarm,Electrical Hazard,B01,13
+Alarm,Outside Fire,B06,24
+Alarm,Electrical Hazard,B03,03
+Potentially Life-Threatening,Traffic Collision,B09,26
+Fire,High Angle Rescue,B05,20
+Non Life-threatening,Traffic Collision,B08,33
+Fire,High Angle Rescue,B05,12
+Alarm,Gas Leak (Natural and LP Gases),B06,11
+Non Life-threatening,Medical Incident,B10,35
+Non Life-threatening,Medical Incident,B99,28
+Potentially Life-Threatening,Medical Incident,B02,19
+Alarm,Alarms,B99,51
+Fire,Explosion,B10,29
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B02,29
+Alarm,Alarms,B02,07
+Alarm,Outside Fire,B06,32
+Non Life-threatening,Medical Incident,B03,17
+Non Life-threatening,Traffic Collision,B01,41
+Fire,Water Rescue,B99,16
+Non Life-threatening,Medical Incident,B05,36
+Fire,Vehicle Fire,B10,17
+Potentially Life-Threatening,Medical Incident,B04,06
+Potentially Life-Threatening,Traffic Collision,B06,09
+Non Life-threatening,Traffic Collision,B10,09
+Alarm,Electrical Hazard,B10,29
+Alarm,Fuel Spill,B99,10
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B06,26
+Potentially Life-Threatening,Traffic Collision,B01,02
+Fire,Vehicle Fire,B03,35
+Alarm,Elevator / Escalator Rescue,B05,06
+Alarm,Other,B07,18
+Potentially Life-Threatening,Medical Incident,B04,22
+Fire,Explosion,B01,13
+Fire,Outside Fire,B07,51
+Fire,Explosion,B03,03
+Fire,Structure Fire,B09,32
+Alarm,Citizen Assist / Service Call,B99,01
+Fire,"Extrication / Entrapped (Machinery, Vehicle)",B03,01
+Fire,Water Rescue,B10,47
+Fire,Vehicle Fire,B02,05
+Alarm,Gas Leak (Natural and LP Gases),B05,05
+Non Life-threatening,Medical Incident,B10,43
+Potentially Life-Threatening,Medical Incident,B06,43
+Alarm,Gas Leak (Natural and LP Gases),B01,03
+Fire,Outside Fire,B05,10
+Potentially Life-Threatening,Other,B06,26
+Alarm,Gas Leak (Natural and LP Gases),B03,13
+Fire,Vehicle Fire,B05,12
+Non Life-threatening,Medical Incident,B01,13
+Alarm,Medical Incident,B01,28
+Non Life-threatening,Medical Incident,B03,03
+Potentially Life-Threatening,Traffic Collision,B09,19
+Fire,Vehicle Fire,B05,20
+Alarm,Gas Leak (Natural and LP Gases),B04,51
+Non Life-threatening,Traffic Collision,B99,10
+Potentially Life-Threatening,Traffic Collision,B03,08
+Alarm,Citizen Assist / Service Call,B09,32
+Potentially Life-Threatening,Medical Incident,B02,36
+Fire,Vehicle Fire,B03,29
+Alarm,Fuel Spill,B10,09
+Potentially Life-Threatening,Other,B03,01
+Fire,Watercraft in Distress,B03,48
+Potentially Life-Threatening,Other,B01,16
+Alarm,Alarms,B03,32
+Alarm,Fuel Spill,B01,41
+Alarm,Odor (Strange / Unknown),B08,23
+Fire,Outside Fire,B06,07
+Potentially Life-Threatening,Medical Incident,B01,35
