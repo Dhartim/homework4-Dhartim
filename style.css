@@ -18,3 +18,13 @@ text#tooltip {
   text-shadow: 1px 1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, -1px -1px 0 #fff;
   font-weight: 900;
 }
+
+svg#tree
+{
+  background-color: wheat;
+  align-items: center;
+  border-radius: 10px;
+  border-width: 10px;
+  border-color: red;
+
+}
