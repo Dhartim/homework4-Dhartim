@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Homework 4 </title>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <!-- include d3.js modules -->
+  <script src="https://d3js.org/d3-array.v2.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+  <script src="space.js"></script>
+  <script src="count.js"></script>
+  <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/superhero/bulmaswatch.min.css">
+  <link rel="stylesheet" href="style.css">
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+
+<body>
+  <!-- Page header -->
+  <!-- https://bulma.io/documentation/layout/hero/ -->
+  <section class="hero is-dark is-bold">
+    <div class="hero-body">
+      <div class="container">
+        <!-- TODO: Change title -->
+        <h1 class="title">Homework 4 </h1>
+        <!-- TODO: Change subtitle -->
+        <h2 class="subtitle">Hierarchical data visualization </h2>
+      </div>
+    </div>
+  </section>
+  <!-- End page header -->
+
+  <!-- Page navigation -->
+  <!-- https://bulma.io/documentation/components/navbar/ -->
+  <nav class="navbar is-light" role="navigation" aria-label="main navigation">
+    <div class="container">
+      <div class="navbar-brand">
+
+        <a class="navbar-item" href="index.html">
+          <span class="icon"><i class="fas fa-home"></i></span>
+          <span>Home</span>
+        </a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="main-menu">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="main-menu" class="navbar-menu has-text-weight-medium">
+        <!-- Left navbar items -->
+        <div class="navbar-start">
+          <a class="navbar-item" href="index.html#data" title="Data">
+            <span class="icon"><i class="fas fa-table"></i></span>
+            <span>Data</span>
+          </a>
+
+          <!-- TODO: Modify or remove dropdown -->
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link" href="">
+              Hierarchical Visualizations
+            </a>
+
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="tree.html">
+                <span class="icon"><i class="fas fa-chart-line"></i></span>
+                <span>Node-Link Diagram</span>
+              </a>
+              <a class="navbar-item" href="spacefilling.html">
+                <span class="icon"><i class="fas fa-chart-area"></i></span>
+                <span>Space Filling Diagram</span>
+              </a>
+            </div>
+          </div>
+          </div>
+
+        <!-- Right navbar items -->
+        <div class="navbar-end">
+          <!-- TODO: Update as needed -->
+          <a class="navbar-item" href="index.html#about" title="About">
+            <span class="icon"><i class="fas fa-tasks"></i></span>
+            <span>Grade</span>
+          </a>
+
+          <a class="navbar-item" href="index.html#about" title="About">
+            <span class="icon"><i class="fas fa-info-circle"></i></span>
+            <span>About</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <section class="section">
+    <h1 class="title">Hierarchical Visualization </h1>
+    <figure class="figure">
+      <svg id="tree">
+      </svg>
+      <figcaption>
+        <cite>Data Source: <a href="https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3">Fire SF Dataset</a></cite>
+        <br/>Dharti Madeka
+      </figcaption>
+    </figure>
+    <script type="text/javascript">
+      d3.csv("dataviz-fill.csv", convertRow).then(drawSpaceChart);
+    </script>
+    <br/>
+    <div class="container">
+      <!-- Begin page content -->
+      <div class="content">
+        <h2 >Encoding</h2>
+        <p>For this visualization, level or height of hierarchical data is encoded using color. each node represent one row in dataset. Each row is converted into hierarchical tree data using d3.stratify().
+        </p>
+        <h2>Wrangling </h2>
+        <p>Original dataset is updating everyday. This dataset consist of 996 rows. Dataset is modified using Google sheet and javascript to convert it into hierarchical dataset. Each row is given unique id and a nodeId which generates parent for each record</p>
+        <h2>Interactivity</h2>
+        <p>Implemented Details on Demand and zooming technique as an interactivity. Here is the .gif of it to show demonstration of it.</p>
+        <!-- <img src="map.gif" width="500px" height="500px"style="border: 1px solid black;"> -->
+        <h2>Conclusion </h2>
+        <p>From this visualization, it is conclude that there are various call type group and each of them is further divided into various call-type categories. Each of these categories has incidents in different Neighborhooods. Here each node shows total number of incidents within that call-type group and call-type category</p>
+      </div>
+    </div>
+  </section>
+  <!-- Page footer -->
+  <!-- https://bulma.io/documentation/layout/footer/ -->
+  <footer class="footer">
+    <div class="content has-text-centered is-size-7">
+      <p>
+        <a href="#top">
+          <span class="fas fa-arrow-up"></span>
+          <span class="has-text-weight-medium">Back to Top</span>
+        </a>
+      </p>
+
+      <p>
+        <!-- TODO: Change to link to your Github repository -->
+        <a href="https://github.com/usf-cs360-spring2020/template-bulma" class="button is-small" style="padding-left: 1em; padding-right: 1em;">
+          <i class="fab fa-github-alt"></i>&nbsp;<strong>Github</strong>
+        </a>
+
+        <a href="https://fontawesome.com/" class="button is-small" style="padding-left: 1em; padding-right: 1em;">
+          <i class="fab fa-font-awesome"></i>&nbsp;<strong>FontAwesome</strong>
+        </a>
+        <a href="https://d3js.org/" class="button is-small" style="padding: 1em;">
+          <img src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" style="height: 20px; padding-left: 5px;">
+        </a>
+
+        <a href="https://bulma.io" class="button is-small">
+          <img src="https://bulma.io/images/made-with-bulma--semiblack.png" alt="Made with Bulma" width="128" height="24">
+        </a>
+      </p>
+    </div>
+  </footer>
+  <!-- End page footer -->
+</body>
+
+</html>

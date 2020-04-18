@@ -1,0 +1,418 @@
+Call Type,Call Type Group,Unit Type,Incident Number,NodeID
+Administrative,Fire,CHIEF,1,Fire.Administrative.CHIEF
+Aircraft Emergency,Alarm,CHIEF,12,Alarm.Aircraft Emergency.CHIEF
+Aircraft Emergency,Alarm,ENGINE,16,Alarm.Aircraft Emergency.ENGINE
+Aircraft Emergency,Alarm,MEDIC,8,Alarm.Aircraft Emergency.MEDIC
+Aircraft Emergency,Alarm,PRIVATE,3,Alarm.Aircraft Emergency.PRIVATE
+Aircraft Emergency,Alarm,RESCUE CAPTAIN,4,Alarm.Aircraft Emergency.RESCUE CAPTAIN
+Aircraft Emergency,Alarm,RESCUE SQUAD,6,Alarm.Aircraft Emergency.RESCUE SQUAD
+Aircraft Emergency,Alarm,SUPPORT,6,Alarm.Aircraft Emergency.SUPPORT
+Aircraft Emergency,Alarm,TRUCK,8,Alarm.Aircraft Emergency.TRUCK
+Aircraft Emergency,Fire,AIRPORT,112,Fire.Aircraft Emergency.AIRPORT
+Aircraft Emergency,Fire,CHIEF,16,Fire.Aircraft Emergency.CHIEF
+Aircraft Emergency,Fire,ENGINE,23,Fire.Aircraft Emergency.ENGINE
+Aircraft Emergency,Fire,MEDIC,10,Fire.Aircraft Emergency.MEDIC
+Aircraft Emergency,Fire,PRIVATE,2,Fire.Aircraft Emergency.PRIVATE
+Aircraft Emergency,Fire,RESCUE CAPTAIN,8,Fire.Aircraft Emergency.RESCUE CAPTAIN
+Aircraft Emergency,Fire,RESCUE SQUAD,5,Fire.Aircraft Emergency.RESCUE SQUAD
+Aircraft Emergency,Fire,TRUCK,9,Fire.Aircraft Emergency.TRUCK
+Alarms,Alarm,AIRPORT,1,Alarm.Alarms.AIRPORT
+Alarms,Alarm,CHIEF,87969,Alarm.Alarms.CHIEF
+Alarms,Alarm,ENGINE,92156,Alarm.Alarms.ENGINE
+Alarms,Alarm,INVESTIGATION,89,Alarm.Alarms.INVESTIGATION
+Alarms,Alarm,MEDIC,589,Alarm.Alarms.MEDIC
+Alarms,Alarm,PRIVATE,197,Alarm.Alarms.PRIVATE
+Alarms,Alarm,RESCUE CAPTAIN,99,Alarm.Alarms.RESCUE CAPTAIN
+Alarms,Alarm,RESCUE SQUAD,64,Alarm.Alarms.RESCUE SQUAD
+Alarms,Alarm,SUPPORT,376,Alarm.Alarms.SUPPORT
+Alarms,Alarm,TRUCK,88981,Alarm.Alarms.TRUCK
+Assist Police,Alarm,CHIEF,28,Alarm.Assist Police.CHIEF
+Assist Police,Alarm,ENGINE,163,Alarm.Assist Police.ENGINE
+Assist Police,Alarm,INVESTIGATION,1,Alarm.Assist Police.INVESTIGATION
+Assist Police,Alarm,MEDIC,50,Alarm.Assist Police.MEDIC
+Assist Police,Alarm,PRIVATE,15,Alarm.Assist Police.PRIVATE
+Assist Police,Alarm,RESCUE CAPTAIN,12,Alarm.Assist Police.RESCUE CAPTAIN
+Assist Police,Alarm,RESCUE SQUAD,8,Alarm.Assist Police.RESCUE SQUAD
+Assist Police,Alarm,SUPPORT,12,Alarm.Assist Police.SUPPORT
+Assist Police,Alarm,TRUCK,166,Alarm.Assist Police.TRUCK
+Citizen Assist / Service Call,Alarm,CHIEF,920,Alarm.Citizen Assist / Service Call.CHIEF
+Citizen Assist / Service Call,Alarm,ENGINE,14242,Alarm.Citizen Assist / Service Call.ENGINE
+Citizen Assist / Service Call,Alarm,INVESTIGATION,7,Alarm.Citizen Assist / Service Call.INVESTIGATION
+Citizen Assist / Service Call,Alarm,MEDIC,2438,Alarm.Citizen Assist / Service Call.MEDIC
+Citizen Assist / Service Call,Alarm,PRIVATE,875,Alarm.Citizen Assist / Service Call.PRIVATE
+Citizen Assist / Service Call,Alarm,RESCUE CAPTAIN,365,Alarm.Citizen Assist / Service Call.RESCUE CAPTAIN
+Citizen Assist / Service Call,Alarm,RESCUE SQUAD,88,Alarm.Citizen Assist / Service Call.RESCUE SQUAD
+Citizen Assist / Service Call,Alarm,SUPPORT,64,Alarm.Citizen Assist / Service Call.SUPPORT
+Citizen Assist / Service Call,Alarm,TRUCK,13463,Alarm.Citizen Assist / Service Call.TRUCK
+Confined Space / Structure Collapse,Fire,CHIEF,63,Fire.Confined Space / Structure Collapse.CHIEF
+Confined Space / Structure Collapse,Fire,ENGINE,66,Fire.Confined Space / Structure Collapse.ENGINE
+Confined Space / Structure Collapse,Fire,MEDIC,47,Fire.Confined Space / Structure Collapse.MEDIC
+Confined Space / Structure Collapse,Fire,PRIVATE,11,Fire.Confined Space / Structure Collapse.PRIVATE
+Confined Space / Structure Collapse,Fire,RESCUE CAPTAIN,41,Fire.Confined Space / Structure Collapse.RESCUE CAPTAIN
+Confined Space / Structure Collapse,Fire,RESCUE SQUAD,41,Fire.Confined Space / Structure Collapse.RESCUE SQUAD
+Confined Space / Structure Collapse,Fire,SUPPORT,9,Fire.Confined Space / Structure Collapse.SUPPORT
+Confined Space / Structure Collapse,Fire,TRUCK,53,Fire.Confined Space / Structure Collapse.TRUCK
+Electrical Hazard,Alarm,CHIEF,266,Alarm.Electrical Hazard.CHIEF
+Electrical Hazard,Alarm,ENGINE,7736,Alarm.Electrical Hazard.ENGINE
+Electrical Hazard,Alarm,INVESTIGATION,1,Alarm.Electrical Hazard.INVESTIGATION
+Electrical Hazard,Alarm,MEDIC,36,Alarm.Electrical Hazard.MEDIC
+Electrical Hazard,Alarm,PRIVATE,7,Alarm.Electrical Hazard.PRIVATE
+Electrical Hazard,Alarm,RESCUE CAPTAIN,5,Alarm.Electrical Hazard.RESCUE CAPTAIN
+Electrical Hazard,Alarm,RESCUE SQUAD,16,Alarm.Electrical Hazard.RESCUE SQUAD
+Electrical Hazard,Alarm,SUPPORT,12,Alarm.Electrical Hazard.SUPPORT
+Electrical Hazard,Alarm,TRUCK,333,Alarm.Electrical Hazard.TRUCK
+Elevator / Escalator Rescue,Alarm,AIRPORT,1,Alarm.Elevator / Escalator Rescue.AIRPORT
+Elevator / Escalator Rescue,Alarm,CHIEF,46,Alarm.Elevator / Escalator Rescue.CHIEF
+Elevator / Escalator Rescue,Alarm,ENGINE,249,Alarm.Elevator / Escalator Rescue.ENGINE
+Elevator / Escalator Rescue,Alarm,MEDIC,275,Alarm.Elevator / Escalator Rescue.MEDIC
+Elevator / Escalator Rescue,Alarm,PRIVATE,121,Alarm.Elevator / Escalator Rescue.PRIVATE
+Elevator / Escalator Rescue,Alarm,RESCUE CAPTAIN,33,Alarm.Elevator / Escalator Rescue.RESCUE CAPTAIN
+Elevator / Escalator Rescue,Alarm,RESCUE SQUAD,28,Alarm.Elevator / Escalator Rescue.RESCUE SQUAD
+Elevator / Escalator Rescue,Alarm,SUPPORT,4,Alarm.Elevator / Escalator Rescue.SUPPORT
+Elevator / Escalator Rescue,Alarm,TRUCK,6374,Alarm.Elevator / Escalator Rescue.TRUCK
+Explosion,Fire,CHIEF,255,Fire.Explosion.CHIEF
+Explosion,Fire,ENGINE,325,Fire.Explosion.ENGINE
+Explosion,Fire,INVESTIGATION,6,Fire.Explosion.INVESTIGATION
+Explosion,Fire,MEDIC,131,Fire.Explosion.MEDIC
+Explosion,Fire,PRIVATE,24,Fire.Explosion.PRIVATE
+Explosion,Fire,RESCUE CAPTAIN,60,Fire.Explosion.RESCUE CAPTAIN
+Explosion,Fire,RESCUE SQUAD,75,Fire.Explosion.RESCUE SQUAD
+Explosion,Fire,SUPPORT,14,Fire.Explosion.SUPPORT
+Explosion,Fire,TRUCK,224,Fire.Explosion.TRUCK
+"Extrication / Entrapped (Machinery, Vehicle)",Fire,CHIEF,64,"Fire.Extrication / Entrapped (Machinery, Vehicle).CHIEF"
+"Extrication / Entrapped (Machinery, Vehicle)",Fire,ENGINE,98,"Fire.Extrication / Entrapped (Machinery, Vehicle).ENGINE"
+"Extrication / Entrapped (Machinery, Vehicle)",Fire,MEDIC,64,"Fire.Extrication / Entrapped (Machinery, Vehicle).MEDIC"
+"Extrication / Entrapped (Machinery, Vehicle)",Fire,PRIVATE,20,"Fire.Extrication / Entrapped (Machinery, Vehicle).PRIVATE"
+"Extrication / Entrapped (Machinery, Vehicle)",Fire,RESCUE CAPTAIN,45,"Fire.Extrication / Entrapped (Machinery, Vehicle).RESCUE CAPTAIN"
+"Extrication / Entrapped (Machinery, Vehicle)",Fire,RESCUE SQUAD,44,"Fire.Extrication / Entrapped (Machinery, Vehicle).RESCUE SQUAD"
+"Extrication / Entrapped (Machinery, Vehicle)",Fire,SUPPORT,5,"Fire.Extrication / Entrapped (Machinery, Vehicle).SUPPORT"
+"Extrication / Entrapped (Machinery, Vehicle)",Fire,TRUCK,62,"Fire.Extrication / Entrapped (Machinery, Vehicle).TRUCK"
+Fuel Spill,Alarm,CHIEF,348,Alarm.Fuel Spill.CHIEF
+Fuel Spill,Alarm,ENGINE,1545,Alarm.Fuel Spill.ENGINE
+Fuel Spill,Alarm,INVESTIGATION,3,Alarm.Fuel Spill.INVESTIGATION
+Fuel Spill,Alarm,MEDIC,40,Alarm.Fuel Spill.MEDIC
+Fuel Spill,Alarm,PRIVATE,20,Alarm.Fuel Spill.PRIVATE
+Fuel Spill,Alarm,RESCUE CAPTAIN,6,Alarm.Fuel Spill.RESCUE CAPTAIN
+Fuel Spill,Alarm,RESCUE SQUAD,2,Alarm.Fuel Spill.RESCUE SQUAD
+Fuel Spill,Alarm,SUPPORT,15,Alarm.Fuel Spill.SUPPORT
+Fuel Spill,Alarm,TRUCK,323,Alarm.Fuel Spill.TRUCK
+Gas Leak (Natural and LP Gases),Alarm,CHIEF,3482,Alarm.Gas Leak (Natural and LP Gases).CHIEF
+Gas Leak (Natural and LP Gases),Alarm,ENGINE,5836,Alarm.Gas Leak (Natural and LP Gases).ENGINE
+Gas Leak (Natural and LP Gases),Alarm,INVESTIGATION,3,Alarm.Gas Leak (Natural and LP Gases).INVESTIGATION
+Gas Leak (Natural and LP Gases),Alarm,MEDIC,120,Alarm.Gas Leak (Natural and LP Gases).MEDIC
+Gas Leak (Natural and LP Gases),Alarm,PRIVATE,43,Alarm.Gas Leak (Natural and LP Gases).PRIVATE
+Gas Leak (Natural and LP Gases),Alarm,RESCUE CAPTAIN,48,Alarm.Gas Leak (Natural and LP Gases).RESCUE CAPTAIN
+Gas Leak (Natural and LP Gases),Alarm,RESCUE SQUAD,7,Alarm.Gas Leak (Natural and LP Gases).RESCUE SQUAD
+Gas Leak (Natural and LP Gases),Alarm,SUPPORT,25,Alarm.Gas Leak (Natural and LP Gases).SUPPORT
+Gas Leak (Natural and LP Gases),Alarm,TRUCK,2638,Alarm.Gas Leak (Natural and LP Gases).TRUCK
+HazMat,Alarm,CHIEF,273,Alarm.HazMat.CHIEF
+HazMat,Alarm,ENGINE,318,Alarm.HazMat.ENGINE
+HazMat,Alarm,MEDIC,46,Alarm.HazMat.MEDIC
+HazMat,Alarm,PRIVATE,13,Alarm.HazMat.PRIVATE
+HazMat,Alarm,RESCUE CAPTAIN,31,Alarm.HazMat.RESCUE CAPTAIN
+HazMat,Alarm,RESCUE SQUAD,19,Alarm.HazMat.RESCUE SQUAD
+HazMat,Alarm,SUPPORT,56,Alarm.HazMat.SUPPORT
+HazMat,Alarm,TRUCK,178,Alarm.HazMat.TRUCK
+HazMat,Fire,CHIEF,85,Fire.HazMat.CHIEF
+HazMat,Fire,ENGINE,95,Fire.HazMat.ENGINE
+HazMat,Fire,INVESTIGATION,1,Fire.HazMat.INVESTIGATION
+HazMat,Fire,MEDIC,7,Fire.HazMat.MEDIC
+HazMat,Fire,PRIVATE,6,Fire.HazMat.PRIVATE
+HazMat,Fire,RESCUE CAPTAIN,5,Fire.HazMat.RESCUE CAPTAIN
+HazMat,Fire,SUPPORT,17,Fire.HazMat.SUPPORT
+HazMat,Fire,TRUCK,30,Fire.HazMat.TRUCK
+High Angle Rescue,Fire,CHIEF,88,Fire.High Angle Rescue.CHIEF
+High Angle Rescue,Fire,ENGINE,172,Fire.High Angle Rescue.ENGINE
+High Angle Rescue,Fire,MEDIC,70,Fire.High Angle Rescue.MEDIC
+High Angle Rescue,Fire,PRIVATE,24,Fire.High Angle Rescue.PRIVATE
+High Angle Rescue,Fire,RESCUE CAPTAIN,73,Fire.High Angle Rescue.RESCUE CAPTAIN
+High Angle Rescue,Fire,RESCUE SQUAD,73,Fire.High Angle Rescue.RESCUE SQUAD
+High Angle Rescue,Fire,SUPPORT,97,Fire.High Angle Rescue.SUPPORT
+High Angle Rescue,Fire,TRUCK,96,Fire.High Angle Rescue.TRUCK
+Industrial Accidents,Fire,CHIEF,91,Fire.Industrial Accidents.CHIEF
+Industrial Accidents,Fire,ENGINE,115,Fire.Industrial Accidents.ENGINE
+Industrial Accidents,Fire,MEDIC,74,Fire.Industrial Accidents.MEDIC
+Industrial Accidents,Fire,PRIVATE,31,Fire.Industrial Accidents.PRIVATE
+Industrial Accidents,Fire,RESCUE CAPTAIN,55,Fire.Industrial Accidents.RESCUE CAPTAIN
+Industrial Accidents,Fire,RESCUE SQUAD,30,Fire.Industrial Accidents.RESCUE SQUAD
+Industrial Accidents,Fire,SUPPORT,3,Fire.Industrial Accidents.SUPPORT
+Industrial Accidents,Fire,TRUCK,41,Fire.Industrial Accidents.TRUCK
+Marine Fire,Fire,CHIEF,33,Fire.Marine Fire.CHIEF
+Marine Fire,Fire,ENGINE,51,Fire.Marine Fire.ENGINE
+Marine Fire,Fire,MEDIC,12,Fire.Marine Fire.MEDIC
+Marine Fire,Fire,PRIVATE,5,Fire.Marine Fire.PRIVATE
+Marine Fire,Fire,RESCUE CAPTAIN,8,Fire.Marine Fire.RESCUE CAPTAIN
+Marine Fire,Fire,RESCUE SQUAD,14,Fire.Marine Fire.RESCUE SQUAD
+Marine Fire,Fire,SUPPORT,27,Fire.Marine Fire.SUPPORT
+Marine Fire,Fire,TRUCK,24,Fire.Marine Fire.TRUCK
+Medical Incident,Alarm,CHIEF,4,Alarm.Medical Incident.CHIEF
+Medical Incident,Alarm,ENGINE,1265,Alarm.Medical Incident.ENGINE
+Medical Incident,Alarm,MEDIC,50,Alarm.Medical Incident.MEDIC
+Medical Incident,Alarm,PRIVATE,47,Alarm.Medical Incident.PRIVATE
+Medical Incident,Alarm,RESCUE CAPTAIN,36,Alarm.Medical Incident.RESCUE CAPTAIN
+Medical Incident,Alarm,RESCUE SQUAD,1,Alarm.Medical Incident.RESCUE SQUAD
+Medical Incident,Alarm,TRUCK,49,Alarm.Medical Incident.TRUCK
+Medical Incident,Non Life-threatening,AIRPORT,8,Non Life-threatening.Medical Incident.AIRPORT
+Medical Incident,Non Life-threatening,CHIEF,4012,Non Life-threatening.Medical Incident.CHIEF
+Medical Incident,Non Life-threatening,ENGINE,135028,Non Life-threatening.Medical Incident.ENGINE
+Medical Incident,Non Life-threatening,INVESTIGATION,25,Non Life-threatening.Medical Incident.INVESTIGATION
+Medical Incident,Non Life-threatening,MEDIC,274992,Non Life-threatening.Medical Incident.MEDIC
+Medical Incident,Non Life-threatening,PRIVATE,103797,Non Life-threatening.Medical Incident.PRIVATE
+Medical Incident,Non Life-threatening,RESCUE CAPTAIN,8710,Non Life-threatening.Medical Incident.RESCUE CAPTAIN
+Medical Incident,Non Life-threatening,RESCUE SQUAD,1731,Non Life-threatening.Medical Incident.RESCUE SQUAD
+Medical Incident,Non Life-threatening,SUPPORT,4018,Non Life-threatening.Medical Incident.SUPPORT
+Medical Incident,Non Life-threatening,TRUCK,5475,Non Life-threatening.Medical Incident.TRUCK
+Medical Incident,Potentially Life-Threatening,AIRPORT,3,Potentially Life-Threatening.Medical Incident.AIRPORT
+Medical Incident,Potentially Life-Threatening,CHIEF,8315,Potentially Life-Threatening.Medical Incident.CHIEF
+Medical Incident,Potentially Life-Threatening,ENGINE,470954,Potentially Life-Threatening.Medical Incident.ENGINE
+Medical Incident,Potentially Life-Threatening,INVESTIGATION,22,Potentially Life-Threatening.Medical Incident.INVESTIGATION
+Medical Incident,Potentially Life-Threatening,MEDIC,382189,Potentially Life-Threatening.Medical Incident.MEDIC
+Medical Incident,Potentially Life-Threatening,PRIVATE,142898,Potentially Life-Threatening.Medical Incident.PRIVATE
+Medical Incident,Potentially Life-Threatening,RESCUE CAPTAIN,49672,Potentially Life-Threatening.Medical Incident.RESCUE CAPTAIN
+Medical Incident,Potentially Life-Threatening,RESCUE SQUAD,15300,Potentially Life-Threatening.Medical Incident.RESCUE SQUAD
+Medical Incident,Potentially Life-Threatening,SUPPORT,15174,Potentially Life-Threatening.Medical Incident.SUPPORT
+Medical Incident,Potentially Life-Threatening,TRUCK,33983,Potentially Life-Threatening.Medical Incident.TRUCK
+Mutual Aid / Assist Outside Agency,Fire,CHIEF,9,Fire.Mutual Aid / Assist Outside Agency.CHIEF
+Mutual Aid / Assist Outside Agency,Fire,ENGINE,119,Fire.Mutual Aid / Assist Outside Agency.ENGINE
+Mutual Aid / Assist Outside Agency,Fire,MEDIC,8,Fire.Mutual Aid / Assist Outside Agency.MEDIC
+Mutual Aid / Assist Outside Agency,Fire,RESCUE CAPTAIN,2,Fire.Mutual Aid / Assist Outside Agency.RESCUE CAPTAIN
+Mutual Aid / Assist Outside Agency,Fire,RESCUE SQUAD,2,Fire.Mutual Aid / Assist Outside Agency.RESCUE SQUAD
+Mutual Aid / Assist Outside Agency,Fire,SUPPORT,38,Fire.Mutual Aid / Assist Outside Agency.SUPPORT
+Odor (Strange / Unknown),Alarm,CHIEF,781,Alarm.Odor (Strange / Unknown).CHIEF
+Odor (Strange / Unknown),Alarm,ENGINE,1469,Alarm.Odor (Strange / Unknown).ENGINE
+Odor (Strange / Unknown),Alarm,INVESTIGATION,3,Alarm.Odor (Strange / Unknown).INVESTIGATION
+Odor (Strange / Unknown),Alarm,MEDIC,137,Alarm.Odor (Strange / Unknown).MEDIC
+Odor (Strange / Unknown),Alarm,PRIVATE,52,Alarm.Odor (Strange / Unknown).PRIVATE
+Odor (Strange / Unknown),Alarm,RESCUE CAPTAIN,32,Alarm.Odor (Strange / Unknown).RESCUE CAPTAIN
+Odor (Strange / Unknown),Alarm,RESCUE SQUAD,4,Alarm.Odor (Strange / Unknown).RESCUE SQUAD
+Odor (Strange / Unknown),Alarm,SUPPORT,9,Alarm.Odor (Strange / Unknown).SUPPORT
+Odor (Strange / Unknown),Alarm,TRUCK,724,Alarm.Odor (Strange / Unknown).TRUCK
+Odor (Strange / Unknown),Fire,CHIEF,16,Fire.Odor (Strange / Unknown).CHIEF
+Odor (Strange / Unknown),Fire,ENGINE,21,Fire.Odor (Strange / Unknown).ENGINE
+Odor (Strange / Unknown),Fire,TRUCK,15,Fire.Odor (Strange / Unknown).TRUCK
+Oil Spill,Alarm,ENGINE,3,Alarm.Oil Spill.ENGINE
+Oil Spill,Alarm,TRUCK,1,Alarm.Oil Spill.TRUCK
+Other,Alarm,AIRPORT,3075,Alarm.Other.AIRPORT
+Other,Alarm,CHIEF,2934,Alarm.Other.CHIEF
+Other,Alarm,ENGINE,12562,Alarm.Other.ENGINE
+Other,Alarm,INVESTIGATION,105,Alarm.Other.INVESTIGATION
+Other,Alarm,MEDIC,1228,Alarm.Other.MEDIC
+Other,Alarm,PRIVATE,372,Alarm.Other.PRIVATE
+Other,Alarm,RESCUE CAPTAIN,297,Alarm.Other.RESCUE CAPTAIN
+ther,Alarm,RESCUE SQUAD,301,Alarm.ther.RESCUE SQUAD
+Other,Alarm,SUPPORT,360,Alarm.Other.SUPPORT
+Other,Alarm,TRUCK,7865,Alarm.Other.TRUCK
+Other,Fire,CHIEF,66,Fire.Other.CHIEF
+Other,Fire,ENGINE,194,Fire.Other.ENGINE
+Other,Fire,MEDIC,63,Fire.Other.MEDIC
+Other,Fire,PRIVATE,19,Fire.Other.PRIVATE
+Other,Fire,RESCUE CAPTAIN,27,Fire.Other.RESCUE CAPTAIN
+Other,Fire,RESCUE SQUAD,45,Fire.Other.RESCUE SQUAD
+Other,Fire,SUPPORT,223,Fire.Other.SUPPORT
+Other,Fire,TRUCK,64,Fire.Other.TRUCK
+Other,Non Life-threatening,CHIEF,65,Non Life-threatening.Other.CHIEF
+Other,Non Life-threatening,ENGINE,181,Non Life-threatening.Other.ENGINE
+Other,Non Life-threatening,INVESTIGATION,2,Non Life-threatening.Other.INVESTIGATION
+Other,Non Life-threatening,MEDIC,2384,Non Life-threatening.Other.MEDIC
+Other,Non Life-threatening,PRIVATE,772,Non Life-threatening.Other.PRIVATE
+Other,Non Life-threatening,RESCUE CAPTAIN,163,Non Life-threatening.Other.RESCUE CAPTAIN
+Other,Non Life-threatening,RESCUE SQUAD,4,Non Life-threatening.Other.RESCUE SQUAD
+Other,Non Life-threatening,SUPPORT,12,Non Life-threatening.Other.SUPPORT
+Other,Non Life-threatening,TRUCK,39,Non Life-threatening.Other.TRUCK
+Other,Potentially Life-Threatening,CHIEF,238,Potentially Life-Threatening.Other.CHIEF
+Other,Potentially Life-Threatening,ENGINE,281,Potentially Life-Threatening.Other.ENGINE
+Other,Potentially Life-Threatening,MEDIC,363,Potentially Life-Threatening.Other.MEDIC
+Other,Potentially Life-Threatening,PRIVATE,106,Potentially Life-Threatening.Other.PRIVATE
+Other,Potentially Life-Threatening,RESCUE CAPTAIN,192,Potentially Life-Threatening.Other.RESCUE CAPTAIN
+Other,Potentially Life-Threatening,RESCUE SQUAD,145,Potentially Life-Threatening.Other.RESCUE SQUAD
+Other,Potentially Life-Threatening,SUPPORT,42,Potentially Life-Threatening.Other.SUPPORT
+Other,Potentially Life-Threatening,TRUCK,164,Potentially Life-Threatening.Other.TRUCK
+Outside Fire,Alarm,CHIEF,677,Alarm.Outside Fire.CHIEF
+Outside Fire,Alarm,ENGINE,1552,Alarm.Outside Fire.ENGINE
+Outside Fire,Alarm,INVESTIGATION,5,Alarm.Outside Fire.INVESTIGATION
+Outside Fire,Alarm,MEDIC,6,Alarm.Outside Fire.MEDIC
+Outside Fire,Alarm,SUPPORT,637,Alarm.Outside Fire.SUPPORT
+Outside Fire,Alarm,TRUCK,671,Alarm.Outside Fire.TRUCK
+Outside Fire,Fire,AIRPORT,2,Fire.Outside Fire.AIRPORT
+Outside Fire,Fire,CHIEF,2506,Fire.Outside Fire.CHIEF
+Outside Fire,Fire,ENGINE,20415,Fire.Outside Fire.ENGINE
+Outside Fire,Fire,INVESTIGATION,484,Fire.Outside Fire.INVESTIGATION
+Outside Fire,Fire,MEDIC,287,Fire.Outside Fire.MEDIC
+Outside Fire,Fire,PRIVATE,51,Fire.Outside Fire.PRIVATE
+Outside Fire,Fire,RESCUE CAPTAIN,40,Fire.Outside Fire.RESCUE CAPTAIN
+Outside Fire,Fire,RESCUE SQUAD,192,Fire.Outside Fire.RESCUE SQUAD
+Outside Fire,Fire,SUPPORT,405,Fire.Outside Fire.SUPPORT
+Outside Fire,Fire,TRUCK,2365,Fire.Outside Fire.TRUCK
+Smoke Investigation (Outside),Alarm,CHIEF,615,Alarm.Smoke Investigation (Outside).CHIEF
+Smoke Investigation (Outside),Alarm,ENGINE,3887,Alarm.Smoke Investigation (Outside).ENGINE
+Smoke Investigation (Outside),Alarm,INVESTIGATION,9,Alarm.Smoke Investigation (Outside).INVESTIGATION
+Smoke Investigation (Outside),Alarm,MEDIC,33,Alarm.Smoke Investigation (Outside).MEDIC
+Smoke Investigation (Outside),Alarm,PRIVATE,7,Alarm.Smoke Investigation (Outside).PRIVATE
+Smoke Investigation (Outside),Alarm,RESCUE CAPTAIN,2,Alarm.Smoke Investigation (Outside).RESCUE CAPTAIN
+Smoke Investigation (Outside),Alarm,RESCUE SQUAD,30,Alarm.Smoke Investigation (Outside).RESCUE SQUAD
+Smoke Investigation (Outside),Alarm,SUPPORT,61,Alarm.Smoke Investigation (Outside).SUPPORT
+Smoke Investigation (Outside),Alarm,TRUCK,568,Alarm.Smoke Investigation (Outside).TRUCK
+Structure Fire,Alarm,CHIEF,40976,Alarm.Structure Fire.CHIEF
+Structure Fire,Alarm,ENGINE,76378,Alarm.Structure Fire.ENGINE
+Structure Fire,Alarm,INVESTIGATION,391,Alarm.Structure Fire.INVESTIGATION
+Structure Fire,Alarm,MEDIC,12399,Alarm.Structure Fire.MEDIC
+Structure Fire,Alarm,PRIVATE,711,Alarm.Structure Fire.PRIVATE
+Structure Fire,Alarm,RESCUE CAPTAIN,270,Alarm.Structure Fire.RESCUE CAPTAIN
+Structure Fire,Alarm,RESCUE SQUAD,11710,Alarm.Structure Fire.RESCUE SQUAD
+Structure Fire,Alarm,SUPPORT,322,Alarm.Structure Fire.SUPPORT
+Structure Fire,Alarm,TRUCK,61843,Alarm.Structure Fire.TRUCK
+Structure Fire,Fire,CHIEF,10284,Fire.Structure Fire.CHIEF
+Structure Fire,Fire,ENGINE,12951,Fire.Structure Fire.ENGINE
+Structure Fire,Fire,INVESTIGATION,737,Fire.Structure Fire.INVESTIGATION
+Structure Fire,Fire,MEDIC,3768,Fire.Structure Fire.MEDIC
+Structure Fire,Fire,PRIVATE,309,Fire.Structure Fire.PRIVATE
+Structure Fire,Fire,RESCUE CAPTAIN,1687,Fire.Structure Fire.RESCUE CAPTAIN
+Structure Fire,Fire,RESCUE SQUAD,3154,Fire.Structure Fire.RESCUE SQUAD
+Structure Fire,Fire,SUPPORT,937,Fire.Structure Fire.SUPPORT
+Structure Fire,Fire,TRUCK,7098,Fire.Structure Fire.TRUCK
+Structure Fire,Potentially Life-Threatening,CHIEF,3,Potentially Life-Threatening.Structure Fire.CHIEF
+Structure Fire,Potentially Life-Threatening,ENGINE,6,Potentially Life-Threatening.Structure Fire.ENGINE
+Structure Fire,Potentially Life-Threatening,MEDIC,2,Potentially Life-Threatening.Structure Fire.MEDIC
+Structure Fire,Potentially Life-Threatening,RESCUE CAPTAIN,1,Potentially Life-Threatening.Structure Fire.RESCUE CAPTAIN
+Structure Fire,Potentially Life-Threatening,RESCUE SQUAD,1,Potentially Life-Threatening.Structure Fire.RESCUE SQUAD
+Structure Fire,Potentially Life-Threatening,SUPPORT,1,Potentially Life-Threatening.Structure Fire.SUPPORT
+Structure Fire,Potentially Life-Threatening,TRUCK,2,Potentially Life-Threatening.Structure Fire.TRUCK
+Suspicious Package,Fire,CHIEF,21,Fire.Suspicious Package.CHIEF
+Suspicious Package,Fire,ENGINE,18,Fire.Suspicious Package.ENGINE
+Suspicious Package,Fire,INVESTIGATION,2,Fire.Suspicious Package.INVESTIGATION
+Suspicious Package,Fire,MEDIC,5,Fire.Suspicious Package.MEDIC
+Suspicious Package,Fire,PRIVATE,2,Fire.Suspicious Package.PRIVATE
+Suspicious Package,Fire,RESCUE CAPTAIN,2,Fire.Suspicious Package.RESCUE CAPTAIN
+Suspicious Package,Fire,RESCUE SQUAD,2,Fire.Suspicious Package.RESCUE SQUAD
+Suspicious Package,Fire,SUPPORT,5,Fire.Suspicious Package.SUPPORT
+Suspicious Package,Fire,TRUCK,8,Fire.Suspicious Package.TRUCK
+Traffic Collision,Non Life-threatening,CHIEF,678,Non Life-threatening.Traffic Collision.CHIEF
+Traffic Collision,Non Life-threatening,ENGINE,17100,Non Life-threatening.Traffic Collision.ENGINE
+Traffic Collision,Non Life-threatening,INVESTIGATION,7,Non Life-threatening.Traffic Collision.INVESTIGATION
+Traffic Collision,Non Life-threatening,MEDIC,14744,Non Life-threatening.Traffic Collision.MEDIC
+Traffic Collision,Non Life-threatening,PRIVATE,4935,Non Life-threatening.Traffic Collision.PRIVATE
+Traffic Collision,Non Life-threatening,RESCUE CAPTAIN,1047,Non Life-threatening.Traffic Collision.RESCUE CAPTAIN
+Traffic Collision,Non Life-threatening,RESCUE SQUAD,191,Non Life-threatening.Traffic Collision.RESCUE SQUAD
+Traffic Collision,Non Life-threatening,SUPPORT,238,Non Life-threatening.Traffic Collision.SUPPORT
+Traffic Collision,Non Life-threatening,TRUCK,619,Non Life-threatening.Traffic Collision.TRUCK
+Traffic Collision,Potentially Life-Threatening,CHIEF,3514,Potentially Life-Threatening.Traffic Collision.CHIEF
+Traffic Collision,Potentially Life-Threatening,ENGINE,25722,Potentially Life-Threatening.Traffic Collision.ENGINE
+Traffic Collision,Potentially Life-Threatening,INVESTIGATION,4,Potentially Life-Threatening.Traffic Collision.INVESTIGATION
+Traffic Collision,Potentially Life-Threatening,MEDIC,18970,Potentially Life-Threatening.Traffic Collision.MEDIC
+Traffic Collision,Potentially Life-Threatening,PRIVATE,6779,Potentially Life-Threatening.Traffic Collision.PRIVATE
+Traffic Collision,Potentially Life-Threatening,RESCUE CAPTAIN,5283,Potentially Life-Threatening.Traffic Collision.RESCUE CAPTAIN
+Traffic Collision,Potentially Life-Threatening,RESCUE SQUAD,3778,Potentially Life-Threatening.Traffic Collision.RESCUE SQUAD
+Traffic Collision,Potentially Life-Threatening,SUPPORT,471,Potentially Life-Threatening.Traffic Collision.SUPPORT
+Traffic Collision,Potentially Life-Threatening,TRUCK,4582,Potentially Life-Threatening.Traffic Collision.TRUCK
+Train / Rail Fire,Fire,CHIEF,4,Fire.Train / Rail Fire.CHIEF
+Train / Rail Fire,Fire,ENGINE,3,Fire.Train / Rail Fire.ENGINE
+Train / Rail Fire,Fire,PRIVATE,1,Fire.Train / Rail Fire.PRIVATE
+Train / Rail Fire,Fire,TRUCK,2,Fire.Train / Rail Fire.TRUCK
+Train / Rail Incident,Fire,CHIEF,152,Fire.Train / Rail Incident.CHIEF
+Train / Rail Incident,Fire,ENGINE,157,Fire.Train / Rail Incident.ENGINE
+Train / Rail Incident,Fire,INVESTIGATION,1,Fire.Train / Rail Incident.INVESTIGATION
+Train / Rail Incident,Fire,MEDIC,57,Fire.Train / Rail Incident.MEDIC
+Train / Rail Incident,Fire,PRIVATE,10,Fire.Train / Rail Incident.PRIVATE
+Train / Rail Incident,Fire,RESCUE CAPTAIN,41,Fire.Train / Rail Incident.RESCUE CAPTAIN
+Train / Rail Incident,Fire,RESCUE SQUAD,40,Fire.Train / Rail Incident.RESCUE SQUAD
+Train / Rail Incident,Fire,SUPPORT,24,Fire.Train / Rail Incident.SUPPORT
+Train / Rail Incident,Fire,TRUCK,96,Fire.Train / Rail Incident.TRUCK
+Vehicle Fire,Alarm,CHIEF,3,Alarm.Vehicle Fire.CHIEF
+Vehicle Fire,Alarm,ENGINE,4,Alarm.Vehicle Fire.ENGINE
+Vehicle Fire,Alarm,INVESTIGATION,1,Alarm.Vehicle Fire.INVESTIGATION
+Vehicle Fire,Alarm,MEDIC,1,Alarm.Vehicle Fire.MEDIC
+Vehicle Fire,Alarm,RESCUE SQUAD,1,Alarm.Vehicle Fire.RESCUE SQUAD
+Vehicle Fire,Alarm,TRUCK,3,Alarm.Vehicle Fire.TRUCK
+Vehicle Fire,Fire,AIRPORT,2,Fire.Vehicle Fire.AIRPORT
+Vehicle Fire,Fire,CHIEF,517,Fire.Vehicle Fire.CHIEF
+Vehicle Fire,Fire,ENGINE,3908,Fire.Vehicle Fire.ENGINE
+Vehicle Fire,Fire,INVESTIGATION,249,Fire.Vehicle Fire.INVESTIGATION
+Vehicle Fire,Fire,MEDIC,247,Fire.Vehicle Fire.MEDIC
+Vehicle Fire,Fire,PRIVATE,57,Fire.Vehicle Fire.PRIVATE
+Vehicle Fire,Fire,RESCUE CAPTAIN,69,Fire.Vehicle Fire.RESCUE CAPTAIN
+Vehicle Fire,Fire,RESCUE SQUAD,108,Fire.Vehicle Fire.RESCUE SQUAD
+Vehicle Fire,Fire,SUPPORT,74,Fire.Vehicle Fire.SUPPORT
+Vehicle Fire,Fire,TRUCK,3363,Fire.Vehicle Fire.TRUCK
+Watercraft in Distress,Alarm,CHIEF,5,Alarm.Watercraft in Distress.CHIEF
+Watercraft in Distress,Alarm,ENGINE,4,Alarm.Watercraft in Distress.ENGINE
+Watercraft in Distress,Alarm,MEDIC,1,Alarm.Watercraft in Distress.MEDIC
+Watercraft in Distress,Alarm,RESCUE SQUAD,1,Alarm.Watercraft in Distress.RESCUE SQUAD
+Watercraft in Distress,Alarm,SUPPORT,1,Alarm.Watercraft in Distress.SUPPORT
+Watercraft in Distress,Alarm,TRUCK,2,Alarm.Watercraft in Distress.TRUCK
+Watercraft in Distress,Fire,CHIEF,62,Fire.Watercraft in Distress.CHIEF
+Watercraft in Distress,Fire,ENGINE,155,Fire.Watercraft in Distress.ENGINE
+Watercraft in Distress,Fire,MEDIC,44,Fire.Watercraft in Distress.MEDIC
+Watercraft in Distress,Fire,PRIVATE,9,Fire.Watercraft in Distress.PRIVATE
+Watercraft in Distress,Fire,RESCUE CAPTAIN,34,Fire.Watercraft in Distress.RESCUE CAPTAIN
+Watercraft in Distress,Fire,RESCUE SQUAD,44,Fire.Watercraft in Distress.RESCUE SQUAD
+Watercraft in Distress,Fire,SUPPORT,138,Fire.Watercraft in Distress.SUPPORT
+Watercraft in Distress,Fire,TRUCK,73,Fire.Watercraft in Distress.TRUCK
+Water Rescue,Fire,AIRPORT,2,Fire.Water Rescue.AIRPORT
+Water Rescue,Fire,CHIEF,1721,Fire.Water Rescue.CHIEF
+Water Rescue,Fire,ENGINE,3916,Fire.Water Rescue.ENGINE
+Water Rescue,Fire,INVESTIGATION,1,Fire.Water Rescue.INVESTIGATION
+Water Rescue,Fire,MEDIC,1220,Fire.Water Rescue.MEDIC
+Water Rescue,Fire,PRIVATE,368,Fire.Water Rescue.PRIVATE
+Water Rescue,Fire,RESCUE CAPTAIN,1291,Fire.Water Rescue.RESCUE CAPTAIN
+Water Rescue,Fire,RESCUE SQUAD,1438,Fire.Water Rescue.RESCUE SQUAD
+Water Rescue,Fire,SUPPORT,3694,Fire.Water Rescue.SUPPORT
+Water Rescue,Fire,TRUCK,2223,Fire.Water Rescue.TRUCK
+Water Rescue,Potentially Life-Threatening,CHIEF,7,Potentially Life-Threatening.Water Rescue.CHIEF
+Water Rescue,Potentially Life-Threatening,ENGINE,16,Potentially Life-Threatening.Water Rescue.ENGINE
+Water Rescue,Potentially Life-Threatening,MEDIC,5,Potentially Life-Threatening.Water Rescue.MEDIC
+Water Rescue,Potentially Life-Threatening,PRIVATE,2,Potentially Life-Threatening.Water Rescue.PRIVATE
+Water Rescue,Potentially Life-Threatening,RESCUE CAPTAIN,4,Potentially Life-Threatening.Water Rescue.RESCUE CAPTAIN
+Water Rescue,Potentially Life-Threatening,RESCUE SQUAD,3,Potentially Life-Threatening.Water Rescue.RESCUE SQUAD
+Water Rescue,Potentially Life-Threatening,SUPPORT,12,Potentially Life-Threatening.Water Rescue.SUPPORT
+Water Rescue,Potentially Life-Threatening,TRUCK,6,Potentially Life-Threatening.Water Rescue.TRUCK
+Fuel Spill,Alarm,,2302,Alarm.Fuel Spill
+Traffic Collision,Potentially Life-Threatening,,69103,Potentially Life-Threatening.Traffic Collision
+Outside Fire,Fire,,26747,Fire.Outside Fire
+Other,Potentially Life-Threatening,,1531,Potentially Life-Threatening.Other
+Suspicious Package,Fire,,65,Fire.Suspicious Package
+Watercraft in Distress,Alarm,,14,Alarm.Watercraft in Distress
+Train / Rail Fire,Fire,,10,Fire.Train / Rail Fire
+Water Rescue,Fire,,15874,Fire.Water Rescue
+Confined Space / Structure Collapse,Fire,,331,Fire.Confined Space / Structure Collapse
+Administrative,Fire,,1,Fire.Administrative
+Gas Leak (Natural and LP Gases),Alarm,,12202,Alarm.Gas Leak (Natural and LP Gases)
+Vehicle Fire,Fire,,8594,Fire.Vehicle Fire
+Medical Incident,Potentially Life-Threatening,,1118510,Potentially Life-Threatening.Medical Incident
+Other,Fire,,701,Fire.Other
+Marine Fire,Fire,,174,Fire.Marine Fire
+HazMat,Alarm,,934,Alarm.HazMat
+Train / Rail Incident,Fire,,578,Fire.Train / Rail Incident
+Aircraft Emergency,Fire,,185,Fire.Aircraft Emergency
+Odor (Strange / Unknown),Fire,,52,Fire.Odor (Strange / Unknown)
+Water Rescue,Potentially Life-Threatening,,55,Potentially Life-Threatening.Water Rescue
+Explosion,Fire,,1114,Fire.Explosion
+Structure Fire,Alarm,,205000,Alarm.Structure Fire
+High Angle Rescue,Fire,,693,Fire.High Angle Rescue
+Traffic Collision,Non Life-threatening,,39559,Non Life-threatening.Traffic Collision
+Other,Non Life-threatening,,3622,Non Life-threatening.Other
+Structure Fire,Fire,,40925,Fire.Structure Fire
+Oil Spill,Alarm,,4,Alarm.Oil Spill
+Vehicle Fire,Alarm,,13,Alarm.Vehicle Fire
+Elevator / Escalator Rescue,Alarm,,7131,Alarm.Elevator / Escalator Rescue
+Other,Alarm,,29099,Alarm.Other
+HazMat,Fire,,246,Fire.HazMat
+Citizen Assist / Service Call,Alarm,,32462,Alarm.Citizen Assist / Service Call
+Aircraft Emergency,Alarm,,63,Alarm.Aircraft Emergency
+Odor (Strange / Unknown),Alarm,,3211,Alarm.Odor (Strange / Unknown)
+Mutual Aid / Assist Outside Agency,Fire,,178,Fire.Mutual Aid / Assist Outside Agency
+Watercraft in Distress,Fire,,559,Fire.Watercraft in Distress
+Smoke Investigation (Outside),Alarm,,5212,Alarm.Smoke Investigation (Outside)
+Electrical Hazard,Alarm,,8412,Alarm.Electrical Hazard
+Medical Incident,Non Life-threatening,,537796,Non Life-threatening.Medical Incident
+Assist Police,Alarm,,455,Alarm.Assist Police
+Industrial Accidents,Fire,,440,Fire.Industrial Accidents
+Structure Fire,Potentially Life-Threatening,,16,Potentially Life-Threatening.Structure Fire
+Medical Incident,Alarm,,1452,Alarm.Medical Incident
+Alarms,Alarm,,270521,Alarm.Alarms
+"Extrication / Entrapped (Machinery, Vehicle)",Fire,,402,"Fire.Extrication / Entrapped (Machinery, Vehicle)"
+Outside Fire,Alarm,,3548,Alarm.Outside Fire
+,Alarm,,582035,Alarm
+,Fire,,97869,Fire
+,Non Life-threatening,,580977,Non Life-threatening
+,Potentially Life-Threatening,,1189215,Potentially Life-Threatening
+,root,,2450096,root

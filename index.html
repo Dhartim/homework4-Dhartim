@@ -5,11 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- TODO: Change title -->
-    <title>Website Template</title>
-
-    <!-- Load Bulma from CDN (consider saving it to repository instead) -->
-    <!-- https://bulma.io/ -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+    <title>Homework 4</title>
+    <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/superhero/bulmaswatch.min.css">
+    <link rel="stylesheet" href="style.css">
 
     <!-- Load Font Awesome 5 (free) icons -->
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
@@ -23,9 +21,9 @@
     <div class="hero-body">
       <div class="container">
         <!-- TODO: Change title -->
-        <h1 class="title">Website Title</h1>
+        <h1 class="title">Homework 4</h1>
         <!-- TODO: Change subtitle -->
-        <h2 class="subtitle">Website Subtitle</h2>
+        <h2 class="subtitle">Visualize the data from the Fire Department Calls for Service dataset using hierarchical data visualization techniques in D3 version 5.</h2>
       </div>
     </div>
   </section>
@@ -53,36 +51,25 @@
       <div id="main-menu" class="navbar-menu has-text-weight-medium">
         <!-- Left navbar items -->
         <div class="navbar-start">
-          <a class="navbar-item" href="#data" title="Data">
+          <a class="navbar-item" href="data.html" title="Data">
             <span class="icon"><i class="fas fa-table"></i></span>
             <span>Data</span>
           </a>
 
           <!-- TODO: Modify or remove dropdown -->
           <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-              Visualizations
+            <a class="navbar-link" href="">
+              Hierarchical Visualizations
             </a>
 
             <div class="navbar-dropdown">
-              <a class="navbar-item">
+              <a class="navbar-item" href="tree.html">
                 <span class="icon"><i class="fas fa-chart-line"></i></span>
-                <span>Line Chart</span>
+                <span>Node-Link Diagram</span>
               </a>
-              <a class="navbar-item">
+              <a class="navbar-item" href="spacefilling.html">
                 <span class="icon"><i class="fas fa-chart-area"></i></span>
-                <span>Area Chart</span>
-              </a>
-
-              <hr class="navbar-divider">
-
-              <a class="navbar-item">
-                <span class="icon"><i class="fas fa-chart-bar"></i></span>
-                <span>Bar Chart</span>
-              </a>
-              <a class="navbar-item">
-                <span class="icon"><i class="fas fa-chart-pie"></i></span>
-                <span>Pie Chart</span>
+                <span>Space Filling Diagram</span>
               </a>
             </div>
           </div>
@@ -91,12 +78,12 @@
         <!-- Right navbar items -->
         <div class="navbar-end">
           <!-- TODO: Update as needed -->
-          <a class="navbar-item" href="#about" title="About">
+          <a class="navbar-item" href="#about" title="index.html#grade">
             <span class="icon"><i class="fas fa-tasks"></i></span>
             <span>Grade</span>
           </a>
 
-          <a class="navbar-item" href="#about" title="About">
+          <a class="navbar-item" href="index.html#about" title="About">
             <span class="icon"><i class="fas fa-info-circle"></i></span>
             <span>About</span>
           </a>
@@ -112,125 +99,44 @@
       <div class="content">
         <h1 class="title">
           <!-- TODO: Change page title -->
-          Page Title
+          Hierarchical Visualization
         </h1>
-        <p class="subtitle">
-          <!-- TODO: Change page subtitle -->
-          Page Subtitle
-        </p>
 
-        <p>This would be an excellent place to describe what this page is for, what to find in different sections, describe any motivation or theme behind your visualizations, and so on.</p>
-
+        <p>For this homework, developed and created two visualization which consist of node-link diagram and another one is space filling diagram.</p>
         <p>You should not use this template unless you intend to customize it. Make it your own. Keep in mind this simple template is over 300 lines! You can see other examples of websites using Bulma at their showcase: <a href="https://bulma.io/expo/">bulma.io/expo/</a>.</p>
 
-        <h2 id="data">Data</h2>
-
-        <p>Include some detailed information about the dataset here. You should <a href="#">add a link</a> to the original dataset. You might also want to quote the license:</p>
-
-        <blockquote>
-          <p>
-            "This data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: <a href="http://www.opendatacommons.org/licenses/pddl/1.0/">www.opendatacommons.org/licenses/pddl/1.0/</a>"
-          </p>
-          <cite>Put a citation here, possibly link to the dataset license information directly.</cite>
-        </blockquote>
-
-        <p>In addition to including a link to the source and license, you should describe the data. You might want a list of some sort to enumerate the different types of columns:</p>
-
-        <ol>
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
-
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
-
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
-
-          <li><strong>Column Name:</strong> Give a description of the column, including its type and possible range of values.</li>
-        </ol>
-
-        <p>This will of course differ depending on the assignment and data.</p>
-
-        <h3 id="wrangling">Wrangling</h3>
-
-        <p>Perhaps you had to do some data wrangling to the original dataset to prepare it for visualization. This would be a great place to discuss some of that wrangling.
-
-        <pre>
-You can even put code into these pre blocks.
-  It will preserve whitespace.
-    That is helpful for formatted code.
-        </pre>
-
-        <p>You can alternatively embed a Gist if you want. There is an "embed" button on <a href="https://gist.github.com/octocat/6cad326836d38bd3a7ae">the Gist page</a> and results in something like this:</p>
-
-        <script src="https://gist.github.com/octocat/6cad326836d38bd3a7ae.js"></script>
-
         <h2 id="visualizations">Visualizations</h2>
-
-        <p>Ideally not everything would be on a single page like this example. Instead, you might want to put each section in its own webpage. You would need to carefully replicate the page template (with the header, navbar, and footer) and make the necessary updates. For example, you want the "About" navbar item to be considered active on an "About" web page.</p>
-
-        <p>For now this is just a demo. The buttons below do not go anywhere, but can be easily changed to link to different visualization pages.</p>
-
         <p class="buttons">
-          <a class="button is-large is-success" href="#">
+          <a class="button is-large is-success" href="tree.html">
             <span class="icon is-medium">
               <i class="fas fa-chart-line"></i>
             </span>
-            <span>Line Chart</span>
+            <span>Node Link Diagram</span>
           </a>
 
-          <a class="button is-large is-primary" href="#">
+          <a class="button is-large is-primary" href="spacefilling.html">
             <span class="icon is-medium">
               <i class="fas fa-chart-area"></i>
             </span>
-            <span>Area Chart</span>
-          </a>
-
-          <a class="button is-large is-info" href="#">
-            <span class="icon is-medium">
-              <i class="fas fa-chart-bar"></i>
-            </span>
-            <span>Bar Chart</span>
-          </a>
-
-          <a class="button is-large is-link" href="#">
-            <span class="icon is-medium">
-              <i class="fas fa-chart-pie"></i>
-            </span>
-            <span>Pie Chart</span>
+            <span>Space Filling Diagram</span>
           </a>
         </p>
 
-        <!-- https://github.com/vega/vega-embed#basic-example -->
-        <p>It is possible to embed some visualizations directly here too. Here is <a href="https://github.com/vega/vega-embed#basic-example">an example</a> using Vega-Lite:</p>
-
-        <script src="https://cdn.jsdelivr.net/npm/vega@5.9.0"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-lite@4.0.2"></script>
-        <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.2.1"></script>
-
         <div id="vis"></div>
-
-        <script type="text/javascript">
-        var spec = "https://raw.githubusercontent.com/vega/vega/master/docs/examples/bar-chart.vg.json";
-        vegaEmbed('#vis', spec).then(function(result) {
-          // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-        }).catch(console.error);
-        </script>
 
         <h4>Instructions</h4>
 
-        <p>You will likely need to include instructions on how to interpet and use the visualization. In the case above, if you click the three dots <i class="fas fa-ellipsis-h has-text-grey-light	"></i> above it will open a menu where you can either save the visualization to a SVG or PNG, or alternatively open it up in the online Vega Editor.</p>
-
-        <h4>Discussion</h4>
-
-        <p>You may also need other sections, like a discussion section, per-visualization section on data wrangling, and others. Because of the extra content and code visualizations take, it might be worthwhile to break up your pages into one home page and then one page per visualization.</p>
+        <p> Click on these buttons to see visualization</p>
 
         <span class="heading">Acknowledgements</span>
 
         <p>
-          <a href="#">Link to insiration</a><br/>
-          <a href="#">Link to StackOverflow snippet</a>
+          <a href="https://observablehq.com/@sjengle/java-11-api-hierarchy-data-wrangling">Java 11 Wrangling</a><br/>
+          <a href="https://observablehq.com/@sjengle/java-11-api-hierarchy-visualization">Java 11 Visualization</a>
         </p>
 
         <p class="is-6">
-          <em>Thanks to Person Name for their suggestion to do something with the visualization.</em>
+          <em>Thanks to Professor Sophie for their Lab Java 11 Example.</em>
         </p>
 
         <h2 id="grade">Grade</h2>
@@ -258,25 +164,25 @@ You can even put code into these pre blocks.
             <tr>
               <td>D</td>
               <td><i class="has-text-success fas fa-check-circle"></i></td>
-              <td>Discussion of how this grade level was satisfied. Exactly how this section should look will depend on the assignment in question. There is no requirement for formatting in this way. This is just an example of what a table element might look like for this informaiton.</td>
+              <td> Wrangle data into a hierarchical JSON format.</td>
             </tr>
 
             <tr>
               <td>C</td>
               <td><i class="has-text-success fas fa-check-circle"></i></td>
-              <td>Discussion of how this grade level was satisfied.</td>
+              <td>The D-level requirements plus implement one node/link diagram with details-on-demand interactivity in D3v5.</td>
             </tr>
 
             <tr>
               <td>B</td>
-              <td><i class="has-text-warning far fa-check-circle"></i></td>
-              <td>Discussion of how this grade level was satisfied.</td>
+              <td><i class="has-text-success fas fa-check-circle"></i></td>
+              <td>The C-level requirements plus implement one space filling diagram with details-on-demand interactivity in D3v5.</td>
             </tr>
 
             <tr>
               <td>A</td>
-              <td><i class="has-text-danger fas fa-times-circle"></i></td>
-              <td>Discussion of how this grade level was not satisfied.</td>
+              <td><i class="has-text-success fas fa-check-circle"></i></td>
+              <td>The B level requirements plus filtering, brushing, or zooming for one of the visualizations.</td>
             </tr>
           </tbody>
 
@@ -285,26 +191,24 @@ You can even put code into these pre blocks.
         <h2 id="about">About</h2>
 
         <!-- Profile box -->
-        <!-- https://bulma.io/documentation/layout/media-object/ -->
         <article class="media">
           <!-- TODO: Replace with profile photo -->
           <figure class="media-left">
-            <p class="image is-128x128"><img class="is-rounded" src="profile.png"></p>
-          </figure>
+            <p class="image is-128x128"><img class="is-rounded" src="dharti.jpeg" /></p></figure>
 
           <div class="media-content">
             <div class="content">
               <!-- TODO: Replace with contact information -->
               <p>
-                <strong>Full Name</strong><br/>
+                <strong>Dharti Madeka</strong><br/>
                 CS Major, <a href="https://www.usfca.edu/">University of San Francisco</a><br/>
-                <em>Expected Graduation: 20??</em><br/>
-                <i class="fas fa-envelope"></i> <a href="mailto:username@dons.usfca.edu">username@dons.usfca.edu</a>
-              </p>
-
-              <!-- TODO: Replace with brief biography -->
-              <p>
-                Here is a brief bio about yourself. A good rule of thumb is to include at least one technical tidbit (favorite area or course within computer science), and one fun tidbit (such as loving dogs).
+                <em>Expected Graduation: May, 2020</em><br/>
+                <i class="fas fa-envelope"></i> <a href="mailto:dpmadeka@dons.usfca.edu">dpmadeka@dons.usfca.edu</a>
+                <br/>
+                <i class="fab fa-github-alt"></i> <a href="https://github.com/Dhartim">Github</a>
+                <br/>
+                <i class="fab fa-linkedin-in"></i> <a href="https://www.linkedin.com/in/ dharti-madeka">Linkedin</a>
+                <br/>
               </p>
 
               <!-- TODO: Replace or remove tags -->
@@ -312,13 +216,18 @@ You can even put code into these pre blocks.
               <div class="heading">Skills</div>
 
               <div class="tags">
-                <span class="tag">Python</span>
-                <span class="tag">C</span>
                 <span class="tag">Java</span>
                 <span class="tag">JavaScript</span>
                 <span class="tag">HTML</span>
                 <span class="tag">CSS</span>
-                <span class="tag">SVG</span>
+                <span class="tag">Github / Git</span>
+                <span class="tag">BootStrap</span>
+                <span class="tag">REST</span>
+                <span class="tag">UI/UX Design thinking</span>
+                <span class="tag">ReactJS</span>
+                <span class="tag">MySQL</span>
+                <span class="tag">OracleDB</span>
+                <span class="tag">PostgreSQL</span>
               </div>
             </div>
           </div>
@@ -350,6 +259,9 @@ You can even put code into these pre blocks.
         <a href="https://fontawesome.com/" class="button is-small" style="padding-left: 1em; padding-right: 1em;">
           <i class="fab fa-font-awesome"></i>&nbsp;<strong>FontAwesome</strong>
         </a>
+        <a href="https://d3js.org/" class="button is-small" style="padding: 1em;">
+          <img src="https://raw.githubusercontent.com/d3/d3-logo/master/d3.png" style="height: 20px; padding-left: 5px;">
+        </a>
 
         <a href="https://bulma.io" class="button is-small">
           <img src="https://bulma.io/images/made-with-bulma--semiblack.png" alt="Made with Bulma" width="128" height="24">
@@ -379,5 +291,4 @@ You can even put code into these pre blocks.
   </script>
   <!-- End mobile menu responsiveness -->
   </body>
-
 </html>

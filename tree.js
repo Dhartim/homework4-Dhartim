@@ -35,9 +35,6 @@ let drawTreeChart = function(data) {
   let diameter = 500;
   //create svg
   //let svg = d3.select("#tree").style("width", width).style("height", height);
-
-
-
   //create svg for cartesian cordinates
   let svg = d3.select("#tree")
   .attr("width", width)
@@ -70,9 +67,11 @@ let drawTreeChart = function(data) {
   //plot layer
   // let plot = svg.append("g").attr("id", "plot").attr("transform", translate(pad, pad));
 
-  //plot for cartesian and zoom 
+  //plot for cartesian and zoom
+  // https://www.d3-graph-gallery.com/graph/interactivity_zoom.html
   let plot = svg
   .call(d3.zoom()
+  .extent([[0, 0], [width/2, diameter/2]])
   .on("zoom", function () {
        plot.attr("transform", d3.event.transform)
     }))
@@ -83,9 +82,9 @@ let drawTreeChart = function(data) {
 
   ;
 
-  window.color = d3.scaleSequential([
-    tree.height, 0
-  ], d3.interpolateViridis);
+  window.color = d3.scaleOrdinal()
+                 .range(["#f87614"," #e42308","#fab520","#5f160e"],
+    tree.height, 0);
   drawLinks(plot.append("g"), tree.links());
   drawNodes(plot.append("g"), tree.descendants(), true);
   //interactivity highlight on mouse over and out
@@ -94,6 +93,9 @@ let drawTreeChart = function(data) {
   }).on("mouseout.tree", function(d) {
     plot.selectAll("circle.node").data([d], node => node.data.name).lower().classed('selected', false);
   });
+
+//TODO:// add legend
+
 
   return svg.node();
 }

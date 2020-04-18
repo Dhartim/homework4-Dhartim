@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Homework 4</title>
+
+  <!-- Load Bulma from CDN (consider saving it to repository instead) -->
+  <!-- https://bulma.io/ -->
+  <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/superhero/bulmaswatch.min.css">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Load Font Awesome 5 (free) icons -->
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+</head>
+
+<body>
+
+  <!-- Page header -->
+  <!-- https://bulma.io/documentation/layout/hero/ -->
+  <section class="hero is-primary is-bold">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">Homework 4</h1>
+        <h2 class="subtitle">Visualize the data from the Fire Department Calls for Service dataset using hierarchical data visualization techniques in D3 version 5.</h2>
+      </div>
+    </div>
+  </section>
+  <!-- End page header -->
+
+  <nav class="navbar is-light" role="navigation" aria-label="main navigation">
+    <div class="container">
+      <div class="navbar-brand">
+        <!-- TODO: Change link to repository homepage if needed -->
+        <!-- TODO: Change which navbar-item is-active if needed -->
+        <a class="navbar-item is-active" href="index.html">
+          <span class="icon"><i class="fas fa-home"></i></span>
+          <span>Home</span>
+        </a>
+
+        <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="main-menu">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+
+      <div id="main-menu" class="navbar-menu has-text-weight-medium">
+        <!-- Left navbar items -->
+        <div class="navbar-start">
+          <a class="navbar-item" href="data.html" title="Data">
+            <span class="icon"><i class="fas fa-table"></i></span>
+            <span>Data</span>
+          </a>
+
+          <!-- TODO: Modify or remove dropdown -->
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link" href="">
+              Hierarchical Visualizations
+            </a>
+
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="tree.html">
+                <span class="icon"><i class="fas fa-chart-line"></i></span>
+                <span>Node-Link Diagram</span>
+              </a>
+              <a class="navbar-item" href="spacefilling.html">
+                <span class="icon"><i class="fas fa-chart-area"></i></span>
+                <span>Space Filling Diagram</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Right navbar items -->
+        <div class="navbar-end">
+          <!-- TODO: Update as needed -->
+          <a class="navbar-item" href="#about" title="index.html#grade">
+            <span class="icon"><i class="fas fa-tasks"></i></span>
+            <span>Grade</span>
+          </a>
+
+          <a class="navbar-item" href="index.html#about" title="About">
+            <span class="icon"><i class="fas fa-info-circle"></i></span>
+            <span>About</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <!-- End page navigation -->
+
+  <section class="section">
+    <div class="container">
+      <!-- Begin page content -->
+      <div class="content">
+        <h2 id="data">Data</h2>
+
+        <p>This dataset is the <a href="https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3">Fire Department Calls for Service</a> fom <a href="https://datasf.org/opendata/">DataSF</a>.
+          This dataset includes many aspects of the calls for services from response time to location of the call. The license for the data is as follows:</p>
+
+        <blockquote>
+          <p>
+            "This data is made available under the Public Domain Dedication and License v1.0 whose full text can be found at: <a href="http://www.opendatacommons.org/licenses/pddl/1.0/">www.opendatacommons.org/licenses/pddl/1.0/</a>"
+          </p>
+          <cite>OpenData. 2020. Fire Department Calls for Service [CSV File]. Retrieved from <a
+              href="https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3">https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3</a> on April 15, 2020.</cite>
+        </blockquote>
+
+        <p>
+          Some quick stats about the data defined from the website are:<br />
+          <div class="tags is-centered">
+            <span class="tag is-danger is-medium is-rounded"><b>5.2M</b>&nbsp;Rows**</span>
+            <span class="tag is-danger is-medium is-rounded"><b>34</b>&nbsp;Columns</span>
+            <span class="tag is-danger is-medium is-rounded">Each row is a&nbsp;<b>Response</b></span>
+            <span class="tag is-danger is-medium is-rounded"><b>1.77GB</b>&nbsp;CSV file size**</span>
+            <span class="tag is-danger is-medium is-rounded">md5sum checksum:&nbsp;<b>4c1c6aaf464e1aeca7f39c2bca82a0d6</b>**</span>
+            <span class="tag is-danger is-medium is-rounded">Last Updated (at retrieval):&nbsp;<b>April 15, 2020</b></span>
+          </div>
+        </p>
+
+        <p>
+          <strong>
+            **Note that this dataset is constantly being updated, so number like
+            the rows, size of file, and checksum will be different depending on
+            your retrieval time.
+          </strong>
+        </p>
+
+        <p>The columns defined on the site for the <a href="https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3">data</a> shown below.
+          Note that following columns will be emphasized columns in the visualizations.</p>
+
+        <div class="table-container">
+          <table class="table is-hoverable">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Column</th>
+                <th>Description</th>
+                <th>Type</th>
+                <th>Values</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th>1</th>
+                <td>Incident Number</td>
+                <td>A unique 8-digit number assigned by DEM to this Fire incident.</td>
+                <td>Text</td>
+                <td>[10018420, 20018419,...]</td>
+              </tr>
+              <tr>
+                <th>2</th>
+                <td>Call Type</td>
+                <td>Type of call the incident falls into. See the list below.</td>
+                <td>Text</td>
+                <td>[Medical Incident, Alarms, Citizen Assist/Service Call, Odor (Strange / Unknown), Structure Fire, Electrical Hazard, Other]</td>
+              </tr>
+
+              <tr>
+                <th>3</th>
+                <td>Call Type Group</td>
+                <td>Call types are divided into four main groups: Fire, Alarm, Potential Life Threatening and Non Life Threatening.</td>
+                <td>Text</td>
+                <td>[Non Life-threatening, Potentially Life-Threatening, Alarm, Fire,...]</td>
+              </tr>
+              <tr>
+                <th>4</th>
+                <td>Unit Type</td>
+                <td>Unit type</td>
+                <td>Text</td>
+                <td>[ENGINE, MEDIC, TRUCK, PRIVATE, CHIEF, RESCUE SQUAD]</td>
+              </tr>
+              <tr>
+                <th>5</th>
+                <td>Neighborhoods - Analysis Boundaries</td>
+                <td>Neighborhood District associated with this address, boundaries available here: https://data.sfgov.org/d/p5b7-5n3h</td>
+                <td>Text</td>
+                <td>[Western Addition, South of Market, Haigh Ashbury, Mission, Nob Hill, Tenderloin, Golden Gate Park,...]</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        <h3>Filtering</h3>
+        <p>
+          The dataset was reduced to the last 5 years, roll up by Call type group, call type, Neighborhood, unit type and counted over incident number using the
+          <a href="https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3/data">DataSF web interface</a>.
+          Data that is used for the visualizations do not use null or malformed
+          entries. Additionally two csv files are generated using Google sheets. In each of these csv files one more Additional colum is added called NodeID, which is as follows:
+          <table class="table is-hoverable">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Column</th>
+                <th>Description</th>
+                <th>Type</th>
+                <th>Values</th>
+              </tr>
+            </thead>
+            <tbody>
+          <tr>
+            <th>6</th>
+            <td>NodeID</td>
+            <td>Unique Identifier which has values concatenated from Call Type ,Call Type Group , Unit type or Neighborhood as per visualization</td>
+            <td>Text</td>
+            <td>Alarms.Alarm.TRUCK OR  Alarms.Alarm.Mission</td>
+          </tr>
+        </tbody>
+      </table>
+        </p>
+      </div>
+      <!-- End page content -->
+    </div>
+  </section>
+
+  <!-- Page footer -->
+  <!-- https://bulma.io/documentation/layout/footer/ -->
+  <footer class="footer">
+    <div class="content has-text-centered is-size-7">
+      <p>
+        <a href="#top">
+          <span class="fas fa-arrow-up"></span>
+          <span class="has-text-weight-medium">Back to Top</span>
+        </a>
+      </p>
+
+      <p>
+        <a href="https://github.com/usf-cs360-spring2020/midterm-datasetgo" class="button is-small is-rounded" style="margin-left:10px; padding-left: 1em; padding-right: 1em;">
+          <i class="fab fa-github-alt"></i>&nbsp;<strong>Github</strong>
+        </a>
+
+        <a href="https://fontawesome.com/" class="button is-small is-rounded" style="margin-left:10px; padding-left: 1em; padding-right: 1em;">
+          <i class="fab fa-font-awesome"></i>&nbsp;<strong>FontAwesome</strong>
+        </a>
+
+        <a href="https://bulma.io" class="button is-small is-rounded" style="margin-left:10px;">
+          <img src="https://bulma.io/images/bulma-logo-white.png" alt="Made with Bulma" height="24" style="height: 12px;">
+        </a>
+
+        <a href="https://www.tableau.com" class="button is-small is-rounded" style="margin-left:10px;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" style="height: 20px; padding-left: 5px;-webkit-filter: invert(100%);filter: invert(100%);" />
+        </a>
+      </p>
+    </div>
+  </footer>
+  <!-- End page footer -->
+
+  <!-- Mobile menu responsiveness -->
+  <!-- https://bulma.io/documentation/components/navbar/ -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+
+      if ($navbarBurgers.length > 0) {
+        $navbarBurgers.forEach(el => {
+          el.addEventListener('click', () => {
+            const target = el.dataset.target;
+            const $target = document.getElementById(target);
+            el.classList.toggle('is-active');
+            $target.classList.toggle('is-active');
+          });
+        });
+      }
+    });
+  </script>
+  <!-- End mobile menu responsiveness -->
+</body>
+
+</html>

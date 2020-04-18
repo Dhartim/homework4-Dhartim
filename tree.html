@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Homework 3 </title>
+  <title>Homework 4 </title>
   <script src="https://d3js.org/d3.v5.min.js"></script>
   <!-- include d3.js modules -->
   <script src="https://d3js.org/d3-array.v2.min.js"></script>
@@ -12,7 +12,7 @@
   <script src="tree.js"></script>
   <script src="count.js"></script>
   <link rel="stylesheet" href="style.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+  <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/superhero/bulmaswatch.min.css">
   <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 </head>
 
@@ -23,9 +23,9 @@
     <div class="hero-body">
       <div class="container">
         <!-- TODO: Change title -->
-        <h1 class="title">Homework 3 </h1>
+        <h1 class="title">Homework 4 </h1>
         <!-- TODO: Change subtitle -->
-        <h2 class="subtitle">Geospatial data visualization</h2>
+        <h2 class="subtitle">Hierarchical data visualization </h2>
       </div>
     </div>
   </section>
@@ -36,8 +36,7 @@
   <nav class="navbar is-light" role="navigation" aria-label="main navigation">
     <div class="container">
       <div class="navbar-brand">
-        <!-- TODO: Change link to repository homepage if needed -->
-        <!-- TODO: Change which navbar-item is-active if needed -->
+
         <a class="navbar-item" href="index.html">
           <span class="icon"><i class="fas fa-home"></i></span>
           <span>Home</span>
@@ -59,11 +58,21 @@
           </a>
 
           <!-- TODO: Modify or remove dropdown -->
-          <div class="navbar-start">
-            <a class="navbar-item is-active" href="map.html">
-              <span class="icon"><i class="fas fa-map-marked-alt"></i></span>
-              <span>Map Visualization</span>
+          <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link" href="">
+              Hierarchical Visualizations
             </a>
+
+            <div class="navbar-dropdown">
+              <a class="navbar-item" href="tree.html">
+                <span class="icon"><i class="fas fa-chart-line"></i></span>
+                <span>Node-Link Diagram</span>
+              </a>
+              <a class="navbar-item" href="spacefilling.html">
+                <span class="icon"><i class="fas fa-chart-area"></i></span>
+                <span>Space Filling Diagram</span>
+              </a>
+            </div>
           </div>
         </div>
 
@@ -84,42 +93,32 @@
     </div>
   </nav>
   <section class="section">
-    <h1 class="title">Non Proportional Symbol Map Visualization </h1>
+    <h1 class="title">Hierarchical Visualization </h1>
     <figure class="figure">
       <svg id="tree">
-        <!-- <g id="basemap"></g>
-        <!-- turn off pointer events for certain groups -->
-        <!--<g id="streets" pointer-events="none"></g>
-        <g id="outline" pointer-events="none"></g>
-
-        <g id="arrests"></g>
-        <g id="tooltip" pointer-events="none"></g>
-        <g id="details" pointer-events="none"></g> -->
       </svg>
       <figcaption>
-        <cite>Data Source: <a href="https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6">311 Cases for Rec / Park</a> (<a href=" https://data.sfgov.org/Geographic-Locations-and-Boundaries/SF-Find-Neighborhoods/pty2-tcw4">Neighborhoods</a>, <a href="https://data.sfgov.org/Geographic-Locations-and-Boundaries/Streets-Active-and-Retired/3psu-pn9h">Streets</a>)</cite>
+        <cite>Data Source: <a href="https://data.sfgov.org/Public-Safety/Fire-Department-Calls-for-Service/nuek-vuh3">Fire SF Dataset</a></cite>
         <br/>Dharti Madeka
       </figcaption>
     </figure>
     <script type="text/javascript">
       d3.csv("dataviz.csv", convertRow).then(drawTreeChart);
     </script>
+    <br/>
     <div class="container">
       <!-- Begin page content -->
       <div class="content">
         <h2 >Encoding</h2>
-        <p>For this visualization, Request Type is encoded with color and it represents different type of request made in Category Park and Rec.
-          Longitude and Latitude are encoded in basemap. Details are shown in tooltip. Each circle represent one row of complaint for park and rec from SF 311Cases dataset.
+        <p>For this visualization, level or height of hierarchical data is encoded using color. each node represent one row in dataset. Each row is converted into hierarchical tree data using d3.stratify().
         </p>
         <h2>Wrangling </h2>
-        <p>Original dataset is updating everyday. It consist of 20 columns and more than 400K rows in it. It has various categories. The dataset which is used in visualization is filtered
-          based on Opened Date as month of February, 2020 and Category is Park / Rec.</p>
+        <p>Original dataset is updating everyday. This dataset consist of 996 rows. Dataset is modified using Google sheet and javascript to convert it into hierarchical dataset. Each row is given unique id and a nodeId which generates parent for each record</p>
         <h2>Interactivity</h2>
-        <p>Implemented Details on Demand and brushing technique as an interactivity. Here is the .gif of it to show demonstration of it.</p>
+        <p>Implemented Details on Demand and zooming technique as an interactivity. Here is the .gif of it to show demonstration of it.</p>
         <!-- <img src="map.gif" width="500px" height="500px"style="border: 1px solid black;"> -->
         <h2>Conclusion </h2>
-        <p>From this visualization, it is conclude and observed that most of the cases are Structural Maintenance near Golden Gate Park encoded with greenish color and all over
-          SF there are maximum cases of Park-Patrol encoded in orange color. It has least cases for Urban Forestry.</p>
+        <p>From this visualization, it is conclude that there are various call type group and each of them is further divided into various call-type categories. Each of these categories has incidents in different Neighborhooods. Here each node shows total number of incidents within that call-type group and call-type category</p>
       </div>
     </div>
   </section>
