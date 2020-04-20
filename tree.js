@@ -69,24 +69,26 @@ let drawTreeChart = function(data) {
 
   //plot for cartesian and zoom
   // https://www.d3-graph-gallery.com/graph/interactivity_zoom.html
+
   let plot = svg
-  .call(d3.zoom()
-  .extent([[0, 0], [width/2, diameter/2]])
-  .on("zoom", function () {
-       plot.attr("transform", d3.event.transform)
-    }))
   .append("g")
   .attr("id", "plot")
-  .attr("transform", translate(width / 2, diameter / 2))
-
-
-  ;
+  .attr("transform", translate(width / 2, diameter / 2));
+  
+  //to get zoom in center
+  let subplot = plot.append("g")
+  .attr("id", "subplot")
+  .call(d3.zoom()
+  .extent([[0, 0], [width/20, diameter/20]])
+  .on("zoom", function () {
+       subplot.attr("transform", d3.event.transform)
+    }));
 
   window.color = d3.scaleOrdinal()
                  .range(["#f87614"," #e42308","#fab520","#5f160e"],
     tree.height, 0);
-  drawLinks(plot.append("g"), tree.links());
-  drawNodes(plot.append("g"), tree.descendants(), true);
+  drawLinks(subplot.append("g").attr("id", "link"), tree.links());
+  drawNodes(subplot.append("g").attr("id", "nodes"), tree.descendants(), true);
   //interactivity highlight on mouse over and out
   plot.selectAll("circle.node").on("mouseover.tree", function(d) {
     plot.selectAll("circle.node").data([d], node => node.data.name).raise().classed('selected', true);
@@ -94,7 +96,62 @@ let drawTreeChart = function(data) {
     plot.selectAll("circle.node").data([d], node => node.data.name).lower().classed('selected', false);
   });
 
-//TODO:// add legend
+
+//legend
+  //add color circles
+  svg.append("circle")
+    .attr("cx", width - 200)
+    .attr("cy", height - 140)
+    .attr("r", 5)
+    .style("fill", "#f87614")
+    .style("stroke", "white")
+  svg.append("circle")
+    .attr("cx", width - 200)
+    .attr("cy", height - 160)
+    .attr("r", 5)
+    .style("fill", "#e42308")
+    .style("stroke", "white")
+  svg.append("circle")
+    .attr("cx", width - 200)
+    .attr("cy", height - 180)
+    .attr("r", 5)
+    .style("fill", "#fab520")
+    .style("stroke", "white")
+  svg.append("circle")
+    .attr("cx", width - 200)
+    .attr("cy", height - 200)
+    .attr("r", 5)
+    .style("fill", "#5f160e")
+    .style("stroke", "white")
+
+  //add text
+  svg.append("text")
+    .attr("class", "legend-text")
+    .attr("x", width - 180)
+    .attr("y", height - 160)
+    .text("Call Type Group")
+    .attr("alignment-baseline", "middle")
+  svg
+    .append("text")
+    .attr("class", "legend-text")
+    .attr("x", width - 180)
+    .attr("y", height - 140)
+    .text("root")
+    .attr("alignment-baseline", "middle")
+    svg
+      .append("text")
+      .attr("class", "legend-text")
+      .attr("x", width - 180)
+      .attr("y", height - 180)
+      .text("Call Type")
+      .attr("alignment-baseline", "middle");
+    svg
+      .append("text")
+      .attr("class", "legend-text")
+      .attr("x", width - 180)
+      .attr("y", height - 200)
+      .text("Neighborhood")
+      .attr("alignment-baseline", "middle");
 
 
   return svg.node();

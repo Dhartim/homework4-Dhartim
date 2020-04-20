@@ -12,6 +12,7 @@
   stroke: red !important;
 }
 
+.legend-text,
 text#tooltip {
   font-family: sans-serif;
   fill: white;

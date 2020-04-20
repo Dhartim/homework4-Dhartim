@@ -86,6 +86,61 @@ let drawSpaceChart = function(data) {
   drawNodes(plot.append("g"), tree.descendants(), false);
 
 //TODO:// add legend
+//legend
+  //add color circles
+  svg.append("circle")
+    .attr("cx", width - 200)
+    .attr("cy", height - 140)
+    .attr("r", 5)
+    .style("fill", "#f87614")
+    .style("stroke", "white")
+  svg.append("circle")
+    .attr("cx", width - 200)
+    .attr("cy", height - 160)
+    .attr("r", 5)
+    .style("fill", "#e42308")
+    .style("stroke", "white")
+  svg.append("circle")
+    .attr("cx", width - 200)
+    .attr("cy", height - 180)
+    .attr("r", 5)
+    .style("fill", "#fab520")
+    .style("stroke", "white")
+  svg.append("circle")
+    .attr("cx", width - 200)
+    .attr("cy", height - 200)
+    .attr("r", 5)
+    .style("fill", "#5f160e")
+    .style("stroke", "white")
+
+  //add text
+  svg.append("text")
+    .attr("class", "legend-text")
+    .attr("x", width - 180)
+    .attr("y", height - 160)
+    .text("Call Type")
+    .attr("alignment-baseline", "middle")
+  svg
+    .append("text")
+    .attr("class", "legend-text")
+    .attr("x", width - 180)
+    .attr("y", height - 140)
+    .text("Call Type Group")
+    .attr("alignment-baseline", "middle")
+    svg
+      .append("text")
+      .attr("class", "legend-text")
+      .attr("x", width - 180)
+      .attr("y", height - 180)
+      .text("Unit Type")
+      .attr("alignment-baseline", "middle");
+    svg
+      .append("text")
+      .attr("class", "legend-text")
+      .attr("x", width - 180)
+      .attr("y", height - 200)
+      .text("root")
+      .attr("alignment-baseline", "middle");
 
 
   return svg.node();
